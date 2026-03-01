@@ -1,1 +1,2 @@
-# Bambo_menu
+Copyright (C) [2026] [hgjoni20]
+​All rights reserved. No part of this software may be copied, distributed, or modified without the prior written permission of the author.
