@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="sq">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bambo Restaurant Menu</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="lang-row sticky-top">
+  <button onclick="changeLanguage('sq')"><img src="assets/albania.png" alt="SQ"></button>
+  <button onclick="changeLanguage('en')"><img src="assets/united-kingdom.png" alt="EN"></button>
+  <!-- action buttons group pushed to right -->
+  <div class="action-group">
+    <button class="action-btn" onclick="window.open('https://maps.app.goo.gl/j15mpzdMriJyNZQN9')">
+      <img src="assets/map.png" alt="Location">
+    </button>
+    <button class="action-btn" onclick="window.location.href='https://wa.me/355694884550'">
+  <img src="assets/whatsapp(1).png" alt="WhatsApp">
+</button>
+
+  </div>
+</div>
+
+<div class="banner">
+  <img src="assets/banneri.jpg" alt="Restaurant Banner">
+</div>
+
+<div class="sticky-controls">
+  <div class="search-container">
+    <input type="text" id="menuSearch" placeholder="Kërko ushqimin..." onkeyup="searchMenu()">
+    <i data-lucide="search" class="search-icon"></i>
+  </div>
+  <div id="categories" class="categories-scroll"></div>
+</div>
+
+<div id="products" class="products"></div>
+
+
+<script src="script.js"></script>
+</body>
+</html>
