@@ -7,26 +7,23 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
-<div class="lang-row sticky-top">
-  <button onclick="changeLanguage('sq')"><img src="assets/albania.png" alt="SQ"></button>
-  <button onclick="changeLanguage('en')"><img src="assets/united-kingdom.png" alt="EN"></button>
-  <button onclick="changeLanguage('it')"><img src="assets/italy.png" alt="IT"></button>
-  <!-- action buttons group pushed to right -->
-  <div class="action-group">
-    <button class="action-btn" onclick="window.open('https://maps.app.goo.gl/j15mpzdMriJyNZQN9')">
-      <img src="assets/map.png" alt="Location">
-    </button>
-    <button class="action-btn" onclick="window.location.href='https://wa.me/355694884550'">
-  <img src="assets/whatsapp(1).png" alt="WhatsApp">
-</button>
-
-  </div>
-</div>
-
 <div class="banner">
   <img src="assets/banneri.webp" alt="Restaurant Banner">
 </div>
+<div class="lang-section sticky-top">
+  <button type="button" class="lang-main-btn modernized-btn about-btn" id="langBtn" onclick="toggleLanguages()">
+    Languages
+  </button>
+  
+  <div id="languageOptions" class="slide-menu modernized-slide">
+    <button onclick="changeLanguage('sq')"><img src="assets/albania.png"></button>
+    <button onclick="changeLanguage('en')"><img src="assets/united-kingdom.png"></button>
+    <button onclick="changeLanguage('it')"><img src="assets/italy.png"></button>
+  </div>
+
+  <a href="#main-footer" class="about-btn modernized-btn">About</a>
+</div>
+
 
 <div class="sticky-controls">
   <div class="search-container">
@@ -37,7 +34,31 @@
 </div>
 
 <div id="products" class="products"></div>
-
+    <footer class="footer" id="main-footer">
+        <h4 id="number">+355694884550</h4>
+        <figure>
+        <button class="btn-location" onclick="window.location.href='https://maps.app.goo.gl/j15mpzdMriJyNZQN9'">
+            <img class="btn-location" src="assets/map.png">
+        </button>
+        <figcaption id="location">Our Location</figcaption>
+        </figure>
+        <figure>
+        <button class="btn-contact" onclick="window.location.href='https://wa.me/355694884550'">
+            <img class="btn-contact" src="assets/whatsapp(1).png">
+        </button>
+        <figcaption id="contact">Contact us on WhatsApp</figcaption>
+        </figure>
+         <figure>
+        <button class="btn-instagram" onclick="window.location.href='https://www.instagram.com/bambo_pizza?igsh=MW4zMTRjeWNoMG9tYg=='">
+            <img class="btn-instagram" src="assets/instagram.png">
+        </button>
+        <figcaption id="follow">Follow us on Instagram</figcaption>
+        </figure>
+        <p>&copy; 2026 <a href="about.html" target="_blank" id="nn">h.gjoni20</a>. All Rights Reserved. Developed exclusively for Bambo Pizza Bar.</p>
+    </footer>
+<button id="backToTop" onclick="scrollToTop()">
+  <span class="arrow-up">↑</span>
+</button>
 
 <script src="script.js"></script>
 </body>

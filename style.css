@@ -316,7 +316,7 @@ input {
 }
 .search-container {
   position: relative;
-  margin-bottom: 10px;
+  margin-bottom: 2px;
 }
 
 #menuSearch {
@@ -342,13 +342,13 @@ input {
   position: sticky;
   top: 0;
   z-index: 1001; /* Më i lartë se kontrollat e tjera */
-  background: #2c3e50; /* Sigurohu që ka background që mos duken produktet poshtë */
+  background: #2c3e50;
 }
 
 /* Kjo pako ngjitet direkt poshtë gjuhës */
 .sticky-controls {
   position: sticky;
-  top: 39px; /* Kjo duhet të jetë fiks sa lartësia e lang-row tënde */
+  top: 30px; /* Kjo duhet të jetë fiks sa lartësia e lang-row tënde */
   z-index: 1000;
   background: #2c3e50; 
   padding: 10px 0;
@@ -366,4 +366,227 @@ input {
 .banner img {
   width: 100%;
   height: auto;
+}
+.about-btn {
+    align-self: flex-center; /* E dërgon butonin në krahun e djathtë */
+    margin-right: 20px;
+     /* Hapësirë nga anash */
+    background: var(--gold);
+    color: #000;
+    text-decoration: none;
+    padding: 8px 20px;
+    border-radius: 20px;
+    font-weight: 700;
+    font-size: 0.85rem;
+    transition: 0.3s;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+}
+
+.about-btn:hover {
+    transform: scale(1.05);
+    filter: brightness(1.1);
+}
+
+/* Përshtatja për mobile që butoni të mos dalë jashtë ekranit */
+@media (max-width: 600px) {
+    .about-btn {
+        margin-right: 10px;
+    }
+}
+.btn-contact {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    width: 25px;
+    height: 25px;
+    transition: transform 0.3s;
+}
+#contact {
+    margin-bottom: 5px;
+    color: var(--text-muted);
+} 
+#number {
+    margin-bottom: 10px;
+    color: var(--gold-solid);
+    font-weight: 700;
+}
+.btn-instagram {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    width: 25px;
+    height: 25px;
+    transition: transform 0.3s;
+}
+#follow {
+    margin-bottom: 10px;
+    color: var(--text-muted);
+} 
+.btn-location {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    width: 25px;
+    height: 25px;
+    transition: transform 0.3s;
+}
+#location {
+    margin-bottom: 5px;
+    color: var(--text-muted);
+} 
+#description {
+    margin-bottom: 10px;
+    color: var(--text-muted);
+} 
+.footer { 
+text-align: center;
+padding: 40px; 
+font-size: 0.8rem;
+color: white;
+background-color: #2c3e50;
+}
+/* Mundëson lëvizjen e butë kur klikon butonin */
+html {
+    scroll-behavior: smooth;
+}
+#nn {
+  color: red;
+}
+.lang-section {
+  background: #2c3e50;
+  padding: 5px 10px;
+  display: flex;
+  height: 45px;
+  justify-content: flex-start; 
+  z-index: 1001;
+  width: 100%;
+}
+
+.lang-wrapper {
+  display: flex;
+  align-items: center;
+  background: #34495e;
+  border-radius: 25px;
+  padding: 5px 12px;
+  overflow: hidden;
+  /* Siguron që wrapper-i të mos zërë gjithë gjerësinë e ekranit */
+  width: max-content; 
+}
+
+.lang-main-btn {
+  background: none;
+  border: none;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  padding: 8px 10px;
+  white-space: nowrap;
+  font-size: 0.9rem;
+}
+
+.slide-menu {
+  display: flex;
+  gap: 12px;
+  max-width: 0;
+  opacity: 0;
+  /* Transformimi e bën lëvizjen më të butë në pajisje mobile */
+  transform: translateX(-20px); 
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.slide-menu.show {
+  max-width: 300px;
+  opacity: 1;
+  transform: translateX(0);
+  margin-left: 10px;
+}
+
+
+.slide-menu img{
+  width: 25px;
+  height: 25px;
+  object-fit: contain;
+  display: block;
+  mix-blend-mode: multiply; 
+  filter: contrast(1.1); 
+}
+/* 1. Heqim sfondin e bardhë të vetë butonave */
+#languageOptions button {
+  background: transparent !important;
+  border: none !important;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  box-shadow: none !important;
+}
+#languageOptions img {
+  width: 25px;
+  height: auto;
+  display: block;
+  border-radius: 4px;
+  mix-blend-mode: multiply; 
+  filter: contrast(1.2) brightness(1.1);
+}
+.lang-section {
+  display: flex;
+  justify-content: space-between; /* Dërgon gjuhën majtas dhe About djathtas */
+  align-items: center;
+  background: #2c3e50;
+  padding: 5px 15px;
+  height: 45px;
+}
+
+.about-btn {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 0.85rem;
+  background: #34495e;
+  padding: 6px 15px;
+  border-radius: 20px;
+  transition: 0.3s;
+}
+
+.about-btn:active {
+  background: #3498db;
+  transform: scale(0.95);
+}
+
+/* Sigurohu që scroll-i të jetë i butë */
+html {
+  scroll-behavior: smooth;
+}
+
+
+#backToTop {
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  width: 50px;       /* Gjerësia */
+  height: 50px;      /* Lartësia e njëjtë për rreth perfekt */
+  background-color: #2c3e50; /* Ngjyra e header-it tënd */
+  color: white;
+  border: none;
+  border-radius: 50%; /* Kjo e bën rreth */
+  display: none;      /* Fshihet fillimisht */
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  cursor: pointer;
+  z-index: 2000;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  transition: all 0.3s ease;
+}
+
+#backToTop:active {
+  transform: scale(0.9); /* Efekt shtypjeje kur e klikon */
+  background-color: #3498db;
+}
+
+.arrow-up {
+  margin-top: -4px; /* Rregullim i vogël optik për shigjetën */
 }

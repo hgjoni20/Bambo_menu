@@ -1,5 +1,5 @@
 let currentLang = "sq";
-let currentCategory = "all"; // Kjo variabël shkaktonte bllokimin
+let currentCategory = "all"; 
 let products = [];
 
 // 1. Ngarkimi i të dhënave (Sipas gjuhës)
@@ -24,7 +24,7 @@ function renderCategories() {
 
   const labels = { sq: "Të gjitha", en: "All", it: "Tutto" };
   container.innerHTML = `<button onclick="filterCategory('all')">${labels[currentLang]}</button>`;
-  
+
   const uniqueCats = [...new Set(products.map(p => p.category))];
 
   uniqueCats.forEach(cat => {
@@ -50,8 +50,7 @@ function renderProducts() {
   filtered.forEach(p => {
     const card = document.createElement("div");
     card.className = "card";
-    
-    // SEKSIONI I MADHËSIVE (Dizajni yt i bukur)
+
     let sizeHTML = '';
     if (p.priceFamily) {
       const sizeLabel = { sq: 'Madhësia:', en: 'Size:', it: 'Dimensione:' };
@@ -75,7 +74,6 @@ function renderProducts() {
       `;
     }
 
-    // SEKSIONI I GARNITURAVE (Shoqëruese)
     let garnishHTML = '';
     if (p.garnishes && p.garnishes.length > 0) {
       const sidesLabel = { sq: 'Shoqëruese:', en: 'Sides:', it: 'Contorni:' };
@@ -105,7 +103,6 @@ function renderProducts() {
   });
 }
 
-// Logjika e Kalkulimit (Eskallopi dhe Selektimet)
 function selectSize(element) {
   const card = element.closest('.card');
   card.querySelectorAll('.size-card').forEach(sc => sc.classList.remove('active'));
@@ -134,16 +131,24 @@ function refreshTotalPrice(card) {
   card.querySelector('.base-price').innerText = basePrice + extra;
 }
 
-// 4. Ndryshimi i Gjuhës (Me rregullimin e kategorisë)
+// 4. Ndryshimi i Gjuhës (Funksioni i unifikuar)
 function changeLanguage(lang) {
-  // RREGULLIMI: Resetojmë kategorinë në "all" që të mos mbetet bosh menuja
-  currentCategory = "all"; 
+  console.log("Duke ndryshuar në:", lang);
   
+  // Resetojmë kategorinë në "all" që të mos mbetet bosh menuja
+  currentCategory = "all";
+
   const placeholders = { sq: 'Kërko ushqimin...', en: 'Search food...', it: 'Cerca cibo...' };
   const searchInput = document.getElementById('menuSearch');
   if (searchInput) searchInput.placeholder = placeholders[lang];
-  
+
   loadMenu(lang);
+
+  // Mbyllim menunë "slide" pas zgjedhjes së gjuhës
+  const menu = document.getElementById('languageOptions');
+  if (menu) {
+    menu.classList.remove('show');
+  }
 }
 
 function searchMenu() {
@@ -153,3 +158,25 @@ function searchMenu() {
     card.style.display = name.includes(input) ? "block" : "none";
   });
 }
+
+function toggleLanguages() {
+  const menu = document.getElementById('languageOptions');
+  menu.classList.toggle('show');
+}
+
+window.onscroll = function() {
+  let btn = document.getElementById("backToTop");
+  if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 400) {
+    btn.style.display = "flex"; // Përdorim 'flex' për të qendërzuar shigjetën
+  } else {
+    btn.style.display = "none";
+  }
+};
+
+function scrollToTop() {
+  window.scrollTo({
+    top: 0,
+    behavior: 'smooth'
+  });
+}
+
