@@ -1,93 +1,771 @@
 [
-  { "id": 1, "category": "pizza", "name": "Pizza Margherita", "description": "Salsa di pomodoro, mozzarella", "price": 300, "priceFamily": 550 },
-  { "id": 2, "category": "pizza", "name": "Pizza al Prosciutto", "description": "Salsa di pomodoro, prosciutto cotto, mozzarella", "price": 380, "priceFamily": 650 },
-  { "id": 3, "category": "pizza", "name": "Pizza Diavola", "description": "Salsa di pomodoro, salame piccante, mozzarella", "price": 400, "priceFamily": 700 },
-  { "id": 4, "category": "pizza", "name": "Pizza Prosciutto e Funghi", "description": "Salsa di pomodoro, prosciutto, funghi, mozzarella", "price": 400, "priceFamily": 700 },
-  { "id": 5, "category": "pizza", "name": "Pizza Prosciutto e Salame", "description": "Salsa di pomodoro, prosciutto, salame, mozzarella", "price": 400, "priceFamily": 700 },
-  { "id": 6, "category": "pizza", "name": "Pizza Capricciosa", "description": "Salsa di pomodoro, salame, prosciutto, funghi, peperoni, olive", "price": 450, "priceFamily": 800 },
-  { "id": 7, "category": "pizza", "name": "Pizza Bacon", "description": "Salsa di pomodoro, bacon, mozzarella, feta, pomodorini", "price": 450, "priceFamily": 800 },
-  { "id": 8, "category": "pizza", "name": "Pizza Americana", "description": "Salsa di pomodoro, wurstel, patatine, mozzarella", "price": 420, "priceFamily": 750 },
-  { "id": 9, "category": "pizza", "name": "Pizza al Tonno", "description": "Salsa di pomodoro, mozzarella, tonno, peperoni, olive", "price": 450, "priceFamily": 800 },
-  { "id": 10, "category": "pizza", "name": "Pizza alla Crema", "description": "Panna, mozzarella, prosciutto, funghi", "price": 450, "priceFamily": 800 },
-  { "id": 11, "category": "pizza", "name": "Pizza Rucola", "description": "Salsa di pomodoro, mozzarella, rucola, parmigiano, pomodorini", "price": 450, "priceFamily": 800 },
-  { "id": 12, "category": "pizza", "name": "Pizza Vegetariana", "description": "Salsa di pomodoro, mozzarella, melanzane, zucchine, pomodori, funghi, olive", "price": 480, "priceFamily": 800 },
-  { "id": 13, "category": "pizza", "name": "Pizza 4 Stagioni", "description": "Salsa di pomodoro, mozzarella, prosciutto, tonno, funghi, peperoni, olive", "price": 480, "priceFamily": 800 },
-  { "id": 14, "category": "pizza", "name": "Pizza 4 Formaggi", "description": "Salsa di pomodoro, mozzarella, feta, parmigiano, gorgonzola", "price": 480, "priceFamily": 800 },
-  { "id": 15, "category": "pizza", "name": "Pizza Speciale", "description": "Salsa di pomodoro, mozzarella, prosciutto, funghi, peperoni, olive, bacon, pomodorini", "price": 550, "priceFamily": 900 },
-  { "id": 16, "category": "pizza", "name": "Pizza Crudo", "description": "Salsa di pomodoro, mozzarella, prosciutto crudo, rucola, parmigiano, pomodorini", "price": 580, "priceFamily": 950 },
-  { "id": 17, "category": "pizza", "name": "Pizza al Pollo", "description": "Salsa di pomodoro, mozzarella, mais, pomodorini, filetto di pollo", "price": 550, "priceFamily": 850 },
-  { "id": 18, "category": "pizza", "name": "Pizza Philadelphia", "description": "Salsa di pomodoro, prosciutto, philadelphia, mozzarella", "price": 550, "priceFamily": 900 },
-  { "id": 19, "category": "pizza", "name": "Pizza Tartufo, Prosciutto e Funghi", "description": "Salsa di pomodoro, mozzarella, prosciutto, funghi, tartufo", "price": 600, "priceFamily": 1000 },
-  { "id": 20, "category": "pizza", "name": "Pizza Chicken Pesto", "description": "Salsa di pomodoro, mozzarella, pesto, pollo, pomodorini", "price": 600, "priceFamily": 1000 },
-  { "id": 21, "category": "pizza", "name": "Pizza Bambo", "description": "Salsa, mozzarella, feta, pomodorini, peperoni, olive, cipolla, bacon, peperoni piccanti", "price": 650, "priceFamily": 1050 },
-  { "id": 22, "category": "secondi", "name": "Filetto di Pollo ai Ferri", "description": "Filetto di pollo alla griglia", "price": 350, "garnishes": [
-      { "name": "Patate al forno", "price": 100 }, { "name": "Patatine fritte", "price": 100 }, { "name": "Riso", "price": 100 }, { "name": "Insalata", "price": 100 }
-    ]},
-  { "id": 23, "category": "secondi", "name": "Filetto di Pollo al Sugo", "description": "Filetto di pollo con salsa di pomodoro e peperoni", "price": 300, "garnishes": [
-      { "name": "Patate al forno", "price": 100 }, { "name": "Patatine fritte", "price": 100 }, { "name": "Riso", "price": 100 }, { "name": "Insalata", "price": 100 }
-    ]},
-  { "id": 24, "category": "secondi", "name": "Filetto di Maiale ai Ferri", "description": "Filetto di maiale alla griglia", "price": 350, "garnishes": [
-      { "name": "Patate al forno", "price": 100 }, { "name": "Patatine fritte", "price": 100 }, { "name": "Riso", "price": 100 }, { "name": "Insalata", "price": 100 }
-    ]},
-  { "id": 25, "category": "secondi", "name": "Salsiccia al Forno", "description": "Salsiccia cotta al forno", "price": 250, "garnishes": [
-      { "name": "Patate al forno", "price": 100 }, { "name": "Patatine fritte", "price": 100 }, { "name": "Riso", "price": 100 }, { "name": "Insalata", "price": 100 }
-    ]},
-  { "id": 26, "category": "secondi", "name": "Scaloppina al Vino e Limone", "description": "Filetto di pollo, vino bianco, limone", "price": 450, "garnishes": [
-      { "name": "Patate al forno", "price": 50 }, { "name": "Patatine fritte", "price": 50 }, { "name": "Riso", "price": 50 }, { "name": "Insalata", "price": 50 }
-    ]},
-  { "id": 27, "category": "secondi", "name": "Scaloppina Panna e Funghi", "description": "Filetto di pollo, panna, funghi", "price": 450, "garnishes": [
-      { "name": "Patate al forno", "price": 50 }, { "name": "Patatine fritte", "price": 50 }, { "name": "Riso", "price": 50 }, { "name": "Insalata", "price": 50 }
-    ]},
-  { "id": 28, "category": "secondi", "name": "Scaloppina ai 4 Formaggi", "description": "Filetto di pollo, 4 tipi di formaggio", "price": 450, "garnishes": [
-      { "name": "Patate al forno", "price": 50 }, { "name": "Patatine fritte", "price": 50 }, { "name": "Riso", "price": 50 }, { "name": "Insalata", "price": 50 }
-    ]},
-  { "id": 29, "category": "secondi", "name": "Omelette", "description": "Omelette con funghi, peperoni, formaggio", "price": 250, "garnishes": [
-      { "name": "Formaggio bianco", "price": 100 }, { "name": "Patatine fritte", "price": 100 }, { "name": "Salsiccia", "price": 150 }, { "name": "Insalata", "price": 100 }
-    ]},
-  { "id": 69, "category": "secondi", "name": "Scaloppina Panna, Funghi e Tartufo", "description": "Filetto di pollo, panna, funghi, tartufo", "price": 500, "garnishes": [
-      { "name": "Patate al forno", "price": 50 }, { "name": "Patatine fritte", "price": 50 }, { "name": "Riso", "price": 50 }, { "name": "Insalata", "price": 50 }
-    ]},
-  { "id": 70, "category": "secondi", "name": "Salsiccia del Kosovo", "description": "Salsiccia tipica cotta al forno", "price": 280, "garnishes": [
-      { "name": "Patate al forno", "price": 100 }, { "name": "Patatine fritte", "price": 100 }, { "name": "Riso", "price": 100 }, { "name": "Insalata", "price": 100 }
-    ]},
-  { "id": 30, "category": "insalate", "name": "Insalata del Villaggio", "description": "Pomodori, cetrioli, olive, peperoni, formaggio feta", "price": 280 },
-  { "id": 31, "category": "insalate", "name": "Insalata dello Chef", "description": "Insalata verde, pomodori, cetrioli, salsa speciale, gouda, prosciutto, uova", "price": 350 },
-  { "id": 32, "category": "insalate", "name": "Insalata al Tonno", "description": "Insalata verde, pomodori, cetrioli, tonno, maionese, gouda", "price": 350 },
-  { "id": 33, "category": "insalate", "name": "Insalata Rucola", "description": "Rucola, pomodorini, mozzarella, aceto balsamico", "price": 380 },
-  { "id": 34, "category": "insalate", "name": "Caesar Salad", "description": "Insalata verde, parmigiano, filetto di pollo, mais, crostini, salsa Caesar", "price": 420 },
-  { "id": 35, "category": "zuppe", "name": "Vellutata di Pollo", "description": "Zuppa cremosa con filetto di pollo e verdure", "price": 250 },
-  { "id": 36, "category": "zuppe", "name": "Zuppa del Giorno", "description": "Zuppa fresca del giorno", "price": 250 },
-  { "id": 37, "category": "risotti", "name": "Risotto allo Zafferano e Pollo", "description": "Risotto con zafferano e filetto di pollo", "price": 380 },
-  { "id": 38, "category": "risotti", "name": "Risotto alle Verdure", "description": "Risotto con verdure miste di stagione", "price": 380 },
-  { "id": 39, "category": "risotti", "name": "Risotto ai Funghi", "description": "Risotto con funghi freschi e panna", "price": 380 },
-  { "id": 40, "category": "risotti", "name": "Risotto ai 4 Formaggi", "description": "Risotto con 4 tipi di formaggio", "price": 380 },
-  { "id": 41, "category": "risotti", "name": "Risotto Funghi e Tartufo", "description": "Risotto con funghi, panna e tartufo", "price": 400 },
-  { "id": 42, "category": "pasta", "name": "Pasta alla Napoletana", "description": "Pasta con salsa di pomodoro", "price": 300 },
-  { "id": 43, "category": "pasta", "name": "Pasta alla Carbonara", "description": "Pasta con guanciale/bacon, uova e formaggio", "price": 380 },
-  { "id": 44, "category": "pasta", "name": "Pasta al Pesto", "description": "Pasta con salsa al pesto", "price": 350 },
-  { "id": 45, "category": "pasta", "name": "Pasta all'Arrabbiata", "description": "Pasta con salsa di pomodoro e peperoncino", "price": 300 },
-  { "id": 46, "category": "pasta", "name": "Pasta Tonno, Capperi e Olive", "description": "Pasta con tonno, capperi e olive", "price": 400 },
-  { "id": 47, "category": "pasta", "name": "Pasta alla Bolognese", "description": "Pasta con ragù di carne", "price": 400 },
-  { "id": 48, "category": "pasta", "name": "Penne Bambo", "description": "Pasta al forno con prosciutto, funghi, peperoni e gouda", "price": 420 },
-  { "id": 49, "category": "panini", "name": "Panino del Villaggio", "description": "Salame, formaggio bianco, gouda, pomodoro, maionese", "price": 180 },
-  { "id": 50, "category": "panini", "name": "Panino Piccante", "description": "Salame piccante, gouda, maionese, pomodoro", "price": 180 },
-  { "id": 51, "category": "panini", "name": "Panino Vegetariano", "description": "Pomodoro, peperoni, cetrioli, olive, feta, gouda, maionese", "price": 180 },
-  { "id": 52, "category": "panini", "name": "Panino al Bacon", "description": "Bacon, salame, feta, gouda, pomodoro, olive, maionese", "price": 220 },
-  { "id": 53, "category": "panini", "name": "Panino al Pollo", "description": "Filetto di pollo, gouda, pomodoro, maionese", "price": 220 },
-  { "id": 54, "category": "panini", "name": "Panino al Tonno", "description": "Tonno, gouda, pomodoro, olive, maionese", "price": 220 },
-  { "id": 55, "category": "panini", "name": "Panino Speciale", "description": "Bacon, pollo, feta, gouda, maionese, pomodoro, patatine, olive", "price": 250 },
-  { "id": 56, "category": "panini", "name": "Club Sandwich", "description": "Prosciutto, insalata, maionese, formaggio, pomodoro e patatine", "price": 350 },
-  { "id": 57, "category": "contorni", "name": "Formaggio Bianco", "description": "Formaggio bianco di pecora", "price": 200 },
-  { "id": 58, "category": "contorni", "name": "Formaggio Fritto", "description": "Formaggio fritto bianco o caciocavallo", "price": 250 },
-  { "id": 59, "category": "contorni", "name": "Salsa allo Yogurt", "description": "Salsa allo yogurt fresco", "price": 150 },
-  { "id": 60, "category": "contorni", "name": "Patatine Fritte", "description": "Patatine fritte fresche", "price": 180 },
-  { "id": 61, "category": "contorni", "name": "Verdure alla Griglia", "description": "Peperoni, melanzane, zucchine, carote", "price": 280 },
-  { "id": 62, "category": "contorni", "name": "Antipasto Medio", "description": "Mix di formaggi e salumi", "price": 600 },
-  { "id": 63, "category": "contorni", "name": "Antipasto Grande", "description": "Mix di formaggi e salumi", "price": 1000 },
-  { "id": 71, "category": "contorni", "name": "Patate al Forno", "description": "Patate cotte al forno", "price": 200 },
-  { "id": 64, "category": "calzoni", "name": "Calzone al Prosciutto", "description": "Prosciutto, formaggio, salsa", "price": 200 },
-  { "id": 65, "category": "calzoni", "name": "Calzone Prosciutto e Funghi", "description": "Prosciutto, funghi, formaggio, salsa", "price": 220 },
-  { "id": 66, "category": "calzoni", "name": "Calzone Capriccioso", "description": "Prosciutto, peperoni, olive, formaggio, salsa", "price": 250 },
-  { "id": 67, "category": "calzoni", "name": "Calzone al Pollo", "description": "Filetto di pollo, formaggio, salsa, pomodoro", "price": 250 },
-  { "id": 68, "category": "calzoni", "name": "Calzone al Tonno", "description": "Tonno, formaggio, salsa, peperoni, olive", "price": 250 }
+  {
+    "id": 1,
+   "image": "margarita.webp",
+    "category": "pizza",
+    "name": "Pizza Margherita",
+    "description": "Salsa di pomodoro, mozzarella",
+    "price": 300,
+    "priceFamily": 550
+  },
+  {
+    "id": 2,
+   "image": "logo.webp",
+    "category": "pizza",
+    "name": "Pizza al Prosciutto",
+    "description": "Salsa di pomodoro, prosciutto cotto, mozzarella",
+    "price": 380,
+    "priceFamily": 650
+  },
+  {
+    "id": 3,
+   "image": "diavola.webp",
+    "category": "pizza",
+    "name": "Pizza Diavola",
+    "description": "Salsa di pomodoro, salame piccante, mozzarella",
+    "price": 400,
+    "priceFamily": 700
+  },
+  {
+    "id": 4,
+   "image": "logo.webp",
+    "category": "pizza",
+    "name": "Pizza Prosciutto e Funghi",
+    "description": "Salsa di pomodoro, prosciutto, funghi, mozzarella",
+    "price": 400,
+    "priceFamily": 700
+  },
+  {
+    "id": 5,
+   "image": "logo.webp",
+    "category": "pizza",
+    "name": "Pizza Prosciutto e Salame",
+    "description": "Salsa di pomodoro, prosciutto, salame, mozzarella",
+    "price": 400,
+    "priceFamily": 700
+  },
+  {
+    "id": 6,
+   "image": "kapricoza.webp",
+    "category": "pizza",
+    "name": "Pizza Capricciosa",
+    "description": "Salsa di pomodoro, salame, prosciutto, funghi, peperoni, olive",
+    "price": 450,
+    "priceFamily": 800
+  },
+  {
+    "id": 7,
+   "image": "logo.webp",
+    "category": "pizza",
+    "name": "Pizza Bacon",
+    "description": "Salsa di pomodoro, bacon, mozzarella, feta, pomodorini",
+    "price": 450,
+    "priceFamily": 800
+  },
+  {
+    "id": 8,
+   "image": "amerikana.webp",
+    "category": "pizza",
+    "name": "Pizza Americana",
+    "description": "Salsa di pomodoro, wurstel, patatine, mozzarella",
+    "price": 420,
+    "priceFamily": 750
+  },
+  {
+    "id": 9,
+   "image": "logo.webp",
+    "category": "pizza",
+    "name": "Pizza al Tonno",
+    "description": "Salsa di pomodoro, mozzarella, tonno, peperoni, olive",
+    "price": 450,
+    "priceFamily": 800
+  },
+  {
+    "id": 10,
+   "image": "logo.webp",
+    "category": "pizza",
+    "name": "Pizza alla Crema",
+    "description": "Panna, mozzarella, prosciutto, funghi",
+    "price": 450,
+    "priceFamily": 800
+  },
+  {
+    "id": 11,
+   "image": "rukolap.webp",
+    "category": "pizza",
+    "name": "Pizza Rucola",
+    "description": "Salsa di pomodoro, mozzarella, rucola, parmigiano, pomodorini",
+    "price": 450,
+    "priceFamily": 800
+  },
+  {
+    "id": 12,
+   "image": "logo.webp",
+    "category": "pizza",
+    "name": "Pizza Vegetariana",
+    "description": "Salsa di pomodoro, mozzarella, melanzane, zucchine, pomodori, funghi, olive",
+    "price": 480,
+    "priceFamily": 800
+  },
+  {
+    "id": 13,
+   "image": "logo.webp",
+    "category": "pizza",
+    "name": "Pizza 4 Stagioni",
+    "description": "Salsa di pomodoro, mozzarella, prosciutto, tonno, funghi, peperoni, olive",
+    "price": 480,
+    "priceFamily": 800
+  },
+  {
+    "id": 14,
+   "image": "logo.webp",
+    "category": "pizza",
+    "name": "Pizza 4 Formaggi",
+    "description": "Salsa di pomodoro, mozzarella, feta, parmigiano, gorgonzola",
+    "price": 480,
+    "priceFamily": 800
+  },
+  {
+    "id": 15,
+   "image": "speciale.webp",
+    "category": "pizza",
+    "name": "Pizza Speciale",
+    "description": "Salsa di pomodoro, mozzarella, prosciutto, funghi, peperoni, olive, bacon, pomodorini",
+    "price": 550,
+    "priceFamily": 900
+  },
+  {
+    "id": 16,
+   "image": "rukolap.webp",
+    "category": "pizza",
+    "name": "Pizza Crudo",
+    "description": "Salsa di pomodoro, mozzarella, prosciutto crudo, rucola, parmigiano, pomodorini",
+    "price": 580,
+    "priceFamily": 950
+  },
+  {
+    "id": 17,
+   "image": "logo.webp",
+    "category": "pizza",
+    "name": "Pizza al Pollo",
+    "description": "Salsa di pomodoro, mozzarella, mais, pomodorini, filetto di pollo",
+    "price": 550,
+    "priceFamily": 850
+  },
+  {
+    "id": 18,
+   "image": "logo.webp",
+    "category": "pizza",
+    "name": "Pizza Philadelphia",
+    "description": "Salsa di pomodoro, prosciutto, philadelphia, mozzarella",
+    "price": 550,
+    "priceFamily": 900
+  },
+  {
+    "id": 19,
+   "image": "tartuff.webp",
+    "category": "pizza",
+    "name": "Pizza Tartufo, Prosciutto e Funghi",
+    "description": "Salsa di pomodoro, mozzarella, prosciutto, funghi, tartufo",
+    "price": 600,
+    "priceFamily": 1000
+  },
+  {
+    "id": 20,
+   "image": "pestoch.webp",
+    "category": "pizza",
+    "name": "Pizza Chicken Pesto",
+    "description": "Salsa di pomodoro, mozzarella, pesto, pollo, pomodorini",
+    "price": 600,
+    "priceFamily": 1000
+  },
+  {
+    "id": 21,
+   "image": "logo.webp",
+    "category": "pizza",
+    "name": "Pizza Bambo",
+    "description": "Salsa, mozzarella, feta, pomodorini, peperoni, olive, cipolla, bacon, peperoni piccanti",
+    "price": 650,
+    "priceFamily": 1050
+  },
+  {
+    "id": 22,
+   "image": "fileto.webp",
+    "category": "secondi",
+    "name": "Filetto di Pollo ai Ferri",
+    "description": "Filetto di pollo alla griglia",
+    "price": 350,
+    "garnishes": [
+      {
+        "name": "Patate al forno",
+        "price": 100
+      },
+      {
+        "name": "Patatine fritte",
+        "price": 100
+      },
+      {
+        "name": "Riso",
+        "price": 100
+      },
+      {
+        "name": "Insalata",
+        "price": 100
+      }
+    ]
+  },
+  {
+    "id": 23,
+   "image": "logo.webp",
+    "category": "secondi",
+    "name": "Filetto di Pollo al Sugo",
+    "description": "Filetto di pollo con salsa di pomodoro e peperoni",
+    "price": 300,
+    "garnishes": [
+      {
+        "name": "Patate al forno",
+        "price": 100
+      },
+      {
+        "name": "Patatine fritte",
+        "price": 100
+      },
+      {
+        "name": "Riso",
+        "price": 100
+      },
+      {
+        "name": "Insalata",
+        "price": 100
+      }
+    ]
+  },
+  {
+    "id": 24,
+   "image": "gici.webp",
+    "category": "secondi",
+    "name": "Filetto di Maiale ai Ferri",
+    "description": "Filetto di maiale alla griglia",
+    "price": 350,
+    "garnishes": [
+      {
+        "name": "Patate al forno",
+        "price": 100
+      },
+      {
+        "name": "Patatine fritte",
+        "price": 100
+      },
+      {
+        "name": "Riso",
+        "price": 100
+      },
+      {
+        "name": "Insalata",
+        "price": 100
+      }
+    ]
+  },
+  {
+    "id": 25,
+   "image": "llukanik.webp",
+    "category": "secondi",
+    "name": "Salsiccia al Forno",
+    "description": "Salsiccia cotta al forno",
+    "price": 250,
+    "garnishes": [
+      {
+        "name": "Patate al forno",
+        "price": 100
+      },
+      {
+        "name": "Patatine fritte",
+        "price": 100
+      },
+      {
+        "name": "Riso",
+        "price": 100
+      },
+      {
+        "name": "Insalata",
+        "price": 100
+      }
+    ]
+  },
+  {
+    "id": 26,
+   "image": "limon.webp",
+    "category": "secondi",
+    "name": "Scaloppina al Vino e Limone",
+    "description": "Filetto di pollo, vino bianco, limone",
+    "price": 450,
+    "garnishes": [
+      {
+        "name": "Patate al forno",
+        "price": 50
+      },
+      {
+        "name": "Patatine fritte",
+        "price": 50
+      },
+      {
+        "name": "Riso",
+        "price": 50
+      },
+      {
+        "name": "Insalata",
+        "price": 50
+      }
+    ]
+  },
+  {
+    "id": 27,
+   "image": "panakerpudha.webp",
+    "category": "secondi",
+    "name": "Scaloppina Panna e Funghi",
+    "description": "Filetto di pollo, panna, funghi",
+    "price": 450,
+    "garnishes": [
+      {
+        "name": "Patate al forno",
+        "price": 50
+      },
+      {
+        "name": "Patatine fritte",
+        "price": 50
+      },
+      {
+        "name": "Riso",
+        "price": 50
+      },
+      {
+        "name": "Insalata",
+        "price": 50
+      }
+    ]
+  },
+  {
+    "id": 28,
+   "image": "logo.webp",
+    "category": "secondi",
+    "name": "Scaloppina ai 4 Formaggi",
+    "description": "Filetto di pollo, 4 tipi di formaggio",
+    "price": 450,
+    "garnishes": [
+      {
+        "name": "Patate al forno",
+        "price": 50
+      },
+      {
+        "name": "Patatine fritte",
+        "price": 50
+      },
+      {
+        "name": "Riso",
+        "price": 50
+      },
+      {
+        "name": "Insalata",
+        "price": 50
+      }
+    ]
+  },
+  {
+    "id": 29,
+   "image": "logo.webp",
+    "category": "secondi",
+    "name": "Omelette",
+    "description": "Omelette con funghi, peperoni, formaggio",
+    "price": 250,
+    "garnishes": [
+      {
+        "name": "Formaggio bianco",
+        "price": 100
+      },
+      {
+        "name": "Patatine fritte",
+        "price": 100
+      },
+      {
+        "name": "Salsiccia",
+        "price": 150
+      },
+      {
+        "name": "Insalata",
+        "price": 100
+      }
+    ]
+  },
+  {
+    "id": 69,
+   "image": "tartuf.webp",
+    "category": "secondi",
+    "name": "Scaloppina Panna, Funghi e Tartufo",
+    "description": "Filetto di pollo, panna, funghi, tartufo",
+    "price": 500,
+    "garnishes": [
+      {
+        "name": "Patate al forno",
+        "price": 50
+      },
+      {
+        "name": "Patatine fritte",
+        "price": 50
+      },
+      {
+        "name": "Riso",
+        "price": 50
+      },
+      {
+        "name": "Insalata",
+        "price": 50
+      }
+    ]
+  },
+  {
+    "id": 70,
+   "image": "suxhuk.webp",
+    "category": "secondi",
+    "name": "Salsiccia del Kosovo",
+    "description": "Salsiccia tipica cotta al forno",
+    "price": 280,
+    "garnishes": [
+      {
+        "name": "Patate al forno",
+        "price": 100
+      },
+      {
+        "name": "Patatine fritte",
+        "price": 100
+      },
+      {
+        "name": "Riso",
+        "price": 100
+      },
+      {
+        "name": "Insalata",
+        "price": 100
+      }
+    ]
+  },
+  {
+    "id": 30,
+   "image": "logo.webp",
+    "category": "insalate",
+    "name": "Insalata del Villaggio",
+    "description": "Pomodori, cetrioli, olive, peperoni, formaggio feta",
+    "price": 280
+  },
+  {
+    "id": 31,
+   "image": "logo.webp",
+    "category": "insalate",
+    "name": "Insalata dello Chef",
+    "description": "Insalata verde, pomodori, cetrioli, salsa speciale, gouda, prosciutto, uova",
+    "price": 350
+  },
+  {
+    "id": 32,
+   "image": "logo.webp",
+    "category": "insalate",
+    "name": "Insalata al Tonno",
+    "description": "Insalata verde, pomodori, cetrioli, tonno, maionese, gouda",
+    "price": 350
+  },
+  {
+    "id": 33,
+   "image": "rukola.webp",
+    "category": "insalate",
+    "name": "Insalata Rucola",
+    "description": "Rucola, pomodorini, mozzarella, aceto balsamico",
+    "price": 380
+  },
+  {
+    "id": 34,
+   "image": "cezar.webp",
+    "category": "insalate",
+    "name": "Caesar Salad",
+    "description": "Insalata verde, parmigiano, filetto di pollo, mais, crostini, salsa Caesar",
+    "price": 420
+  },
+  {
+    "id": 35,
+   "image": "logo.webp",
+    "category": "zuppe",
+    "name": "Vellutata di Pollo",
+    "description": "Zuppa cremosa con filetto di pollo e verdure",
+    "price": 250
+  },
+  {
+    "id": 36,
+   "image": "logo.webp",
+    "category": "zuppe",
+    "name": "Zuppa del Giorno",
+    "description": "Zuppa fresca del giorno",
+    "price": 250
+  },
+  {
+    "id": 37,
+   "image": "zaferano.webp",
+    "category": "risotti",
+    "name": "Risotto allo Zafferano e Pollo",
+    "description": "Risotto con zafferano e filetto di pollo",
+    "price": 380
+  },
+  {
+    "id": 38,
+   "image": "perimer.webp",
+    "category": "risotti",
+    "name": "Risotto alle Verdure",
+    "description": "Risotto con verdure miste di stagione",
+    "price": 380
+  },
+  {
+    "id": 39,
+   "image": "kerpudha.webp",
+    "category": "risotti",
+    "name": "Risotto ai Funghi",
+    "description": "Risotto con funghi freschi e panna",
+    "price": 380
+  },
+  {
+    "id": 40,
+   "image": "logo.webp",
+    "category": "risotti",
+    "name": "Risotto ai 4 Formaggi",
+    "description": "Risotto con 4 tipi di formaggio",
+    "price": 380
+  },
+  {
+    "id": 41,
+   "image": "logo.webp",
+    "category": "risotti",
+    "name": "Risotto Funghi e Tartufo",
+    "description": "Risotto con funghi, panna e tartufo",
+    "price": 400
+  },
+  {
+    "id": 42,
+   "image": "napolitana.webp",
+    "category": "pasta",
+    "name": "Pasta alla Napoletana",
+    "description": "Pasta con salsa di pomodoro",
+    "price": 300
+  },
+  {
+    "id": 43,
+   "image": "carbonara.webp",
+    "category": "pasta",
+    "name": "Pasta alla Carbonara",
+    "description": "Pasta con guanciale/bacon, uova e formaggio",
+    "price": 380
+  },
+  {
+    "id": 44,
+   "image": "pesto.webp",
+    "category": "pasta",
+    "name": "Pasta al Pesto",
+    "description": "Pasta con salsa al pesto",
+    "price": 350
+  },
+  {
+    "id": 45,
+   "image": "arrabiata.webp",
+    "category": "pasta",
+    "name": "Pasta all'Arrabbiata",
+    "description": "Pasta con salsa di pomodoro e peperoncino",
+    "price": 300
+  },
+  {
+    "id": 46,
+   "image": "tono.webp",
+    "category": "pasta",
+    "name": "Pasta Tonno, Capperi e Olive",
+    "description": "Pasta con tonno, capperi e olive",
+    "price": 400
+  },
+  {
+    "id": 47,
+   "image": "bolonjez.webp",
+    "category": "pasta",
+    "name": "Pasta alla Bolognese",
+    "description": "Pasta con ragù di carne",
+    "price": 400
+  },
+  {
+    "id": 48,
+   "image": "logo.webp",
+    "category": "pasta",
+    "name": "Penne Bambo",
+    "description": "Pasta al forno con prosciutto, funghi, peperoni e gouda",
+    "price": 420
+  },
+  {
+    "id": 49,
+   "image": "sanduic.webp",
+    "category": "panini",
+    "name": "Panino del Villaggio",
+    "description": "Salame, formaggio bianco, gouda, pomodoro, maionese",
+    "price": 180
+  },
+  {
+    "id": 50,
+   "image": "sanduic.webp",
+    "category": "panini",
+    "name": "Panino Piccante",
+    "description": "Salame piccante, gouda, maionese, pomodoro",
+    "price": 180
+  },
+  {
+    "id": 51,
+   "image": "sanduic.webp",
+    "category": "panini",
+    "name": "Panino Vegetariano",
+    "description": "Pomodoro, peperoni, cetrioli, olive, feta, gouda, maionese",
+    "price": 180
+  },
+  {
+    "id": 52,
+   "image": "sanduic.webp",
+    "category": "panini",
+    "name": "Panino al Bacon",
+    "description": "Bacon, salame, feta, gouda, pomodoro, olive, maionese",
+    "price": 220
+  },
+  {
+    "id": 53,
+   "image": "sanduic.webp",
+    "category": "panini",
+    "name": "Panino al Pollo",
+    "description": "Filetto di pollo, gouda, pomodoro, maionese",
+    "price": 220
+  },
+  {
+    "id": 54,
+   "image": "sanduic.webp",
+    "category": "panini",
+    "name": "Panino al Tonno",
+    "description": "Tonno, gouda, pomodoro, olive, maionese",
+    "price": 220
+  },
+  {
+    "id": 55,
+   "image": "sanduic.webp",
+    "category": "panini",
+    "name": "Panino Speciale",
+    "description": "Bacon, pollo, feta, gouda, maionese, pomodoro, patatine, olive",
+    "price": 250
+  },
+  {
+    "id": 56,
+   "image": "club.webp",
+    "category": "panini",
+    "name": "Club Sandwich",
+    "description": "Prosciutto, insalata, maionese, formaggio, pomodoro e patatine",
+    "price": 350
+  },
+  {
+    "id": 57,
+   "image": "djath.webp",
+    "category": "contorni",
+    "name": "Formaggio Bianco",
+    "description": "Formaggio bianco di pecora",
+    "price": 200
+  },
+  {
+    "id": 58,
+   "image": "dskuqur.webp",
+    "category": "contorni",
+    "name": "Formaggio Fritto",
+    "description": "Formaggio fritto bianco o caciocavallo",
+    "price": 250
+  },
+  {
+    "id": 59,
+   "image": "salcekosi.webp",
+    "category": "contorni",
+    "name": "Salsa allo Yogurt",
+    "description": "Salsa allo yogurt fresco",
+    "price": 150
+  },
+  {
+    "id": 60,
+   "image": "skuqura.webp",
+    "category": "contorni",
+    "name": "Patatine Fritte",
+    "description": "Patatine fritte fresche",
+    "price": 180
+  },
+  {
+    "id": 61,
+   "image": "perime.webp",
+    "category": "contorni",
+    "name": "Verdure alla Griglia",
+    "description": "Peperoni, melanzane, zucchine, carote",
+    "price": 280
+  },
+  {
+    "id": 62,
+   "image": "antipast.webp",
+    "category": "contorni",
+    "name": "Antipasto Medio",
+    "description": "Mix di formaggi e salumi",
+    "price": 600
+  },
+  {
+    "id": 63,
+   "image": "antipast.webp",
+    "category": "contorni",
+    "name": "Antipasto Grande",
+    "description": "Mix di formaggi e salumi",
+    "price": 1000
+  },
+  {
+    "id": 71,
+   "image": "furre.webp",
+    "category": "contorni",
+    "name": "Patate al Forno",
+    "description": "Patate cotte al forno",
+    "price": 200
+  },
+  {
+    "id": 64,
+   "image": "kalcone.webp",
+    "category": "calzoni",
+    "name": "Calzone al Prosciutto",
+    "description": "Prosciutto, formaggio, salsa",
+    "price": 200
+  },
+  {
+    "id": 65,
+   "image": "kalcone.webp",
+    "category": "calzoni",
+    "name": "Calzone Prosciutto e Funghi",
+    "description": "Prosciutto, funghi, formaggio, salsa",
+    "price": 220
+  },
+  {
+    "id": 66,
+   "image": "kalcone.webp",
+    "category": "calzoni",
+    "name": "Calzone Capriccioso",
+    "description": "Prosciutto, peperoni, olive, formaggio, salsa",
+    "price": 250
+  },
+  {
+    "id": 67,
+   "image": "kalcone.webp",
+    "category": "calzoni",
+    "name": "Calzone al Pollo",
+    "description": "Filetto di pollo, formaggio, salsa, pomodoro",
+    "price": 250
+  },
+  {
+    "id": 68,
+   "image": "kalcone.webp",
+    "category": "calzoni",
+    "name": "Calzone al Tonno",
+    "description": "Tonno, formaggio, salsa, peperoni, olive",
+    "price": 250
+  }
 ]

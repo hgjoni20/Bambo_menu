@@ -1,93 +1,771 @@
 [
-  { "id": 1, "category": "pica", "name": "Pica Margarita", "description": "Salc, djath mozzarella", "price": 300, "priceFamily": 550 },
-  { "id": 2, "category": "pica", "name": "Pica Proshut", "description": "Salc, proshut, djath mozzarella", "price": 380, "priceFamily": 650 },
-  { "id": 3, "category": "pica", "name": "Pica Diavola", "description": "Salc, sallam pikant, djath mozzarella", "price": 400, "priceFamily": 700 },
-  { "id": 4, "category": "pica", "name": "Pica Proshut Kerpudha", "description": "Salc, proshut, kerpudha, djath mozzarella", "price": 400, "priceFamily": 700 },
-  { "id": 5, "category": "pica", "name": "Pica Proshut Sallam", "description": "Salc, proshut, sallam, djath mozzarella", "price": 400, "priceFamily": 700 },
-  { "id": 6, "category": "pica", "name": "Pica Kapricoza", "description": "Salc, sallam, proshut, kerpudha, speca, ullinj", "price": 450, "priceFamily": 800 },
-  { "id": 7, "category": "pica", "name": "Pica Beikon", "description": "Salc, beikon, djath mozzarella,djath i bardhë pomodorini", "price": 450, "priceFamily": 800 },
-  { "id": 8, "category": "pica", "name": "Pica Americana", "description": "Salce, salcice, patate, djath mozzarella", "price": 420, "priceFamily": 750 },
-  { "id": 9, "category": "pica", "name": "Pica Ton", "description": "Salce, djath mozzarella, ton, speca, ullinj", "price": 450, "priceFamily": 800 },
-  { "id": 10, "category": "pica", "name": "Pica Alacrema", "description": "Pana, djath mozzarella, proshut, kerpudha", "price": 450, "priceFamily": 800 },
-  { "id": 11, "category": "pica", "name": "Pica Rukola", "description": "Salce, djath mozzarella, rukola, parmixhano, pomodorini", "price": 450, "priceFamily": 800 },
-  { "id": 12, "category": "pica", "name": "Pica Vegjetariane", "description": "Salc, djath mozzarella, patëllxhan, kungull, domate, kërpudha, ullinj", "price": 480, "priceFamily": 800 },
-  { "id": 13, "category": "pica", "name": "Pica 4 Stinet", "description": "Salc, djath mozzarella, proshut, ton, kerpudha, speca, ullinj", "price": 480, "priceFamily": 800 },
-  { "id": 14, "category": "pica", "name": "Pica 4 Djathrat", "description": "Salc, djath mozzarella, djath feta, djath parmixhano, djath gorgonxola", "price": 480, "priceFamily": 800 },
-  { "id": 15, "category": "pica", "name": "Pica Speciale", "description": "Salc, djath mozzarella, proshut, kerpudha, speca, ullinj, beikon, pomodorini", "price": 550, "priceFamily": 900 },
-  { "id": 16, "category": "pica", "name": "Pica Krudo", "description": "Salce, djath mozzarella, proshut krudo, rukola, parmixhano, pomodorini", "price": 580, "priceFamily": 950 },
-  { "id": 17, "category": "pica", "name": "Pica Pule", "description": "Salc, djath mozzarella, misër, pomodorini, fileto pule", "price": 550, "priceFamily": 850 },
-  { "id": 18, "category": "pica", "name": "Pica Philadelphia", "description": "Salce, proshut, philadelphia, mozzarella", "price": 550, "priceFamily": 900 },
-  { "id": 19, "category": "pica", "name": "Pica Tartuf Proshute Kerpudha", "description": "Salce, mozzarella, proshut, kerpudha, tartuf", "price": 600, "priceFamily": 1000 },
-  { "id": 20, "category": "pica", "name": "Pica Chicken Pesto Pomodorini", "description": "Salc, mozzarella, pesto, pule, pomodorini", "price": 600, "priceFamily": 1000 },
-  { "id": 21, "category": "pica", "name": "Pica Bambo", "description": "Salc, mozzarella, djath i bardhë, pomodorini, speca, ullinj, qep, beikon, peperoni", "price": 650, "priceFamily": 1050 },
-  { "id": 22, "category": "kryesoret", "name": "Fileto Pule Zgare", "description": "Fileto pule zgare", "price": 350, "garnishes": [
-      { "name": "Patate Furre", "price": 100 }, { "name": "Patate të skuqura", "price": 100 }, { "name": "Oriz", "price": 100 }, { "name": "Sallat", "price": 100 }
-    ]},
-  { "id": 23, "category": "kryesoret", "name": "Fileto Pule me Salc", "description": "Fileto pule me salc domatesh dhe speca", "price": 300, "garnishes": [
-      { "name": "Patate Furre", "price": 100 }, { "name": "Patate të skuqura", "price": 100 }, { "name": "Oriz", "price": 100 }, { "name": "Sallat", "price": 100 }
-    ]},
-  { "id": 24, "category": "kryesoret", "name": "Fileto Gici Zgare", "description": "Fileto gici zgare", "price": 350, "garnishes": [
-      { "name": "Patate Furre", "price": 100 }, { "name": "Patate të skuqura", "price": 100 }, { "name": "Oriz", "price": 100 }, { "name": "Sallat", "price": 100 }
-    ]},
-  { "id": 25, "category": "kryesoret", "name": "Lukanik Furre", "description": "Lukanik furre", "price": 250, "garnishes": [
-      { "name": "Patate Furre", "price": 100 }, { "name": "Patate të skuqura", "price": 100 }, { "name": "Oriz", "price": 100 }, { "name": "Sallat", "price": 100 }
-    ]},
-  { "id": 26, "category": "kryesoret", "name": "Eskallop Verë Limon", "description": "Fileto pule, verë, limon", "price": 450, "garnishes": [
-      { "name": "Patate Furre", "price": 50 }, { "name": "Patate të skuqura", "price": 50 }, { "name": "Oriz", "price": 50 }, { "name": "Sallat", "price": 50 }
-    ]},
-  { "id": 27, "category": "kryesoret", "name": "Eskallop Pana Kerpudha", "description": "Fileto pule, pana, kerpudha", "price": 450, "garnishes": [
-      { "name": "Patate Furre", "price": 50 }, { "name": "Patate të skuqura", "price": 50 }, { "name": "Oriz", "price": 50 }, { "name": "Sallat", "price": 50 }
-    ]},
-  { "id": 28, "category": "kryesoret", "name": "Eskallop 4 Djathrat", "description": "Fileto pule, 4 lloje djathi", "price": 450, "garnishes": [
-      { "name": "Patate Furre", "price": 50 }, { "name": "Patate të skuqura", "price": 50 }, { "name": "Oriz", "price": 50 }, { "name": "Sallat", "price": 50 }
-    ]},
-  { "id": 29, "category": "kryesoret", "name": "Omlet", "description": "Omlet me kerpudha, speca, djath", "price": 250, "garnishes": [
-      { "name": "Djath i bardhë", "price": 100 }, { "name": "Patate të skuqura", "price": 100 }, { "name": "Salcice", "price": 150 }, { "name": "Sallat", "price": 100 }
-    ]},
-  { "id": 69, "category": "kryesoret", "name": "Eskallop Pana Kerpudh Tartuf", "description": "Fileto pule, pana, kerpudha, tartuf", "price": 500, "garnishes": [
-      { "name": "Patate Furre", "price": 50 }, { "name": "Patate të skuqura", "price": 50 }, { "name": "Oriz", "price": 50 }, { "name": "Sallat", "price": 50 }
-    ]},
-  { "id": 70, "category": "kryesoret", "name": "Suxhuk Kosove", "description": "Suxhuk i pjekur ne furre", "price": 280, "garnishes": [
-      { "name": "Patate Furre", "price": 100 }, { "name": "Patate të skuqura", "price": 100 }, { "name": "Oriz", "price": 100 }, { "name": "Sallat", "price": 100 }
-    ]},
-  { "id": 30, "category": "sallat", "name": "Sallat Fshati", "description": "Domate, kastravec, ullinj, speca, djath bardhë", "price": 280 },
-  { "id": 31, "category": "sallat", "name": "Sallat Shef", "description": "Salatat jeshile, domate, kastravec, salce sos, guda, proshut, veze", "price": 350 },
-  { "id": 32, "category": "sallat", "name": "Sallat Ton", "description": "Salatat jeshile, domate, kastravec, ton, majonez, guda", "price": 350 },
-  { "id": 33, "category": "sallat", "name": "Sallat Rukola", "description": "Rukola, pomadorini, mozzarella, aceto balsamike", "price": 380 },
-  { "id": 34, "category": "sallat", "name": "Sallat Cezar", "description": "Sallatat jeshile, parmixhano, fileto pule, miser, kruton, salce cezar", "price": 420 },
-  { "id": 35, "category": "supat", "name": "Supë Krem Pule", "description": "Supë kremoze me fileto pule & perime", "price": 250 },
-  { "id": 36, "category": "supat", "name": "Supë Dite", "description": "Supë e ditës", "price": 250 },
-  { "id": 37, "category": "rizoto", "name": "Rizoto Zafferano Pulë", "description": "Rizoto me shafran & fileto pule ", "price": 380 },
-  { "id": 38, "category": "rizoto", "name": "Rizoto Perimesh", "description": "Rizoto me perime të ndryshme", "price": 380 },
-  { "id": 39, "category": "rizoto", "name": "Rizoto Kerpudha", "description": "Rizoto me kerpudha të freskëta & pana", "price": 380 },
-  { "id": 40, "category": "rizoto", "name": "Rizoto 4 Djathrat", "description": "Rizoto me 4 lloje djathi", "price": 380 },
-  { "id": 41, "category": "rizoto", "name": "Rizoto Kerpudhë Krem Tartufi", "description": "Rizoto me kerpudha, pana & tartuf", "price": 400 },
-  { "id": 42, "category": "pasta", "name": "Pasta Napolitan", "description": "Pasta me salce domatesh", "price": 300 },
-  { "id": 43, "category": "pasta", "name": "Pasta Carbonara", "description": "Pasta me beikon, vezë & djath", "price": 380 },
-  { "id": 44, "category": "pasta", "name": "Pasta Al Pesto", "description": "Pasta me salc pesto", "price": 350 },
-  { "id": 45, "category": "pasta", "name": "Pasta Arrabiata", "description": "Pasta me salce domatesh spec pikant", "price": 300 },
-  { "id": 46, "category": "pasta", "name": "Pasta Tono - Kaperi - Ullinj", "description": "Pasta me ton, kaperi & ullinj", "price": 400 },
-  { "id": 47, "category": "pasta", "name": "Pasta Bolognese", "description": "Pasta me salce & mish te grirë", "price": 400 },
-  { "id": 48, "category": "pasta", "name": "Pene Bambo", "description": "Pasta ne furre me proshut, kerpudha, speca, salc & guda", "price": 420 },
-  { "id": 49, "category": "sanduic", "name": "Sanduic Fshati", "description": "Sallam, djath të bardh, guda, domate, majonez", "price": 180 },
-  { "id": 50, "category": "sanduic", "name": "Sanduic Pikant", "description": "Sallam pikant, guda, majones, domate", "price": 180 },
-  { "id": 51, "category": "sanduic", "name": "Sanduic Vegjetarian", "description": "Domate, speca, kastraveca, ullinj, djath i bardhë, guda, majonez", "price": 180 },
-  { "id": 52, "category": "sanduic", "name": "Sanduic Beikon", "description": "Beikon, sallam, djath i bardh, guda, domate, ullinj, majonez", "price": 220 },
-  { "id": 53, "category": "sanduic", "name": "Sanduic Fileto Pule", "description": "Fileto pule, guda, domate, majonez", "price": 220 },
-  { "id": 54, "category": "sanduic", "name": "Sanduic Ton", "description": "Ton, guda, domate, ullinj, majonez", "price": 220 },
-  { "id": 55, "category": "sanduic", "name": "Sanduic Special", "description": "Beikon, fileto pule, djath i bardhë, guda, majonez, domate, patate, ullinj", "price": 250 },
-  { "id": 56, "category": "sanduic", "name": "Club Sanduic", "description": "Proshut, sallat jeshile, majonez, djath, domate & patate", "price": 350 },
-  { "id": 57, "category": "shoqeruese", "name": "Djath i bardhë", "description": "Djath i bardhë deleje", "price": 200 },
-  { "id": 58, "category": "shoqeruese", "name": "Djath i skuqur", "description": "Djath i skuqur i bardhë ose kacukkall", "price": 250 },
-  { "id": 59, "category": "shoqeruese", "name": "Salcë Kosi", "description": "Salcë kosi e freskët", "price": 150 },
-  { "id": 60, "category": "shoqeruese", "name": "Patate të skuqura", "description": "Patate të skuqura të freskëta", "price": 180 },
-  { "id": 61, "category": "shoqeruese", "name": "Perime Zgare", "description": "Speca, patëllxhan, kungull, karrot", "price": 280 },
-  { "id": 62, "category": "shoqeruese", "name": "Antipast e Mesme", "description": "Miks djathrash & sallamrash", "price": 600 },
-  { "id": 63, "category": "shoqeruese", "name": "Antipast e madhe", "description": "Miks djathrash & sallamrash", "price": 1000 },
-  { "id": 71, "category": "shoqeruese", "name": "Patate Furre", "description": "Patate furre", "price": 200 },
-  { "id": 64, "category": "kalcone", "name": "Kalcone Proshutë", "description": "Proshut, djath, salc", "price": 200 },
-  { "id": 65, "category": "kalcone", "name": "Kalcone Proshut Kerpudha", "description": "Proshut, kerpudha, djath, salc", "price": 220 },
-  { "id": 66, "category": "kalcone", "name": "Kalcone Kapricoza", "description": "Proshut, speca, ullinj, djath, salc", "price": 250 },
-  { "id": 67, "category": "kalcone", "name": "Kalcone Fileto Pule", "description": "Fileto pule, djath, salc, domate", "price": 250 },
-  { "id": 68, "category": "kalcone", "name": "Kalcone Ton", "description": "Ton, djath, salc, speca, ullinj", "price": 250 }
+  {
+    "id": 1,
+   "image": "margarita.webp",
+    "category": "pica",
+    "name": "Pica Margarita",
+    "description": "Salc, djath mozzarella",
+    "price": 300,
+    "priceFamily": 550
+  },
+  {
+    "id": 2,
+   "image": "logo.webp",
+    "category": "pica",
+    "name": "Pica Proshut",
+    "description": "Salc, proshut, djath mozzarella",
+    "price": 380,
+    "priceFamily": 650
+  },
+  {
+    "id": 3,
+   "image": "diavola.webp",
+    "category": "pica",
+    "name": "Pica Diavola",
+    "description": "Salc, sallam pikant, djath mozzarella",
+    "price": 400,
+    "priceFamily": 700
+  },
+  {
+    "id": 4,
+   "image": "logo.webp",
+    "category": "pica",
+    "name": "Pica Proshut Kerpudha",
+    "description": "Salc, proshut, kerpudha, djath mozzarella",
+    "price": 400,
+    "priceFamily": 700
+  },
+  {
+    "id": 5,
+   "image": "logo.webp",
+    "category": "pica",
+    "name": "Pica Proshut Sallam",
+    "description": "Salc, proshut, sallam, djath mozzarella",
+    "price": 400,
+    "priceFamily": 700
+  },
+  {
+    "id": 6,
+   "image": "kapricoza.webp",
+    "category": "pica",
+    "name": "Pica Kapricoza",
+    "description": "Salc, sallam, proshut, kerpudha, speca, ullinj",
+    "price": 450,
+    "priceFamily": 800
+  },
+  {
+    "id": 7,
+   "image": "logo.webp",
+    "category": "pica",
+    "name": "Pica Beikon",
+    "description": "Salc, beikon, djath mozzarella,djath i bardhë pomodorini",
+    "price": 450,
+    "priceFamily": 800
+  },
+  {
+    "id": 8,
+   "image": "amerikana.webp",
+    "category": "pica",
+    "name": "Pica Americana",
+    "description": "Salce, salcice, patate, djath mozzarella",
+    "price": 420,
+    "priceFamily": 750
+  },
+  {
+    "id": 9,
+   "image": "logo.webp",
+    "category": "pica",
+    "name": "Pica Ton",
+    "description": "Salce, djath mozzarella, ton, speca, ullinj",
+    "price": 450,
+    "priceFamily": 800
+  },
+  {
+    "id": 10,
+   "image": "logo.webp",
+    "category": "pica",
+    "name": "Pica Alacrema",
+    "description": "Pana, djath mozzarella, proshut, kerpudha",
+    "price": 450,
+    "priceFamily": 800
+  },
+  {
+    "id": 11,
+   "image": "rukolap.webp",
+    "category": "pica",
+    "name": "Pica Rukola",
+    "description": "Salce, djath mozzarella, rukola, parmixhano, pomodorini",
+    "price": 450,
+    "priceFamily": 800
+  },
+  {
+    "id": 12,
+   "image": "logo.webp",
+    "category": "pica",
+    "name": "Pica Vegjetariane",
+    "description": "Salc, djath mozzarella, patëllxhan, kungull, domate, kërpudha, ullinj",
+    "price": 480,
+    "priceFamily": 800
+  },
+  {
+    "id": 13,
+   "image": "logo.webp",
+    "category": "pica",
+    "name": "Pica 4 Stinet",
+    "description": "Salc, djath mozzarella, proshut, ton, kerpudha, speca, ullinj",
+    "price": 480,
+    "priceFamily": 800
+  },
+  {
+    "id": 14,
+   "image": "logo.webp",
+    "category": "pica",
+    "name": "Pica 4 Djathrat",
+    "description": "Salc, djath mozzarella, djath feta, djath parmixhano, djath gorgonxola",
+    "price": 480,
+    "priceFamily": 800
+  },
+  {
+    "id": 15,
+   "image": "speciale.webp",
+    "category": "pica",
+    "name": "Pica Speciale",
+    "description": "Salc, djath mozzarella, proshut, kerpudha, speca, ullinj, beikon, pomodorini",
+    "price": 550,
+    "priceFamily": 900
+  },
+  {
+    "id": 16,
+   "image": "rukolap.webp",
+    "category": "pica",
+    "name": "Pica Krudo",
+    "description": "Salce, djath mozzarella, proshut krudo, rukola, parmixhano, pomodorini",
+    "price": 580,
+    "priceFamily": 950
+  },
+  {
+    "id": 17,
+   "image": "logo.webp",
+    "category": "pica",
+    "name": "Pica Pule",
+    "description": "Salc, djath mozzarella, misër, pomodorini, fileto pule",
+    "price": 550,
+    "priceFamily": 850
+  },
+  {
+    "id": 18,
+   "image": "logo.webp",
+    "category": "pica",
+    "name": "Pica Philadelphia",
+    "description": "Salce, proshut, philadelphia, mozzarella",
+    "price": 550,
+    "priceFamily": 900
+  },
+  {
+    "id": 19,
+   "image": "tartuff.webp",
+    "category": "pica",
+    "name": "Pica Tartuf Proshute Kerpudha",
+    "description": "Salce, mozzarella, proshut, kerpudha, tartuf",
+    "price": 600,
+    "priceFamily": 1000
+  },
+  {
+    "id": 20,
+   "image": "pestoch.webp",
+    "category": "pica",
+    "name": "Pica Chicken Pesto Pomodorini",
+    "description": "Salc, mozzarella, pesto, pule, pomodorini",
+    "price": 600,
+    "priceFamily": 1000
+  },
+  {
+    "id": 21,
+   "image": "logo.webp",
+    "category": "pica",
+    "name": "Pica Bambo",
+    "description": "Salc, mozzarella, djath i bardhë, pomodorini, speca, ullinj, qep, beikon, peperoni",
+    "price": 650,
+    "priceFamily": 1050
+  },
+  {
+    "id": 22,
+   "image": "fileto.webp",
+    "category": "kryesoret",
+    "name": "Fileto Pule Zgare",
+    "description": "Fileto pule zgare",
+    "price": 350,
+    "garnishes": [
+      {
+        "name": "Patate Furre",
+        "price": 100
+      },
+      {
+        "name": "Patate të skuqura",
+        "price": 100
+      },
+      {
+        "name": "Oriz",
+        "price": 100
+      },
+      {
+        "name": "Sallat",
+        "price": 100
+      }
+    ]
+  },
+  {
+    "id": 23,
+   "image": "logo.webp",
+    "category": "kryesoret",
+    "name": "Fileto Pule me Salc",
+    "description": "Fileto pule me salc domatesh dhe speca",
+    "price": 300,
+    "garnishes": [
+      {
+        "name": "Patate Furre",
+        "price": 100
+      },
+      {
+        "name": "Patate të skuqura",
+        "price": 100
+      },
+      {
+        "name": "Oriz",
+        "price": 100
+      },
+      {
+        "name": "Sallat",
+        "price": 100
+      }
+    ]
+  },
+  {
+    "id": 24,
+   "image": "gici.webp",
+    "category": "kryesoret",
+    "name": "Fileto Gici Zgare",
+    "description": "Fileto gici zgare",
+    "price": 350,
+    "garnishes": [
+      {
+        "name": "Patate Furre",
+        "price": 100
+      },
+      {
+        "name": "Patate të skuqura",
+        "price": 100
+      },
+      {
+        "name": "Oriz",
+        "price": 100
+      },
+      {
+        "name": "Sallat",
+        "price": 100
+      }
+    ]
+  },
+  {
+    "id": 25,
+   "image": "llukanik.webp",
+    "category": "kryesoret",
+    "name": "Lukanik Furre",
+    "description": "Lukanik furre",
+    "price": 250,
+    "garnishes": [
+      {
+        "name": "Patate Furre",
+        "price": 100
+      },
+      {
+        "name": "Patate të skuqura",
+        "price": 100
+      },
+      {
+        "name": "Oriz",
+        "price": 100
+      },
+      {
+        "name": "Sallat",
+        "price": 100
+      }
+    ]
+  },
+  {
+    "id": 26,
+   "image": "limon.webp",
+    "category": "kryesoret",
+    "name": "Eskallop Verë Limon",
+    "description": "Fileto pule, verë, limon",
+    "price": 450,
+    "garnishes": [
+      {
+        "name": "Patate Furre",
+        "price": 50
+      },
+      {
+        "name": "Patate të skuqura",
+        "price": 50
+      },
+      {
+        "name": "Oriz",
+        "price": 50
+      },
+      {
+        "name": "Sallat",
+        "price": 50
+      }
+    ]
+  },
+  {
+    "id": 27,
+   "image": "panakerpudha.webp",
+    "category": "kryesoret",
+    "name": "Eskallop Pana Kerpudha",
+    "description": "Fileto pule, pana, kerpudha",
+    "price": 450,
+    "garnishes": [
+      {
+        "name": "Patate Furre",
+        "price": 50
+      },
+      {
+        "name": "Patate të skuqura",
+        "price": 50
+      },
+      {
+        "name": "Oriz",
+        "price": 50
+      },
+      {
+        "name": "Sallat",
+        "price": 50
+      }
+    ]
+  },
+  {
+    "id": 28,
+   "image": "logo.webp",
+    "category": "kryesoret",
+    "name": "Eskallop 4 Djathrat",
+    "description": "Fileto pule, 4 lloje djathi",
+    "price": 450,
+    "garnishes": [
+      {
+        "name": "Patate Furre",
+        "price": 50
+      },
+      {
+        "name": "Patate të skuqura",
+        "price": 50
+      },
+      {
+        "name": "Oriz",
+        "price": 50
+      },
+      {
+        "name": "Sallat",
+        "price": 50
+      }
+    ]
+  },
+  {
+    "id": 29,
+   "image": "logo.webp",
+    "category": "kryesoret",
+    "name": "Omlet",
+    "description": "Omlet me kerpudha, speca, djath",
+    "price": 250,
+    "garnishes": [
+      {
+        "name": "Djath i bardhë",
+        "price": 100
+      },
+      {
+        "name": "Patate të skuqura",
+        "price": 100
+      },
+      {
+        "name": "Salcice",
+        "price": 150
+      },
+      {
+        "name": "Sallat",
+        "price": 100
+      }
+    ]
+  },
+  {
+    "id": 69,
+   "image": "tartuf.webp",
+    "category": "kryesoret",
+    "name": "Eskallop Pana Kerpudh Tartuf",
+    "description": "Fileto pule, pana, kerpudha, tartuf",
+    "price": 500,
+    "garnishes": [
+      {
+        "name": "Patate Furre",
+        "price": 50
+      },
+      {
+        "name": "Patate të skuqura",
+        "price": 50
+      },
+      {
+        "name": "Oriz",
+        "price": 50
+      },
+      {
+        "name": "Sallat",
+        "price": 50
+      }
+    ]
+  },
+  {
+    "id": 70,
+   "image": "suxhuk.webp",
+    "category": "kryesoret",
+    "name": "Suxhuk Kosove",
+    "description": "Suxhuk i pjekur ne furre",
+    "price": 280,
+    "garnishes": [
+      {
+        "name": "Patate Furre",
+        "price": 100
+      },
+      {
+        "name": "Patate të skuqura",
+        "price": 100
+      },
+      {
+        "name": "Oriz",
+        "price": 100
+      },
+      {
+        "name": "Sallat",
+        "price": 100
+      }
+    ]
+  },
+  {
+    "id": 30,
+   "image": "logo.webp",
+    "category": "sallat",
+    "name": "Sallat Fshati",
+    "description": "Domate, kastravec, ullinj, speca, djath bardhë",
+    "price": 280
+  },
+  {
+    "id": 31,
+   "image": "logo.webp",
+    "category": "sallat",
+    "name": "Sallat Shef",
+    "description": "Salatat jeshile, domate, kastravec, salce sos, guda, proshut, veze",
+    "price": 350
+  },
+  {
+    "id": 32,
+   "image": "logo.webp",
+    "category": "sallat",
+    "name": "Sallat Ton",
+    "description": "Salatat jeshile, domate, kastravec, ton, majonez, guda",
+    "price": 350
+  },
+  {
+    "id": 33,
+   "image": "rukola.webp",
+    "category": "sallat",
+    "name": "Sallat Rukola",
+    "description": "Rukola, pomadorini, mozzarella, aceto balsamike",
+    "price": 380
+  },
+  {
+    "id": 34,
+   "image": "cezar.webp",
+    "category": "sallat",
+    "name": "Sallat Cezar",
+    "description": "Sallatat jeshile, parmixhano, fileto pule, miser, kruton, salce cezar",
+    "price": 420
+  },
+  {
+    "id": 35,
+   "image": "logo.webp",
+    "category": "supat",
+    "name": "Supë Krem Pule",
+    "description": "Supë kremoze me fileto pule & perime",
+    "price": 250
+  },
+  {
+    "id": 36,
+   "image": "logo.webp",
+    "category": "supat",
+    "name": "Supë Dite",
+    "description": "Supë e ditës",
+    "price": 250
+  },
+  {
+    "id": 37,
+   "image": "zaferano.webp",
+    "category": "rizoto",
+    "name": "Rizoto Zafferano Pulë",
+    "description": "Rizoto me shafran & fileto pule ",
+    "price": 380
+  },
+  {
+    "id": 38,
+   "image": "perimer.webp",
+    "category": "rizoto",
+    "name": "Rizoto Perimesh",
+    "description": "Rizoto me perime të ndryshme",
+    "price": 380
+  },
+  {
+    "id": 39,
+   "image": "kerpudha.webp",
+    "category": "rizoto",
+    "name": "Rizoto Kerpudha",
+    "description": "Rizoto me kerpudha të freskëta & pana",
+    "price": 380
+  },
+  {
+    "id": 40,
+   "image": "logo.webp",
+    "category": "rizoto",
+    "name": "Rizoto 4 Djathrat",
+    "description": "Rizoto me 4 lloje djathi",
+    "price": 380
+  },
+  {
+    "id": 41,
+   "image": "logo.webp",
+    "category": "rizoto",
+    "name": "Rizoto Kerpudhë Krem Tartufi",
+    "description": "Rizoto me kerpudha, pana & tartuf",
+    "price": 400
+  },
+  {
+    "id": 42,
+   "image": "napolitana.webp",
+    "category": "pasta",
+    "name": "Pasta Napolitan",
+    "description": "Pasta me salce domatesh",
+    "price": 300
+  },
+  {
+    "id": 43,
+   "image": "carbonara.webp",
+    "category": "pasta",
+    "name": "Pasta Carbonara",
+    "description": "Pasta me beikon, vezë & djath",
+    "price": 380
+  },
+  {
+    "id": 44,
+   "image": "pesto.webp",
+    "category": "pasta",
+    "name": "Pasta Al Pesto",
+    "description": "Pasta me salc pesto",
+    "price": 350
+  },
+  {
+    "id": 45,
+   "image": "arrabiata.webp",
+    "category": "pasta",
+    "name": "Pasta Arrabiata",
+    "description": "Pasta me salce domatesh spec pikant",
+    "price": 300
+  },
+  {
+    "id": 46,
+   "image": "tono.webp",
+    "category": "pasta",
+    "name": "Pasta Tono - Kaperi - Ullinj",
+    "description": "Pasta me ton, kaperi & ullinj",
+    "price": 400
+  },
+  {
+    "id": 47,
+   "image": "bolonjez.webp",
+    "category": "pasta",
+    "name": "Pasta Bolognese",
+    "description": "Pasta me salce & mish te grirë",
+    "price": 400
+  },
+  {
+    "id": 48,
+   "image": "logo.webp",
+    "category": "pasta",
+    "name": "Pene Bambo",
+    "description": "Pasta ne furre me proshut, kerpudha, speca, salc & guda",
+    "price": 420
+  },
+  {
+    "id": 49,
+   "image": "sanduic.webp",
+    "category": "sanduic",
+    "name": "Sanduic Fshati",
+    "description": "Sallam, djath të bardh, guda, domate, majonez",
+    "price": 180
+  },
+  {
+    "id": 50,
+   "image": "sanduic.webp",
+    "category": "sanduic",
+    "name": "Sanduic Pikant",
+    "description": "Sallam pikant, guda, majones, domate",
+    "price": 180
+  },
+  {
+    "id": 51,
+   "image": "sanduic.webp",
+    "category": "sanduic",
+    "name": "Sanduic Vegjetarian",
+    "description": "Domate, speca, kastraveca, ullinj, djath i bardhë, guda, majonez",
+    "price": 180
+  },
+  {
+    "id": 52,
+   "image": "sanduic.webp",
+    "category": "sanduic",
+    "name": "Sanduic Beikon",
+    "description": "Beikon, sallam, djath i bardh, guda, domate, ullinj, majonez",
+    "price": 220
+  },
+  {
+    "id": 53,
+   "image": "sanduic.webp",
+    "category": "sanduic",
+    "name": "Sanduic Fileto Pule",
+    "description": "Fileto pule, guda, domate, majonez",
+    "price": 220
+  },
+  {
+    "id": 54,
+   "image": "sanduic.webp",
+    "category": "sanduic",
+    "name": "Sanduic Ton",
+    "description": "Ton, guda, domate, ullinj, majonez",
+    "price": 220
+  },
+  {
+    "id": 55,
+   "image": "sanduic.webp",
+    "category": "sanduic",
+    "name": "Sanduic Special",
+    "description": "Beikon, fileto pule, djath i bardhë, guda, majonez, domate, patate, ullinj",
+    "price": 250
+  },
+  {
+    "id": 56,
+   "image": "club.webp",
+    "category": "sanduic",
+    "name": "Club Sanduic",
+    "description": "Proshut, sallat jeshile, majonez, djath, domate & patate",
+    "price": 350
+  },
+  {
+    "id": 57,
+   "image": "djath.webp",
+    "category": "shoqeruese",
+    "name": "Djath i bardhë",
+    "description": "Djath i bardhë deleje",
+    "price": 200
+  },
+  {
+    "id": 58,
+   "image": "dskuqur.webp",
+    "category": "shoqeruese",
+    "name": "Djath i skuqur",
+    "description": "Djath i skuqur i bardhë ose kacukkall",
+    "price": 250
+  },
+  {
+    "id": 59,
+   "image": "salcekosi.webp",
+    "category": "shoqeruese",
+    "name": "Salcë Kosi",
+    "description": "Salcë kosi e freskët",
+    "price": 150
+  },
+  {
+    "id": 60,
+   "image": "skuqura.webp",
+    "category": "shoqeruese",
+    "name": "Patate të skuqura",
+    "description": "Patate të skuqura të freskëta",
+    "price": 180
+  },
+  {
+    "id": 61,
+   "image": "perime.webp",
+    "category": "shoqeruese",
+    "name": "Perime Zgare",
+    "description": "Speca, patëllxhan, kungull, karrot",
+    "price": 280
+  },
+  {
+    "id": 62,
+   "image": "antipast.webp",
+    "category": "shoqeruese",
+    "name": "Antipast e Mesme",
+    "description": "Miks djathrash & sallamrash",
+    "price": 600
+  },
+  {
+    "id": 63,
+   "image": "antipast.webp",
+    "category": "shoqeruese",
+    "name": "Antipast e madhe",
+    "description": "Miks djathrash & sallamrash",
+    "price": 1000
+  },
+  {
+    "id": 71,
+   "image": "furre.webp",
+    "category": "shoqeruese",
+    "name": "Patate Furre",
+    "description": "Patate furre",
+    "price": 200
+  },
+  {
+    "id": 64,
+   "image": "kalcone.webp",
+    "category": "kalcone",
+    "name": "Kalcone Proshutë",
+    "description": "Proshut, djath, salc",
+    "price": 200
+  },
+  {
+    "id": 65,
+   "image": "kalcone.webp",
+    "category": "kalcone",
+    "name": "Kalcone Proshut Kerpudha",
+    "description": "Proshut, kerpudha, djath, salc",
+    "price": 220
+  },
+  {
+    "id": 66,
+   "image": "kalcone.webp",
+    "category": "kalcone",
+    "name": "Kalcone Kapricoza",
+    "description": "Proshut, speca, ullinj, djath, salc",
+    "price": 250
+  },
+  {
+    "id": 67,
+   "image": "kalcone.webp",
+    "category": "kalcone",
+    "name": "Kalcone Fileto Pule",
+    "description": "Fileto pule, djath, salc, domate",
+    "price": 250
+  },
+  {
+    "id": 68,
+   "image": "kalcone.webp",
+    "category": "kalcone",
+    "name": "Kalcone Ton",
+    "description": "Ton, djath, salc, speca, ullinj",
+    "price": 250
+  }
 ]

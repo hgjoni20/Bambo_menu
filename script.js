@@ -37,7 +37,7 @@ function filterCategory(cat) {
   renderProducts();
 }
 
-// 3. Shfaqja e Produkteve
+// 3. Shfaqja e Produkteve me Foto
 function renderProducts() {
   const container = document.getElementById("products");
   if (!container) return;
@@ -50,6 +50,8 @@ function renderProducts() {
   filtered.forEach(p => {
     const card = document.createElement("div");
     card.className = "card";
+    let imageHTML = p.image ? `<img src="assets/${p.image}" alt="${p.name}" class="product-img"
+    loading="lazy">` : '';
 
     let sizeHTML = '';
     if (p.priceFamily) {
@@ -92,12 +94,16 @@ function renderProducts() {
       `;
     }
 
+    // Fotoja vendoset e para, sipër emrit h3
     card.innerHTML = `
-      <h3>${p.name}</h3>
-      <p class="desc">${p.description || ''}</p>
-      ${sizeHTML}
-      ${garnishHTML}
-      <p class="price" data-base-price="${p.price}"><span class="base-price">${p.price}</span> Lekë</p>
+      ${imageHTML}
+      <div class="card-content">
+        <h3>${p.name}</h3>
+        <p class="desc">${p.description || ''}</p>
+        ${sizeHTML}
+        ${garnishHTML}
+        <p class="price" data-base-price="${p.price}"><span class="base-price">${p.price}</span> Lekë</p>
+      </div>
     `;
     container.appendChild(card);
   });
@@ -131,24 +137,14 @@ function refreshTotalPrice(card) {
   card.querySelector('.base-price').innerText = basePrice + extra;
 }
 
-// 4. Ndryshimi i Gjuhës (Funksioni i unifikuar)
 function changeLanguage(lang) {
-  console.log("Duke ndryshuar në:", lang);
-  
-  // Resetojmë kategorinë në "all" që të mos mbetet bosh menuja
   currentCategory = "all";
-
   const placeholders = { sq: 'Kërko ushqimin...', en: 'Search food...', it: 'Cerca cibo...' };
   const searchInput = document.getElementById('menuSearch');
   if (searchInput) searchInput.placeholder = placeholders[lang];
-
   loadMenu(lang);
-
-  // Mbyllim menunë "slide" pas zgjedhjes së gjuhës
   const menu = document.getElementById('languageOptions');
-  if (menu) {
-    menu.classList.remove('show');
-  }
+  if (menu) menu.classList.remove('show');
 }
 
 function searchMenu() {
@@ -167,16 +163,12 @@ function toggleLanguages() {
 window.onscroll = function() {
   let btn = document.getElementById("backToTop");
   if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 400) {
-    btn.style.display = "flex"; // Përdorim 'flex' për të qendërzuar shigjetën
+    btn.style.display = "flex";
   } else {
     btn.style.display = "none";
   }
 };
 
 function scrollToTop() {
-  window.scrollTo({
-    top: 0,
-    behavior: 'smooth'
-  });
+  window.scrollTo({ top: 0, behavior: 'smooth' });
 }
-
