@@ -10,7 +10,7 @@ const ASSETS = [
   './data/en.json',
   './data/sq.json',
   './data/it.json',
-'./assets/logo.webp',
+  './assets/logo.webp',
   './assets/italy.png',
   './assets/djath.webp',
   './assets/llukanik.webp',
@@ -67,22 +67,35 @@ const ASSETS = [
   './assets/jeshile.webp',
   './assets/proshutk.webp',
   './assets/fileto.webp',
-
-
-
-  // Shto këtu path-et e ikonave dhe fotove kryesore
 ];
 
-// Instalo Service Worker dhe ruaj resurset në Cache
+// 1. INSTALIMI
 self.addEventListener('install', (e) => {
   e.waitUntil(
     caches.open(CACHE_NAME).then((cache) => {
       return cache.addAll(ASSETS);
     })
   );
+  self.skipWaiting(); // <--- KJO detyron SW e ri të instalohet menjëherë
 });
 
-// Shërbeji resurset nga Cache nëse nuk ka internet
+// 2. AKTIVIZIMI (Pastrimi i versioneve të vjetra)
+self.addEventListener('activate', (e) => {
+  e.waitUntil(
+    caches.keys().then((cacheNames) => {
+      return Promise.all(
+        cacheNames.map((cache) => {
+          if (cache !== CACHE_NAME) {
+            console.log('Duke fshirë cache-in e vjetër:', cache);
+            return caches.delete(cache);
+          }
+        })
+      );
+    }).then(() => self.clients.claim()) // <--- KJO merr kontrollin e faqes menjëherë
+  );
+});
+
+// 3. FETCH
 self.addEventListener('fetch', (e) => {
   e.respondWith(
     caches.match(e.request).then((response) => {
