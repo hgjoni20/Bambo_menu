@@ -1,3 +1,13 @@
+// Regjistrimi i Service Worker për PWA
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('/service-worker.js')
+      .then(reg => console.log('Service Worker u regjistrua!', reg))
+      .catch(err => console.log('Gabim në regjistrim:', err));
+  });
+}
+
+
 let currentLang = "sq";
 let currentCategory = "all"; 
 let products = [];
