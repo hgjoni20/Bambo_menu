@@ -1,4 +1,4 @@
-const CACHE_NAME = 'bambo-menu-v1.3';
+const CACHE_NAME = 'bambo-menu-v1.3.1';
 const ASSETS = [
   './',
   './index.html',
@@ -6,6 +6,7 @@ const ASSETS = [
   './about.html',
   './about.css',
   './script.js',
+  './manifest.json',
   './data/en.json',
   './data/sq.json',
   './data/it.json',
