@@ -1,9 +1,14 @@
-// Regjistrimi i Service Worker për PWA
+// Regjistrimi i Service Worker për PWA (GitHub Pages Friendly)
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => {
-    navigator.serviceWorker.register('/service-worker.js')
-      .then(reg => console.log('Service Worker u regjistrua!', reg))
-      .catch(err => console.log('Gabim në regjistrim:', err));
+    // Përdorim ./ që ta gjejë skedarin brenda folderit të projektit
+    navigator.serviceWorker.register('./service-worker.js')
+      .then(reg => {
+        console.log('Service Worker u regjistrua me sukses! Scope:', reg.scope);
+      })
+      .catch(err => {
+        console.log('Dështoi regjistrimi i Service Worker:', err);
+      });
   });
 }
 
