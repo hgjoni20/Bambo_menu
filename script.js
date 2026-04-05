@@ -1,14 +1,13 @@
-// Regjistrimi i Service Worker për PWA (GitHub Pages Friendly)
 if ('serviceWorker' in navigator) {
-  window.addEventListener('load', () => {
-    // Përdorim ./ që ta gjejë skedarin brenda folderit të projektit
-    navigator.serviceWorker.register('./service-worker.js')
-      .then(reg => {
-        console.log('Service Worker u regjistrua me sukses! Scope:', reg.scope);
-      })
-      .catch(err => {
-        console.log('Dështoi regjistrimi i Service Worker:', err);
-      });
+  // Regjistrimi me 'updateViaCache: none' që të marrim ndryshimet nga GitHub menjëherë
+  navigator.serviceWorker.register('./service-worker.js', {
+    updateViaCache: 'none' 
+  }).then(reg => {
+    // I themi browser-it: "Shko kontrollo te GitHub nese ka version te ri"
+    reg.update(); 
+    console.log('Service Worker u regjistrua pa Cache! Scope:', reg.scope);
+  }).catch(err => {
+    console.error('Gabim gjatë regjistrimit të SW:', err);
   });
 }
 
