@@ -2,7 +2,7 @@ let currentLang = "sq";
 let currentCategory = "all"; 
 let products = [];
 
-// 1. Ngarkimi i të dhënave (Sipas gjuhës)
+// 1. Ngarkimi i Menu-së
 function loadMenu(lang) {
   currentLang = lang;
   fetch(`data/${lang}.json`)
@@ -37,7 +37,7 @@ function filterCategory(cat) {
   renderProducts();
 }
 
-// 3. Shfaqja e Produkteve me Foto
+// 3. Shfaqja e Produkteve
 function renderProducts() {
   const container = document.getElementById("products");
   if (!container) return;
@@ -50,8 +50,13 @@ function renderProducts() {
   filtered.forEach(p => {
     const card = document.createElement("div");
     card.className = "card";
-    let imageHTML = p.image ? `<img src="assets/${p.image}" alt="${p.name}" class="product-img"
-    loading="lazy">` : '';
+    
+    // INTEGRIMI I LOGJIKËS: Ruajmë tipin e logjikës në një atribut HTML
+    if (p.logic_type) {
+      card.setAttribute('data-logic', p.logic_type);
+    }
+
+    let imageHTML = p.image ? `<img src="assets/${p.image}" alt="${p.name}" class="product-img" loading="lazy">` : '';
 
     let sizeHTML = '';
     if (p.priceFamily) {
@@ -94,7 +99,6 @@ function renderProducts() {
       `;
     }
 
-    // Fotoja vendoset e para, sipër emrit h3
     card.innerHTML = `
       ${imageHTML}
       <div class="card-content">
@@ -124,16 +128,26 @@ function updateGarnishPrice(el) {
   refreshTotalPrice(el.closest('.card'));
 }
 
+
 function refreshTotalPrice(card) {
   const basePrice = parseInt(card.querySelector('.price').getAttribute('data-base-price'));
   const selectedGarnishes = [...card.querySelectorAll('.garnish-card.selected')];
-  const productName = card.querySelector('h3').innerText.toLowerCase();
+  
+  
+  const logicType = card.getAttribute('data-logic'); 
+  
   let extra = 0;
   selectedGarnishes.forEach((g, idx) => {
-    let p = parseInt(g.getAttribute('data-price'));
-    if (idx === 1 && productName.includes('eskallop')) { p *= 2; }
+    let p = parseInt(g.getAttribute('data-price')) || 0;
+
+    
+    if (idx === 1 && logicType === 'double_garnish') { 
+      p = p * 2; 
+    }
+    
     extra += p;
   });
+
   card.querySelector('.base-price').innerText = basePrice + extra;
 }
 
@@ -157,11 +171,13 @@ function searchMenu() {
 
 function toggleLanguages() {
   const menu = document.getElementById('languageOptions');
-  menu.classList.toggle('show');
+  if (menu) menu.classList.toggle('show');
 }
 
+// Scroll Button
 window.onscroll = function() {
   let btn = document.getElementById("backToTop");
+  if (!btn) return;
   if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 400) {
     btn.style.display = "flex";
   } else {

@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-   "image": "logo.webp",
+   "image": "proshut.webp",
     "category": "pizza",
     "name": "Pizza al Prosciutto",
     "description": "Salsa di pomodoro, prosciutto cotto, mozzarella",
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-   "image": "logo.webp",
+   "image": "proshutk.webp",
     "category": "pizza",
     "name": "Pizza Prosciutto e Funghi",
     "description": "Salsa di pomodoro, prosciutto, funghi, mozzarella",
@@ -82,7 +82,7 @@
   },
   {
     "id": 10,
-   "image": "logo.webp",
+   "image": "alacrema.webp",
     "category": "pizza",
     "name": "Pizza alla Crema",
     "description": "Panna, mozzarella, prosciutto, funghi",
@@ -100,7 +100,7 @@
   },
   {
     "id": 12,
-   "image": "logo.webp",
+   "image": "vegjetariane.webp",
     "category": "pizza",
     "name": "Pizza Vegetariana",
     "description": "Salsa di pomodoro, mozzarella, melanzane, zucchine, pomodori, funghi, olive",
@@ -109,7 +109,7 @@
   },
   {
     "id": 13,
-   "image": "logo.webp",
+   "image": "4st.webp",
     "category": "pizza",
     "name": "Pizza 4 Stagioni",
     "description": "Salsa di pomodoro, mozzarella, prosciutto, tonno, funghi, peperoni, olive",
@@ -118,7 +118,7 @@
   },
   {
     "id": 14,
-   "image": "logo.webp",
+   "image": "4dj.webp",
     "category": "pizza",
     "name": "Pizza 4 Formaggi",
     "description": "Salsa di pomodoro, mozzarella, feta, parmigiano, gorgonzola",
@@ -145,7 +145,7 @@
   },
   {
     "id": 17,
-   "image": "logo.webp",
+   "image": "pule.webp",
     "category": "pizza",
     "name": "Pizza al Pollo",
     "description": "Salsa di pomodoro, mozzarella, mais, pomodorini, filetto di pollo",
@@ -216,7 +216,7 @@
   },
   {
     "id": 23,
-   "image": "logo.webp",
+   "image": "salce.webp",
     "category": "secondi",
     "name": "Filetto di Pollo al Sugo",
     "description": "Filetto di pollo con salsa di pomodoro e peperoni",
@@ -296,6 +296,7 @@
     "id": 26,
    "image": "limon.webp",
     "category": "secondi",
+    "logic_type": "double_garnish",
     "name": "Scaloppina al Vino e Limone",
     "description": "Filetto di pollo, vino bianco, limone",
     "price": 450,
@@ -322,6 +323,7 @@
     "id": 27,
    "image": "panakerpudha.webp",
     "category": "secondi",
+    "logic_type": "double_garnish",
     "name": "Scaloppina Panna e Funghi",
     "description": "Filetto di pollo, panna, funghi",
     "price": 450,
@@ -348,6 +350,7 @@
     "id": 28,
    "image": "logo.webp",
     "category": "secondi",
+    "logic_type": "double_garnish",
     "name": "Scaloppina ai 4 Formaggi",
     "description": "Filetto di pollo, 4 tipi di formaggio",
     "price": 450,
@@ -400,6 +403,7 @@
     "id": 69,
    "image": "tartuf.webp",
     "category": "secondi",
+    "logic_type": "double_garnish",
     "name": "Scaloppina Panna, Funghi e Tartufo",
     "description": "Filetto di pollo, panna, funghi, tartufo",
     "price": 500,
@@ -450,7 +454,7 @@
   },
   {
     "id": 30,
-   "image": "logo.webp",
+   "image": "fshati.webp",
     "category": "insalate",
     "name": "Insalata del Villaggio",
     "description": "Pomodori, cetrioli, olive, peperoni, formaggio feta",
@@ -490,7 +494,7 @@
   },
   {
     "id": 35,
-   "image": "logo.webp",
+   "image": "supe.webp",
     "category": "zuppe",
     "name": "Vellutata di Pollo",
     "description": "Zuppa cremosa con filetto di pollo e verdure",
@@ -498,7 +502,7 @@
   },
   {
     "id": 36,
-   "image": "logo.webp",
+   "image": "dite.webp",
     "category": "zuppe",
     "name": "Zuppa del Giorno",
     "description": "Zuppa fresca del giorno",
@@ -530,7 +534,7 @@
   },
   {
     "id": 40,
-   "image": "logo.webp",
+   "image": "rtaruf.webp",
     "category": "risotti",
     "name": "Risotto ai 4 Formaggi",
     "description": "Risotto con 4 tipi di formaggio",

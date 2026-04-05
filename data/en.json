@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-   "image": "logo.webp",
+   "image": "proshut.webp",
     "category": "pizza",
     "name": "Pizza Ham",
     "description": "Tomato sauce, ham, mozzarella cheese",
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-   "image": "logo.webp",
+   "image": "proshutk.webp",
     "category": "pizza",
     "name": "Pizza Ham & Mushroom",
     "description": "Tomato sauce, ham, mushrooms, mozzarella cheese",
@@ -82,7 +82,7 @@
   },
   {
     "id": 10,
-   "image": "logo.webp",
+   "image": "alacrema.webp",
     "category": "pizza",
     "name": "Pizza Alacrema",
     "description": "White cream, mozzarella cheese, ham, mushrooms",
@@ -100,7 +100,7 @@
   },
   {
     "id": 12,
-   "image": "logo.webp",
+   "image": "vegjetariane.webp",
     "category": "pizza",
     "name": "Vegetarian Pizza",
     "description": "Tomato sauce, mozzarella cheese, eggplants, zucchini, tomatoes, mushrooms, olives",
@@ -109,7 +109,7 @@
   },
   {
     "id": 13,
-   "image": "logo.webp",
+   "image": "4st.webp",
     "category": "pizza",
     "name": "Pizza 4 Seasons",
     "description": "Tomato sauce, mozzarella cheese, ham, tuna, mushrooms, peppers, olives",
@@ -118,7 +118,7 @@
   },
   {
     "id": 14,
-   "image": "logo.webp",
+   "image": "4dj.webp",
     "category": "pizza",
     "name": "Pizza 4 Cheeses",
     "description": "Tomato sauce, mozzarella cheese, feta cheese, parmesan cheese, gorgonzola cheese",
@@ -145,7 +145,7 @@
   },
   {
     "id": 17,
-   "image": "logo.webp",
+   "image": "pule.webp",
     "category": "pizza",
     "name": "Chicken Pizza",
     "description": "Tomato sauce, mozzarella cheese, sweet corn, cherry tomatoes, chicken fillet",
@@ -216,7 +216,7 @@
   },
   {
     "id": 23,
-   "image": "logo.webp",
+   "image": "salce.webp",
     "category": "mains",
     "name": "Chicken Fillet with Sauce",
     "description": "Chicken fillet with tomato sauce and peppers",
@@ -296,6 +296,7 @@
     "id": 26,
    "image": "limon.webp",
     "category": "mains",
+    "logic_type": "double_garnish",
     "name": "Escalope with Wine & Lemon",
     "description": "Chicken fillet, wine, lemon",
     "price": 450,
@@ -322,6 +323,7 @@
     "id": 27,
    "image": "panakerpudha.webp",
     "category": "mains",
+    "logic_type": "double_garnish",
     "name": "Escalope with Cream and Mushrooms",
     "description": "Chicken fillet, cream, mushrooms",
     "price": 450,
@@ -348,6 +350,7 @@
     "id": 28,
    "image": "logo.webp",
     "category": "mains",
+    "logic_type": "double_garnish",
     "name": "Escalope 4 Cheeses",
     "description": "Chicken fillet, 4 types of cheese",
     "price": 450,
@@ -400,6 +403,7 @@
     "id": 69,
    "image": "tartuf.webp",
     "category": "mains",
+    "logic_type": "double_garnish",
     "name": "Escalope with Cream, Mushrooms & Truffle",
     "description": "Chicken fillet, cream, mushrooms, truffle",
     "price": 500,
@@ -450,7 +454,7 @@
   },
   {
     "id": 30,
-   "image": "logo.webp",
+   "image": "fshati.webp",
     "category": "salads",
     "name": "Village Salad",
     "description": "Tomato, cucumber, olives, peppers, feta cheese",
@@ -490,7 +494,7 @@
   },
   {
     "id": 35,
-   "image": "logo.webp",
+   "image": "supe.webp",
     "category": "soups",
     "name": "Chicken Cream Soup",
     "description": "Creamy soup with chicken fillet & vegetables",
@@ -498,7 +502,7 @@
   },
   {
     "id": 36,
-   "image": "logo.webp",
+   "image": "dite.webp",
     "category": "soups",
     "name": "Soup of the Day",
     "description": "Fresh soup of the day",
@@ -538,7 +542,7 @@
   },
   {
     "id": 41,
-   "image": "logo.webp",
+   "image": "rtartuf.webp",
     "category": "risotto",
     "name": "Mushroom Truffle Cream Risotto",
     "description": "Risotto with mushrooms, cream & truffle",

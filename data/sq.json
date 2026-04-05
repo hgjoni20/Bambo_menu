@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-   "image": "logo.webp",
+   "image": "proshut.webp",
     "category": "pica",
     "name": "Pica Proshut",
     "description": "Salc, proshut, djath mozzarella",
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-   "image": "logo.webp",
+   "image": "proshutk.webp",
     "category": "pica",
     "name": "Pica Proshut Kerpudha",
     "description": "Salc, proshut, kerpudha, djath mozzarella",
@@ -82,7 +82,7 @@
   },
   {
     "id": 10,
-   "image": "logo.webp",
+   "image": "alacrema.webp",
     "category": "pica",
     "name": "Pica Alacrema",
     "description": "Pana, djath mozzarella, proshut, kerpudha",
@@ -100,7 +100,7 @@
   },
   {
     "id": 12,
-   "image": "logo.webp",
+   "image": "vegjetariane.webp",
     "category": "pica",
     "name": "Pica Vegjetariane",
     "description": "Salc, djath mozzarella, patëllxhan, kungull, domate, kërpudha, ullinj",
@@ -109,7 +109,7 @@
   },
   {
     "id": 13,
-   "image": "logo.webp",
+   "image": "4st.webp",
     "category": "pica",
     "name": "Pica 4 Stinet",
     "description": "Salc, djath mozzarella, proshut, ton, kerpudha, speca, ullinj",
@@ -118,7 +118,7 @@
   },
   {
     "id": 14,
-   "image": "logo.webp",
+   "image": "4dj.webp",
     "category": "pica",
     "name": "Pica 4 Djathrat",
     "description": "Salc, djath mozzarella, djath feta, djath parmixhano, djath gorgonxola",
@@ -145,7 +145,7 @@
   },
   {
     "id": 17,
-   "image": "logo.webp",
+   "image": "pule.webp",
     "category": "pica",
     "name": "Pica Pule",
     "description": "Salc, djath mozzarella, misër, pomodorini, fileto pule",
@@ -216,7 +216,7 @@
   },
   {
     "id": 23,
-   "image": "logo.webp",
+   "image": "salce.webp",
     "category": "kryesoret",
     "name": "Fileto Pule me Salc",
     "description": "Fileto pule me salc domatesh dhe speca",
@@ -296,6 +296,7 @@
     "id": 26,
    "image": "limon.webp",
     "category": "kryesoret",
+    "logic_type": "double_garnish",
     "name": "Eskallop Verë Limon",
     "description": "Fileto pule, verë, limon",
     "price": 450,
@@ -322,6 +323,7 @@
     "id": 27,
    "image": "panakerpudha.webp",
     "category": "kryesoret",
+    "logic_type": "double_garnish",
     "name": "Eskallop Pana Kerpudha",
     "description": "Fileto pule, pana, kerpudha",
     "price": 450,
@@ -348,6 +350,7 @@
     "id": 28,
    "image": "logo.webp",
     "category": "kryesoret",
+    "logic_type": "double_garnish",
     "name": "Eskallop 4 Djathrat",
     "description": "Fileto pule, 4 lloje djathi",
     "price": 450,
@@ -400,6 +403,7 @@
     "id": 69,
    "image": "tartuf.webp",
     "category": "kryesoret",
+    "logic_type": "double_garnish",
     "name": "Eskallop Pana Kerpudh Tartuf",
     "description": "Fileto pule, pana, kerpudha, tartuf",
     "price": 500,
@@ -450,7 +454,7 @@
   },
   {
     "id": 30,
-   "image": "logo.webp",
+   "image": "fshati.webp",
     "category": "sallat",
     "name": "Sallat Fshati",
     "description": "Domate, kastravec, ullinj, speca, djath bardhë",
@@ -490,7 +494,7 @@
   },
   {
     "id": 35,
-   "image": "logo.webp",
+   "image": "supe.webp",
     "category": "supat",
     "name": "Supë Krem Pule",
     "description": "Supë kremoze me fileto pule & perime",
@@ -498,7 +502,7 @@
   },
   {
     "id": 36,
-   "image": "logo.webp",
+   "image": "dite.webp",
     "category": "supat",
     "name": "Supë Dite",
     "description": "Supë e ditës",
@@ -538,7 +542,7 @@
   },
   {
     "id": 41,
-   "image": "logo.webp",
+   "image": "rtartuf.webp",
     "category": "rizoto",
     "name": "Rizoto Kerpudhë Krem Tartufi",
     "description": "Rizoto me kerpudha, pana & tartuf",
