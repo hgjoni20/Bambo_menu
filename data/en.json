@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-   "image": "margarita.webp",
+    "image": "margarita.webp",
     "category": "pizza",
     "name": "Pizza Margherita",
     "description": "Tomato sauce, mozzarella cheese",
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-   "image": "proshut.webp",
+    "image": "proshut.webp",
     "category": "pizza",
     "name": "Pizza Ham",
     "description": "Tomato sauce, ham, mozzarella cheese",
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-   "image": "diavola.webp",
+    "image": "diavola.webp",
     "category": "pizza",
     "name": "Pizza Diavola",
     "description": "Tomato sauce, pepperoni, mozzarella cheese",
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-   "image": "proshutk.webp",
+    "image": "proshutk.webp",
     "category": "pizza",
     "name": "Pizza Ham & Mushroom",
     "description": "Tomato sauce, ham, mushrooms, mozzarella cheese",
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-   "image": "logo.webp",
+    "image": "logo.webp",
     "category": "pizza",
     "name": "Pizza Ham & Salami",
     "description": "Tomato sauce, ham, salami, mozzarella cheese",
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-   "image": "kapricoza.webp",
+    "image": "kapricoza.webp",
     "category": "pizza",
     "name": "Pizza Capricciosa",
     "description": "Tomato sauce, salami, ham, mushrooms, peppers, olives",
@@ -55,7 +55,7 @@
   },
   {
     "id": 7,
-   "image": "logo.webp",
+    "image": "beikon.webp",
     "category": "pizza",
     "name": "Pizza Bacon",
     "description": "Tomato sauce, bacon, mozzarella cheese, feta cheese, cherry tomatoes",
@@ -64,7 +64,7 @@
   },
   {
     "id": 8,
-   "image": "amerikana.webp",
+    "image": "amerikana.webp",
     "category": "pizza",
     "name": "Pizza Americana",
     "description": "Tomato sauce, sausage, potatoes, mozzarella cheese",
@@ -73,7 +73,7 @@
   },
   {
     "id": 9,
-   "image": "logo.webp",
+    "image": "pton.webp",
     "category": "pizza",
     "name": "Pizza Tuna",
     "description": "Tomato sauce, mozzarella cheese, tuna, peppers, olives",
@@ -82,7 +82,7 @@
   },
   {
     "id": 10,
-   "image": "alacrema.webp",
+    "image": "alacrema.webp",
     "category": "pizza",
     "name": "Pizza Alacrema",
     "description": "White cream, mozzarella cheese, ham, mushrooms",
@@ -91,7 +91,7 @@
   },
   {
     "id": 11,
-   "image": "rukolap.webp",
+    "image": "rukolap.webp",
     "category": "pizza",
     "name": "Pizza Arugula",
     "description": "Tomato sauce, mozzarella cheese, arugula, parmesan, cherry tomatoes",
@@ -100,7 +100,7 @@
   },
   {
     "id": 12,
-   "image": "vegjetariane.webp",
+    "image": "vegjetariane.webp",
     "category": "pizza",
     "name": "Vegetarian Pizza",
     "description": "Tomato sauce, mozzarella cheese, eggplants, zucchini, tomatoes, mushrooms, olives",
@@ -109,7 +109,7 @@
   },
   {
     "id": 13,
-   "image": "4st.webp",
+    "image": "4st.webp",
     "category": "pizza",
     "name": "Pizza 4 Seasons",
     "description": "Tomato sauce, mozzarella cheese, ham, tuna, mushrooms, peppers, olives",
@@ -118,7 +118,7 @@
   },
   {
     "id": 14,
-   "image": "4dj.webp",
+    "image": "4dj.webp",
     "category": "pizza",
     "name": "Pizza 4 Cheeses",
     "description": "Tomato sauce, mozzarella cheese, feta cheese, parmesan cheese, gorgonzola cheese",
@@ -127,7 +127,7 @@
   },
   {
     "id": 15,
-   "image": "speciale.webp",
+    "image": "speciale.webp",
     "category": "pizza",
     "name": "Special Pizza",
     "description": "Tomato sauce, mozzarella cheese, ham, mushrooms, peppers, olives, bacon, cherry tomatoes",
@@ -136,7 +136,7 @@
   },
   {
     "id": 16,
-   "image": "rukolap.webp",
+    "image": "krudo.webp",
     "category": "pizza",
     "name": "Pizza Crudo",
     "description": "Tomato sauce, mozzarella cheese, prosciutto crudo, arugula, parmesan, cherry tomatoes",
@@ -145,7 +145,7 @@
   },
   {
     "id": 17,
-   "image": "pule.webp",
+    "image": "pule.webp",
     "category": "pizza",
     "name": "Chicken Pizza",
     "description": "Tomato sauce, mozzarella cheese, sweet corn, cherry tomatoes, chicken fillet",
@@ -154,7 +154,7 @@
   },
   {
     "id": 18,
-   "image": "logo.webp",
+    "image": "filadelfia.webp",
     "category": "pizza",
     "name": "Philadelphia Pizza",
     "description": "Tomato sauce, ham, cream cheese, mozzarella",
@@ -163,7 +163,7 @@
   },
   {
     "id": 19,
-   "image": "tartuff.webp",
+    "image": "tartuff.webp",
     "category": "pizza",
     "name": "Pizza Truffle Ham Mushroom",
     "description": "Tomato sauce, mozzarella cheese, ham, mushrooms, truffle",
@@ -172,7 +172,7 @@
   },
   {
     "id": 20,
-   "image": "pestoch.webp",
+    "image": "pestoch.webp",
     "category": "pizza",
     "name": "Pizza Chicken Pesto Cherry",
     "description": "Tomato sauce, mozzarella cheese, pesto sauce, chicken, cherry tomatoes",
@@ -181,7 +181,7 @@
   },
   {
     "id": 21,
-   "image": "logo.webp",
+    "image": "bambo.webp",
     "category": "pizza",
     "name": "Bambo Pizza",
     "description": "Tomato sauce, mozzarella cheese, feta cheese, cherry tomatoes, peppers, olives, onion, bacon, pepperoni",
@@ -190,7 +190,7 @@
   },
   {
     "id": 22,
-   "image": "fileto.webp",
+    "image": "fileto.webp",
     "category": "mains",
     "name": "Grilled Chicken Fillet",
     "description": "Grilled chicken fillet",
@@ -216,7 +216,7 @@
   },
   {
     "id": 23,
-   "image": "salce.webp",
+    "image": "salce.webp",
     "category": "mains",
     "name": "Chicken Fillet with Sauce",
     "description": "Chicken fillet with tomato sauce and peppers",
@@ -242,7 +242,7 @@
   },
   {
     "id": 24,
-   "image": "gici.webp",
+    "image": "gici.webp",
     "category": "mains",
     "name": "Grilled Pork Fillet",
     "description": "Grilled pork fillet",
@@ -268,7 +268,7 @@
   },
   {
     "id": 25,
-   "image": "llukanik.webp",
+    "image": "llukanik.webp",
     "category": "mains",
     "name": "Oven Sausage",
     "description": "Oven-baked sausage",
@@ -294,7 +294,7 @@
   },
   {
     "id": 26,
-   "image": "limon.webp",
+    "image": "limon.webp",
     "category": "mains",
     "logic_type": "double_garnish",
     "name": "Escalope with Wine & Lemon",
@@ -321,7 +321,7 @@
   },
   {
     "id": 27,
-   "image": "panakerpudha.webp",
+    "image": "panakerpudha.webp",
     "category": "mains",
     "logic_type": "double_garnish",
     "name": "Escalope with Cream and Mushrooms",
@@ -348,7 +348,7 @@
   },
   {
     "id": 28,
-   "image": "logo.webp",
+    "image": "4dje.webp",
     "category": "mains",
     "logic_type": "double_garnish",
     "name": "Escalope 4 Cheeses",
@@ -375,7 +375,7 @@
   },
   {
     "id": 29,
-   "image": "logo.webp",
+    "image": "omlet.webp",
     "category": "mains",
     "name": "Omelet",
     "description": "Omelet with mushrooms, peppers, cheese",
@@ -401,7 +401,7 @@
   },
   {
     "id": 69,
-   "image": "tartuf.webp",
+    "image": "tartuf.webp",
     "category": "mains",
     "logic_type": "double_garnish",
     "name": "Escalope with Cream, Mushrooms & Truffle",
@@ -428,7 +428,7 @@
   },
   {
     "id": 70,
-   "image": "suxhuk.webp",
+    "image": "suxhuk.webp",
     "category": "mains",
     "name": "Kosovo Sausage",
     "description": "Oven-baked sausage",
@@ -454,7 +454,7 @@
   },
   {
     "id": 30,
-   "image": "fshati.webp",
+    "image": "fshati.webp",
     "category": "salads",
     "name": "Village Salad",
     "description": "Tomato, cucumber, olives, peppers, feta cheese",
@@ -462,7 +462,7 @@
   },
   {
     "id": 31,
-   "image": "logo.webp",
+    "image": "shef.webp",
     "category": "salads",
     "name": "Chef Salad",
     "description": "Green salad, tomato, cucumber, special sauce, gouda, ham, eggs",
@@ -470,7 +470,7 @@
   },
   {
     "id": 32,
-   "image": "logo.webp",
+    "image": "tons.webp",
     "category": "salads",
     "name": "Tuna Salad",
     "description": "Green salad, tomato, cucumber, tuna, mayo, gouda",
@@ -478,7 +478,7 @@
   },
   {
     "id": 33,
-   "image": "rukola.webp",
+    "image": "rukola.webp",
     "category": "salads",
     "name": "Arugula Salad",
     "description": "Arugula, cherry tomatoes, mozzarella, balsamic vinegar",
@@ -486,7 +486,7 @@
   },
   {
     "id": 34,
-   "image": "cezar.webp",
+    "image": "cezar.webp",
     "category": "salads",
     "name": "Caesar Salad",
     "description": "Green salad, parmesan, chicken fillet, sweet corn, croutons, Caesar sauce",
@@ -494,7 +494,7 @@
   },
   {
     "id": 35,
-   "image": "supe.webp",
+    "image": "supe.webp",
     "category": "soups",
     "name": "Chicken Cream Soup",
     "description": "Creamy soup with chicken fillet & vegetables",
@@ -502,7 +502,7 @@
   },
   {
     "id": 36,
-   "image": "dite.webp",
+    "image": "dite.webp",
     "category": "soups",
     "name": "Soup of the Day",
     "description": "Fresh soup of the day",
@@ -510,7 +510,7 @@
   },
   {
     "id": 37,
-   "image": "zaferano.webp",
+    "image": "zaferano.webp",
     "category": "risotto",
     "name": "Saffron Chicken Risotto",
     "description": "Risotto with saffron & chicken fillet",
@@ -518,7 +518,7 @@
   },
   {
     "id": 38,
-   "image": "perimer.webp",
+    "image": "perimer.webp",
     "category": "risotto",
     "name": "Vegetable Risotto",
     "description": "Risotto with mixed vegetables",
@@ -526,7 +526,7 @@
   },
   {
     "id": 39,
-   "image": "kerpudha.webp",
+    "image": "kerpudha.webp",
     "category": "risotto",
     "name": "Mushroom Risotto",
     "description": "Risotto with fresh mushrooms & cream",
@@ -534,7 +534,7 @@
   },
   {
     "id": 40,
-   "image": "logo.webp",
+    "image": "4djt.webp",
     "category": "risotto",
     "name": "4 Cheese Risotto",
     "description": "Risotto with 4 types of cheese",
@@ -542,7 +542,7 @@
   },
   {
     "id": 41,
-   "image": "rtartuf.webp",
+    "image": "rtartuf.webp",
     "category": "risotto",
     "name": "Mushroom Truffle Cream Risotto",
     "description": "Risotto with mushrooms, cream & truffle",
@@ -550,7 +550,7 @@
   },
   {
     "id": 42,
-   "image": "napolitana.webp",
+    "image": "napolitana.webp",
     "category": "pasta",
     "name": "Neapolitan Pasta",
     "description": "Pasta with tomato sauce",
@@ -558,7 +558,7 @@
   },
   {
     "id": 43,
-   "image": "carbonara.webp",
+    "image": "carbonara.webp",
     "category": "pasta",
     "name": "Pasta Carbonara",
     "description": "Pasta with bacon, eggs & cheese",
@@ -566,7 +566,7 @@
   },
   {
     "id": 44,
-   "image": "pesto.webp",
+    "image": "pesto.webp",
     "category": "pasta",
     "name": "Pesto Pasta",
     "description": "Pasta with pesto sauce",
@@ -574,7 +574,7 @@
   },
   {
     "id": 45,
-   "image": "arrabiata.webp",
+    "image": "arrabiata.webp",
     "category": "pasta",
     "name": "Pasta Arrabiata",
     "description": "Pasta with tomato sauce and spicy peppers",
@@ -582,7 +582,7 @@
   },
   {
     "id": 46,
-   "image": "tono.webp",
+    "image": "tono.webp",
     "category": "pasta",
     "name": "Pasta Tuna - Capers - Olives",
     "description": "Pasta with tuna, capers & olives",
@@ -590,7 +590,7 @@
   },
   {
     "id": 47,
-   "image": "bolonjez.webp",
+    "image": "bolonjez.webp",
     "category": "pasta",
     "name": "Pasta Bolognese",
     "description": "Pasta with meat & tomato sauce",
@@ -598,7 +598,7 @@
   },
   {
     "id": 48,
-   "image": "logo.webp",
+    "image": "pbambo.webp",
     "category": "pasta",
     "name": "Penne Bambo",
     "description": "Baked pasta with ham, mushrooms, peppers, sauce & gouda",
@@ -606,7 +606,7 @@
   },
   {
     "id": 49,
-   "image": "sanduic.webp",
+    "image": "sanduic.webp",
     "category": "sandwich",
     "name": "Village Sandwich",
     "description": "Salami, feta cheese, gouda, tomato, mayo",
@@ -614,7 +614,7 @@
   },
   {
     "id": 50,
-   "image": "sanduic.webp",
+    "image": "sanduic.webp",
     "category": "sandwich",
     "name": "Spicy Sandwich",
     "description": "Spicy salami, gouda, mayo, tomato",
@@ -622,7 +622,7 @@
   },
   {
     "id": 51,
-   "image": "sanduic.webp",
+    "image": "sanduic.webp",
     "category": "sandwich",
     "name": "Vegetarian Sandwich",
     "description": "Tomato, peppers, cucumbers, olives, feta, gouda, mayo",
@@ -630,7 +630,7 @@
   },
   {
     "id": 52,
-   "image": "sanduic.webp",
+    "image": "sanduic.webp",
     "category": "sandwich",
     "name": "Bacon Sandwich",
     "description": "Bacon, salami, feta, gouda, tomato, olives, mayo",
@@ -638,7 +638,7 @@
   },
   {
     "id": 53,
-   "image": "sanduic.webp",
+    "image": "sanduic.webp",
     "category": "sandwich",
     "name": "Chicken Sandwich",
     "description": "Chicken fillet, gouda, tomato, mayo",
@@ -646,7 +646,7 @@
   },
   {
     "id": 54,
-   "image": "sanduic.webp",
+    "image": "sanduic.webp",
     "category": "sandwich",
     "name": "Tuna Sandwich",
     "description": "Tuna, gouda, tomato, olives, mayo",
@@ -654,7 +654,7 @@
   },
   {
     "id": 55,
-   "image": "sanduic.webp",
+    "image": "sanduic.webp",
     "category": "sandwich",
     "name": "Special Sandwich",
     "description": "Bacon, chicken, feta, gouda, mayo, tomato, fries, olives",
@@ -662,7 +662,7 @@
   },
   {
     "id": 56,
-   "image": "club.webp",
+    "image": "club.webp",
     "category": "sandwich",
     "name": "Club Sandwich",
     "description": "Ham, green salad, mayo, cheese, tomato & fries",
@@ -670,7 +670,7 @@
   },
   {
     "id": 57,
-   "image": "djath.webp",
+    "image": "djath.webp",
     "category": "sides",
     "name": "Feta Cheese Plate",
     "description": "Fresh sheep feta cheese",
@@ -678,7 +678,7 @@
   },
   {
     "id": 58,
-   "image": "dskuqur.webp",
+    "image": "dskuqur.webp",
     "category": "sides",
     "name": "Fried Cheese",
     "description": "Fried feta or kashkaval cheese",
@@ -686,7 +686,7 @@
   },
   {
     "id": 59,
-   "image": "salcekosi.webp",
+    "image": "salcekosi.webp",
     "category": "sides",
     "name": "Yogurt Sauce",
     "description": "Fresh strained yogurt sauce",
@@ -694,7 +694,7 @@
   },
   {
     "id": 60,
-   "image": "skuqura.webp",
+    "image": "skuqura.webp",
     "category": "sides",
     "name": "French Fries",
     "description": "Freshly fried potatoes",
@@ -702,7 +702,7 @@
   },
   {
     "id": 61,
-   "image": "perime.webp",
+    "image": "perime.webp",
     "category": "sides",
     "name": "Grilled Vegetables",
     "description": "Peppers, eggplants, zucchini, carrots",
@@ -710,7 +710,7 @@
   },
   {
     "id": 62,
-   "image": "antipast.webp",
+    "image": "antipast.webp",
     "category": "sides",
     "name": "Medium Antipasto",
     "description": "Mix of cheeses & salamis",
@@ -718,7 +718,7 @@
   },
   {
     "id": 63,
-   "image": "antipast.webp",
+    "image": "antipast.webp",
     "category": "sides",
     "name": "Large Antipasto",
     "description": "Mix of cheeses & salamis",
@@ -726,15 +726,32 @@
   },
   {
     "id": 71,
-   "image": "furre.webp",
+    "image": "furre.webp",
     "category": "sides",
     "name": "Baked Potatoes",
     "description": "Oven-baked potatoes",
     "price": 200
   },
+   {
+    "id": 66,
+    "image": "brusketn.webp",
+    "category": "sides",
+    "name": "Bruschetta",
+    "description": "Fresh tomatoes, feta cheese, olives & peppers",
+    "price": 350,
+    "priceFamily": 650
+  },
+  {
+    "id": 66,
+    "image": "brusketa.webp",
+    "category": "sides",
+    "name": "Bruschetta",
+    "description": "Fresh tomatoes, feta cheese, olives & peppers",
+    "price": 200
+  },
   {
     "id": 64,
-   "image": "kalcone.webp",
+    "image": "kalcone.webp",
     "category": "calzone",
     "name": "Ham Calzone",
     "description": "Ham, cheese, sauce",
@@ -742,7 +759,7 @@
   },
   {
     "id": 65,
-   "image": "kalcone.webp",
+    "image": "kalcone.webp",
     "category": "calzone",
     "name": "Ham & Mushroom Calzone",
     "description": "Ham, mushrooms, cheese, sauce",
@@ -750,7 +767,7 @@
   },
   {
     "id": 66,
-   "image": "kalcone.webp",
+    "image": "kalcone.webp",
     "category": "calzone",
     "name": "Capricciosa Calzone",
     "description": "Ham, peppers, olives, cheese, sauce",
@@ -758,7 +775,7 @@
   },
   {
     "id": 67,
-   "image": "kalcone.webp",
+    "image": "kalcone.webp",
     "category": "calzone",
     "name": "Chicken Calzone",
     "description": "Chicken fillet, cheese, sauce, tomato",
@@ -766,10 +783,610 @@
   },
   {
     "id": 68,
-   "image": "kalcone.webp",
+    "image": "kalcone.webp",
     "category": "calzone",
     "name": "Tuna Calzone",
     "description": "Tuna, cheese, sauce, peppers, olives",
     "price": 250
+  },
+  {
+    "id": 72,
+    "category": "Soft Drinks",
+    "name": "Amita",
+    "price": 190
+  },
+  {
+    "id": 73,
+    "category": "Soft Drinks",
+    "name": "B 52",
+    "price": 200
+  },
+  {
+    "id": 74,
+    "category": "Soft Drinks",
+    "name": "Bitter",
+    "price": 100
+  },
+  {
+    "id": 75,
+    "category": "Soft Drinks",
+    "name": "Bravo",
+    "price": 180
+  },
+  {
+    "id": 78,
+    "category": "Soft Drinks",
+    "name": "Coca Cola",
+    "price": 180
+  },
+  {
+    "id": 80,
+    "category": "Soft Drinks",
+    "name": "Crodino",
+    "price": 150
+  },
+  {
+    "id": 81,
+    "category": "Soft Drinks",
+    "name": "Fanta",
+    "price": 180
+  },
+  {
+    "id": 83,
+    "category": "Soft Drinks",
+    "name": "Still Water",
+    "price": 80
+  },
+  {
+    "id": 86,
+    "category": "Soft Drinks",
+    "name": "Lemon Soda",
+    "price": 180
+  },
+  {
+    "id": 87,
+    "category": "Soft Drinks",
+    "name": "Fruit Juice",
+    "price": 250
+  },
+  {
+    "id": 88,
+    "category": "Soft Drinks",
+    "name": "Mixed Fruit Juice",
+    "price": 300
+  },
+  {
+    "id": 89,
+    "category": "Soft Drinks",
+    "name": "Lipton",
+    "price": 180
+  },
+  {
+    "id": 90,
+    "category": "Soft Drinks",
+    "name": "Milkshake",
+    "price": 190
+  },
+  {
+    "id": 91,
+    "category": "Soft Drinks",
+    "name": "Monin Tea",
+    "price": 180
+  },
+  {
+    "id": 92,
+    "category": "Soft Drinks",
+    "name": "Monin Lemonade",
+    "price": 180
+  },
+  {
+    "id": 94,
+    "category": "Soft Drinks",
+    "name": "Orange Soda",
+    "price": 180
+  },
+  {
+    "id": 95,
+    "category": "Soft Drinks",
+    "name": "Pepsi",
+    "price": 180
+  },
+  {
+    "id": 96,
+    "category": "Soft Drinks",
+    "name": "Red Bull",
+    "price": 300
+  },
+  {
+    "id": 99,
+    "category": "Soft Drinks",
+    "name": "Sparkling Water",
+    "price": 80
+  },
+  {
+    "id": 100,
+    "category": "Soft Drinks",
+    "name": "Vitamin Water",
+    "price": 150
+  },
+  {
+    "id": 102,
+    "category": "Soft Drinks",
+    "name": "Schweppes",
+    "price": 150
+  },
+  {
+    "id": 103,
+    "category": "Beer",
+    "name": "Augustiner",
+    "price": 500
+  },
+  {
+    "id": 104,
+    "category": "Beer",
+    "name": "Bavaria 0%",
+    "price": 250
+  },
+  {
+    "id": 105,
+    "category": "Beer",
+    "name": "Benediktiner",
+    "price": 400
+  },
+  {
+    "id": 106,
+    "category": "Beer",
+    "name": "Gjirokastra Beer",
+    "price": 250
+  },
+  {
+    "id": 107,
+    "category": "Beer",
+    "name": "Korca Beer",
+    "price": 250
+  },
+  {
+    "id": 109,
+    "category": "Beer",
+    "name": "Corona",
+    "price": 350
+  },
+  {
+    "id": 110,
+    "category": "Beer",
+    "name": "Erdigner",
+    "price": 400
+  },
+  {
+    "id": 111,
+    "category": "Beer",
+    "name": "Franziskaner",
+    "price": 400
+  },
+  {
+    "id": 112,
+    "category": "Beer",
+    "name": "Heineken",
+    "price": 300
+  },
+  {
+    "id": 113,
+    "category": "Beer",
+    "name": "Kaiser Hell",
+    "price": 450
+  },
+  {
+    "id": 114,
+    "category": "Beer",
+    "name": "Latrappe",
+    "price": 500
+  },
+  {
+    "id": 115,
+    "category": "Beer",
+    "name": "Leffe",
+    "price": 400
+  },
+  {
+    "id": 116,
+    "category": "Beer",
+    "name": "Paulaner",
+    "price": 400
+  },
+  {
+    "id": 119,
+    "category": "Beer",
+    "name": "Peroni",
+    "price": 250
+  },
+  {
+    "id": 120,
+    "category": "Beer",
+    "name": "Peroni Nastro Azzurro",
+    "price": 300
+  },
+  {
+    "id": 121,
+    "category": "Beer",
+    "name": "Schofferhofer",
+    "price": 450
+  },
+  {
+    "id": 122,
+    "category": "Beer",
+    "name": "Stella Artois",
+    "price": 300
+  },
+  {
+    "id": 123,
+    "category": "Cafeteria",
+    "name": "Organic Tea",
+    "price": 180
+  },
+  {
+    "id": 124,
+    "category": "Cafeteria",
+    "name": "Mixed Organic Tea",
+    "price": 200
+  },
+  {
+    "id": 125,
+    "category": "Cafeteria",
+    "name": "Flavored Tea",
+    "price": 100
+  },
+  {
+    "id": 126,
+    "category": "Cafeteria",
+    "name": "Hot Chocolate",
+    "price": 200
+  },
+  {
+    "id": 127,
+    "category": "Cafeteria",
+    "name": "Dubai Chocolate",
+    "price": 250
+  },
+  {
+    "id": 131,
+    "category": "Cafeteria",
+    "name": "Espresso",
+    "price": 80
+  },
+  {
+    "id": 132,
+    "category": "Cafeteria",
+    "name": "American Coffee",
+    "price": 100
+  },
+  {
+    "id": 134,
+    "category": "Cafeteria",
+    "name": "Frappe",
+    "price": 180
+  },
+  {
+    "id": 136,
+    "category": "Cafeteria",
+    "name": "Freddo Espresso",
+    "price": 200
+  },
+  {
+    "id": 138,
+    "category": "Cafeteria",
+    "name": "Cocoa",
+    "price": 200
+  },
+  {
+    "id": 141,
+    "category": "Cafeteria",
+    "name": "Instant Cappuccino",
+    "price": 200
+  },
+  {
+    "id": 143,
+    "category": "Cafeteria",
+    "name": "Latte Macchiato",
+    "price": 150
+  },
+  {
+    "id": 144,
+    "category": "Cafeteria",
+    "name": "Macchiato",
+    "price": 80
+  },
+  {
+    "id": 145,
+    "category": "Cafeteria",
+    "name": "Large Macchiato",
+    "price": 150
+  },
+  {
+    "id": 146,
+    "category": "Cafeteria",
+    "name": "Matcha Latte",
+    "price": 180
+  },
+  {
+    "id": 150,
+    "category": "Cafeteria",
+    "name": "Salep",
+    "price": 200
+  },
+  {
+    "id": 151,
+    "category": "Alcoholic Drinks",
+    "name": "Amaro Lucano",
+    "price": 350
+  },
+  {
+    "id": 152,
+    "category": "Alcoholic Drinks",
+    "name": "Amaro Ramazzotti",
+    "price": 300
+  },
+  {
+    "id": 153,
+    "category": "Alcoholic Drinks",
+    "name": "Aperol Spritz",
+    "price": 450
+  },
+  {
+    "id": 154,
+    "category": "Alcoholic Drinks",
+    "name": "Baileys",
+    "price": 350
+  },
+  {
+    "id": 155,
+    "category": "Alcoholic Drinks",
+    "name": "Bacardi Rum",
+    "price": 350
+  },
+  {
+    "id": 157,
+    "category": "Alcoholic Drinks",
+    "name": "Captain Morgan",
+    "price": 350
+  },
+  {
+    "id": 158,
+    "category": "Alcoholic Drinks",
+    "name": "Disaronno",
+    "price": 350
+  },
+  {
+    "id": 159,
+    "category": "Alcoholic Drinks",
+    "name": "Fernet Branca",
+    "price": 350
+  },
+  {
+    "id": 160,
+    "category": "Alcoholic Drinks",
+    "name": "Bombay Gin",
+    "price": 350
+  },
+  {
+    "id": 161,
+    "category": "Alcoholic Drinks",
+    "name": "Hendrick's Gin",
+    "price": 550
+  },
+  {
+    "id": 162,
+    "category": "Alcoholic Drinks",
+    "name": "Gin Mare",
+    "price": 500
+  },
+  {
+    "id": 163,
+    "category": "Alcoholic Drinks",
+    "name": "Nordes Gin",
+    "price": 400
+  },
+  {
+    "id": 164,
+    "category": "Alcoholic Drinks",
+    "name": "Havana Club",
+    "price": 350
+  },
+  {
+    "id": 165,
+    "category": "Alcoholic Drinks",
+    "name": "Hennessy",
+    "price": 450
+  },
+  {
+    "id": 166,
+    "category": "Alcoholic Drinks",
+    "name": "Jagermeister",
+    "price": 350
+  },
+  {
+    "id": 167,
+    "category": "Alcoholic Drinks",
+    "name": "Gordon's Gin",
+    "price": 350
+  },
+  {
+    "id": 168,
+    "category": "Alcoholic Drinks",
+    "name": "Malibu",
+    "price": 400
+  },
+  {
+    "id": 169,
+    "category": "Alcoholic Drinks",
+    "name": "Metaxa 5 Stars",
+    "price": 300
+  },
+  {
+    "id": 170,
+    "category": "Alcoholic Drinks",
+    "name": "Metaxa 7 Stars",
+    "price": 400
+  },
+  {
+    "id": 171,
+    "category": "Alcoholic Drinks",
+    "name": "Metaxa Reserve",
+    "price": 800
+  },
+  {
+    "id": 173,
+    "category": "Alcoholic Drinks",
+    "name": "Amaro Montenegro",
+    "price": 350
+  },
+  {
+    "id": 174,
+    "category": "Alcoholic Drinks",
+    "name": "Plomari Ouzo 200ml",
+    "price": 900
+  },
+  {
+    "id": 175,
+    "category": "Alcoholic Drinks",
+    "name": "Pyrat XO Reserve Rum",
+    "price": 500
+  },
+  {
+    "id": 177,
+    "category": "Alcoholic Drinks",
+    "name": "Molinari Sambuca",
+    "price": 300
+  },
+  {
+    "id": 180,
+    "category": "Alcoholic Drinks",
+    "name": "Tequila Sierra Gold",
+    "price": 350
+  },
+  {
+    "id": 181,
+    "category": "Alcoholic Drinks",
+    "name": "Tequila Sierra Silver",
+    "price": 350
+  },
+  {
+    "id": 182,
+    "category": "Alcoholic Drinks",
+    "name": "Tito's Vodka",
+    "price": 350
+  },
+  {
+    "id": 183,
+    "category": "Alcoholic Drinks",
+    "name": "Ouzo 12",
+    "price": 350
+  },
+  {
+    "id": 184,
+    "category": "Alcoholic Drinks",
+    "name": "Plomari Ouzo",
+    "price": 350
+  },
+  {
+    "id": 185,
+    "category": "Alcoholic Drinks",
+    "name": "Vecchia Romagna",
+    "price": 350
+  },
+  {
+    "id": 186,
+    "category": "Alcoholic Drinks",
+    "name": "Absolut Vodka",
+    "price": 350
+  },
+  {
+    "id": 201,
+    "category": "Alcoholic Drinks",
+    "name": "Raki",
+    "price": 150
+  },
+  {
+    "id": 202,
+    "category": "Alcoholic Drinks",
+    "name": "Skenderbeu Brandy",
+    "price": 150
+  },
+  {
+    "id": 232,
+    "category": "Alcoholic Drinks",
+    "name": "Wine by the Glass",
+    "price": 300
+  },
+  {
+    "id": 187,
+    "category": "Whiskey",
+    "name": "Cardhu",
+    "price": 450
+  },
+  {
+    "id": 188,
+    "category": "Whiskey",
+    "name": "Chivas Regal",
+    "price": 400
+  },
+  {
+    "id": 190,
+    "category": "Whiskey",
+    "name": "Cutty Sark",
+    "price": 300
+  },
+  {
+    "id": 192,
+    "category": "Whiskey",
+    "name": "Dimple",
+    "price": 450
+  },
+  {
+    "id": 193,
+    "category": "Whiskey",
+    "name": "Famous Grouse",
+    "price": 300
+  },
+  {
+    "id": 194,
+    "category": "Whiskey",
+    "name": "Glen Grant",
+    "price": 350
+  },
+  {
+    "id": 195,
+    "category": "Whiskey",
+    "name": "Jack Daniel's Single Barrel",
+    "price": 550
+  },
+  {
+    "id": 196,
+    "category": "Whiskey",
+    "name": "Jack Daniel's",
+    "price": 350
+  },
+  {
+    "id": 197,
+    "category": "Whiskey",
+    "name": "J&B",
+    "price": 350
+  },
+  {
+    "id": 198,
+    "category": "Whiskey",
+    "name": "Johnnie Walker",
+    "price": 350
+  },
+  {
+    "id": 199,
+    "category": "Whiskey",
+    "name": "Johnnie Walker Black Label",
+    "price": 450
+  },
+  {
+    "id": 200,
+    "category": "Whiskey",
+    "name": "Lagavulin",
+    "price": 800
   }
 ]

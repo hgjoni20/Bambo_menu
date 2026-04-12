@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-   "image": "margarita.webp",
+    "image": "margarita.webp",
     "category": "pica",
     "name": "Pica Margarita",
     "description": "Salc, djath mozzarella",
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-   "image": "proshut.webp",
+    "image": "proshut.webp",
     "category": "pica",
     "name": "Pica Proshut",
     "description": "Salc, proshut, djath mozzarella",
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-   "image": "diavola.webp",
+    "image": "diavola.webp",
     "category": "pica",
     "name": "Pica Diavola",
     "description": "Salc, sallam pikant, djath mozzarella",
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-   "image": "proshutk.webp",
+    "image": "proshutk.webp",
     "category": "pica",
     "name": "Pica Proshut Kerpudha",
     "description": "Salc, proshut, kerpudha, djath mozzarella",
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-   "image": "logo.webp",
+    "image": "logo.webp",
     "category": "pica",
     "name": "Pica Proshut Sallam",
     "description": "Salc, proshut, sallam, djath mozzarella",
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-   "image": "kapricoza.webp",
+    "image": "kapricoza.webp",
     "category": "pica",
     "name": "Pica Kapricoza",
     "description": "Salc, sallam, proshut, kerpudha, speca, ullinj",
@@ -55,7 +55,7 @@
   },
   {
     "id": 7,
-   "image": "logo.webp",
+    "image": "beikon.webp",
     "category": "pica",
     "name": "Pica Beikon",
     "description": "Salc, beikon, djath mozzarella,djath i bardhë pomodorini",
@@ -64,7 +64,7 @@
   },
   {
     "id": 8,
-   "image": "amerikana.webp",
+    "image": "amerikana.webp",
     "category": "pica",
     "name": "Pica Americana",
     "description": "Salce, salcice, patate, djath mozzarella",
@@ -73,7 +73,7 @@
   },
   {
     "id": 9,
-   "image": "logo.webp",
+    "image": "pton.webp",
     "category": "pica",
     "name": "Pica Ton",
     "description": "Salce, djath mozzarella, ton, speca, ullinj",
@@ -82,7 +82,7 @@
   },
   {
     "id": 10,
-   "image": "alacrema.webp",
+    "image": "alacrema.webp",
     "category": "pica",
     "name": "Pica Alacrema",
     "description": "Pana, djath mozzarella, proshut, kerpudha",
@@ -91,7 +91,7 @@
   },
   {
     "id": 11,
-   "image": "rukolap.webp",
+    "image": "rukolap.webp",
     "category": "pica",
     "name": "Pica Rukola",
     "description": "Salce, djath mozzarella, rukola, parmixhano, pomodorini",
@@ -100,7 +100,7 @@
   },
   {
     "id": 12,
-   "image": "vegjetariane.webp",
+    "image": "vegjetariane.webp",
     "category": "pica",
     "name": "Pica Vegjetariane",
     "description": "Salc, djath mozzarella, patëllxhan, kungull, domate, kërpudha, ullinj",
@@ -109,7 +109,7 @@
   },
   {
     "id": 13,
-   "image": "4st.webp",
+    "image": "4st.webp",
     "category": "pica",
     "name": "Pica 4 Stinet",
     "description": "Salc, djath mozzarella, proshut, ton, kerpudha, speca, ullinj",
@@ -118,7 +118,7 @@
   },
   {
     "id": 14,
-   "image": "4dj.webp",
+    "image": "4dj.webp",
     "category": "pica",
     "name": "Pica 4 Djathrat",
     "description": "Salc, djath mozzarella, djath feta, djath parmixhano, djath gorgonxola",
@@ -127,7 +127,7 @@
   },
   {
     "id": 15,
-   "image": "speciale.webp",
+    "image": "speciale.webp",
     "category": "pica",
     "name": "Pica Speciale",
     "description": "Salc, djath mozzarella, proshut, kerpudha, speca, ullinj, beikon, pomodorini",
@@ -136,7 +136,7 @@
   },
   {
     "id": 16,
-   "image": "rukolap.webp",
+    "image": "krudo.webp",
     "category": "pica",
     "name": "Pica Krudo",
     "description": "Salce, djath mozzarella, proshut krudo, rukola, parmixhano, pomodorini",
@@ -145,7 +145,7 @@
   },
   {
     "id": 17,
-   "image": "pule.webp",
+    "image": "pule.webp",
     "category": "pica",
     "name": "Pica Pule",
     "description": "Salc, djath mozzarella, misër, pomodorini, fileto pule",
@@ -154,7 +154,7 @@
   },
   {
     "id": 18,
-   "image": "logo.webp",
+    "image": "filadelfia.webp",
     "category": "pica",
     "name": "Pica Philadelphia",
     "description": "Salce, proshut, philadelphia, mozzarella",
@@ -163,7 +163,7 @@
   },
   {
     "id": 19,
-   "image": "tartuff.webp",
+    "image": "tartuff.webp",
     "category": "pica",
     "name": "Pica Tartuf Proshute Kerpudha",
     "description": "Salce, mozzarella, proshut, kerpudha, tartuf",
@@ -172,7 +172,7 @@
   },
   {
     "id": 20,
-   "image": "pestoch.webp",
+    "image": "pestoch.webp",
     "category": "pica",
     "name": "Pica Chicken Pesto Pomodorini",
     "description": "Salc, mozzarella, pesto, pule, pomodorini",
@@ -181,7 +181,7 @@
   },
   {
     "id": 21,
-   "image": "logo.webp",
+    "image": "bambo.webp",
     "category": "pica",
     "name": "Pica Bambo",
     "description": "Salc, mozzarella, djath i bardhë, pomodorini, speca, ullinj, qep, beikon, peperoni",
@@ -190,7 +190,7 @@
   },
   {
     "id": 22,
-   "image": "fileto.webp",
+    "image": "fileto.webp",
     "category": "kryesoret",
     "name": "Fileto Pule Zgare",
     "description": "Fileto pule zgare",
@@ -216,7 +216,7 @@
   },
   {
     "id": 23,
-   "image": "salce.webp",
+    "image": "salce.webp",
     "category": "kryesoret",
     "name": "Fileto Pule me Salc",
     "description": "Fileto pule me salc domatesh dhe speca",
@@ -242,7 +242,7 @@
   },
   {
     "id": 24,
-   "image": "gici.webp",
+    "image": "gici.webp",
     "category": "kryesoret",
     "name": "Fileto Gici Zgare",
     "description": "Fileto gici zgare",
@@ -268,7 +268,7 @@
   },
   {
     "id": 25,
-   "image": "llukanik.webp",
+    "image": "llukanik.webp",
     "category": "kryesoret",
     "name": "Lukanik Furre",
     "description": "Lukanik furre",
@@ -294,7 +294,7 @@
   },
   {
     "id": 26,
-   "image": "limon.webp",
+    "image": "limon.webp",
     "category": "kryesoret",
     "logic_type": "double_garnish",
     "name": "Eskallop Verë Limon",
@@ -321,7 +321,7 @@
   },
   {
     "id": 27,
-   "image": "panakerpudha.webp",
+    "image": "panakerpudha.webp",
     "category": "kryesoret",
     "logic_type": "double_garnish",
     "name": "Eskallop Pana Kerpudha",
@@ -348,7 +348,7 @@
   },
   {
     "id": 28,
-   "image": "logo.webp",
+    "image": "4dje.webp",
     "category": "kryesoret",
     "logic_type": "double_garnish",
     "name": "Eskallop 4 Djathrat",
@@ -375,7 +375,7 @@
   },
   {
     "id": 29,
-   "image": "logo.webp",
+    "image": "omlet.webp",
     "category": "kryesoret",
     "name": "Omlet",
     "description": "Omlet me kerpudha, speca, djath",
@@ -400,8 +400,8 @@
     ]
   },
   {
-    "id": 69,
-   "image": "tartuf.webp",
+    "id": 30,
+    "image": "tartuf.webp",
     "category": "kryesoret",
     "logic_type": "double_garnish",
     "name": "Eskallop Pana Kerpudh Tartuf",
@@ -427,8 +427,8 @@
     ]
   },
   {
-    "id": 70,
-   "image": "suxhuk.webp",
+    "id": 31,
+    "image": "suxhuk.webp",
     "category": "kryesoret",
     "name": "Suxhuk Kosove",
     "description": "Suxhuk i pjekur ne furre",
@@ -453,323 +453,940 @@
     ]
   },
   {
-    "id": 30,
-   "image": "fshati.webp",
+    "id": 32,
+    "image": "fshati.webp",
     "category": "sallat",
     "name": "Sallat Fshati",
     "description": "Domate, kastravec, ullinj, speca, djath bardhë",
     "price": 280
   },
   {
-    "id": 31,
-   "image": "logo.webp",
+    "id": 33,
+    "image": "shef.webp",
     "category": "sallat",
     "name": "Sallat Shef",
     "description": "Salatat jeshile, domate, kastravec, salce sos, guda, proshut, veze",
     "price": 350
   },
   {
-    "id": 32,
-   "image": "logo.webp",
+    "id": 34,
+    "image": "tons.webp",
     "category": "sallat",
     "name": "Sallat Ton",
     "description": "Salatat jeshile, domate, kastravec, ton, majonez, guda",
     "price": 350
   },
   {
-    "id": 33,
-   "image": "rukola.webp",
+    "id": 35,
+    "image": "rukola.webp",
     "category": "sallat",
     "name": "Sallat Rukola",
     "description": "Rukola, pomadorini, mozzarella, aceto balsamike",
     "price": 380
   },
   {
-    "id": 34,
-   "image": "cezar.webp",
+    "id": 36,
+    "image": "cezar.webp",
     "category": "sallat",
     "name": "Sallat Cezar",
     "description": "Sallatat jeshile, parmixhano, fileto pule, miser, kruton, salce cezar",
     "price": 420
   },
   {
-    "id": 35,
-   "image": "supe.webp",
+    "id": 37,
+    "image": "supe.webp",
     "category": "supat",
     "name": "Supë Krem Pule",
     "description": "Supë kremoze me fileto pule & perime",
     "price": 250
   },
   {
-    "id": 36,
-   "image": "dite.webp",
+    "id": 38,
+    "image": "dite.webp",
     "category": "supat",
     "name": "Supë Dite",
     "description": "Supë e ditës",
     "price": 250
   },
   {
-    "id": 37,
-   "image": "zaferano.webp",
+    "id": 39,
+    "image": "zaferano.webp",
     "category": "rizoto",
     "name": "Rizoto Zafferano Pulë",
     "description": "Rizoto me shafran & fileto pule ",
     "price": 380
   },
   {
-    "id": 38,
-   "image": "perimer.webp",
+    "id": 40,
+    "image": "perimer.webp",
     "category": "rizoto",
     "name": "Rizoto Perimesh",
     "description": "Rizoto me perime të ndryshme",
     "price": 380
   },
   {
-    "id": 39,
-   "image": "kerpudha.webp",
+    "id": 41,
+    "image": "kerpudha.webp",
     "category": "rizoto",
     "name": "Rizoto Kerpudha",
     "description": "Rizoto me kerpudha të freskëta & pana",
     "price": 380
   },
   {
-    "id": 40,
-   "image": "logo.webp",
+    "id": 42,
+    "image": "4djt.webp",
     "category": "rizoto",
     "name": "Rizoto 4 Djathrat",
     "description": "Rizoto me 4 lloje djathi",
     "price": 380
   },
   {
-    "id": 41,
-   "image": "rtartuf.webp",
+    "id": 43,
+    "image": "rtartuf.webp",
     "category": "rizoto",
     "name": "Rizoto Kerpudhë Krem Tartufi",
     "description": "Rizoto me kerpudha, pana & tartuf",
     "price": 400
   },
   {
-    "id": 42,
-   "image": "napolitana.webp",
+    "id": 44,
+    "image": "napolitana.webp",
     "category": "pasta",
     "name": "Pasta Napolitan",
     "description": "Pasta me salce domatesh",
     "price": 300
   },
   {
-    "id": 43,
-   "image": "carbonara.webp",
+    "id": 45,
+    "image": "carbonara.webp",
     "category": "pasta",
     "name": "Pasta Carbonara",
     "description": "Pasta me beikon, vezë & djath",
     "price": 380
   },
   {
-    "id": 44,
-   "image": "pesto.webp",
+    "id": 46,
+    "image": "pesto.webp",
     "category": "pasta",
     "name": "Pasta Al Pesto",
     "description": "Pasta me salc pesto",
     "price": 350
   },
   {
-    "id": 45,
-   "image": "arrabiata.webp",
+    "id": 47,
+    "image": "arrabiata.webp",
     "category": "pasta",
     "name": "Pasta Arrabiata",
     "description": "Pasta me salce domatesh spec pikant",
     "price": 300
   },
   {
-    "id": 46,
-   "image": "tono.webp",
+    "id": 48,
+    "image": "tono.webp",
     "category": "pasta",
     "name": "Pasta Tono - Kaperi - Ullinj",
     "description": "Pasta me ton, kaperi & ullinj",
     "price": 400
   },
   {
-    "id": 47,
-   "image": "bolonjez.webp",
+    "id": 49,
+    "image": "bolonjez.webp",
     "category": "pasta",
     "name": "Pasta Bolognese",
     "description": "Pasta me salce & mish te grirë",
     "price": 400
   },
   {
-    "id": 48,
-   "image": "logo.webp",
+    "id": 50,
+    "image": "pbambo.webp",
     "category": "pasta",
     "name": "Pene Bambo",
     "description": "Pasta ne furre me proshut, kerpudha, speca, salc & guda",
     "price": 420
   },
   {
-    "id": 49,
-   "image": "sanduic.webp",
+    "id": 51,
+    "image": "sanduic.webp",
     "category": "sanduic",
     "name": "Sanduic Fshati",
     "description": "Sallam, djath të bardh, guda, domate, majonez",
     "price": 180
   },
   {
-    "id": 50,
-   "image": "sanduic.webp",
+    "id": 52,
+    "image": "sanduic.webp",
     "category": "sanduic",
     "name": "Sanduic Pikant",
     "description": "Sallam pikant, guda, majones, domate",
     "price": 180
   },
   {
-    "id": 51,
-   "image": "sanduic.webp",
+    "id": 53,
+    "image": "sanduic.webp",
     "category": "sanduic",
     "name": "Sanduic Vegjetarian",
     "description": "Domate, speca, kastraveca, ullinj, djath i bardhë, guda, majonez",
     "price": 180
   },
   {
-    "id": 52,
-   "image": "sanduic.webp",
+    "id": 54,
+    "image": "sanduic.webp",
     "category": "sanduic",
     "name": "Sanduic Beikon",
     "description": "Beikon, sallam, djath i bardh, guda, domate, ullinj, majonez",
     "price": 220
   },
   {
-    "id": 53,
-   "image": "sanduic.webp",
+    "id": 55,
+    "image": "sanduic.webp",
     "category": "sanduic",
     "name": "Sanduic Fileto Pule",
     "description": "Fileto pule, guda, domate, majonez",
     "price": 220
   },
   {
-    "id": 54,
-   "image": "sanduic.webp",
+    "id": 56,
+    "image": "sanduic.webp",
     "category": "sanduic",
     "name": "Sanduic Ton",
     "description": "Ton, guda, domate, ullinj, majonez",
     "price": 220
   },
   {
-    "id": 55,
-   "image": "sanduic.webp",
+    "id": 57,
+    "image": "sanduic.webp",
     "category": "sanduic",
     "name": "Sanduic Special",
     "description": "Beikon, fileto pule, djath i bardhë, guda, majonez, domate, patate, ullinj",
     "price": 250
   },
   {
-    "id": 56,
-   "image": "club.webp",
+    "id": 58,
+    "image": "club.webp",
     "category": "sanduic",
     "name": "Club Sanduic",
     "description": "Proshut, sallat jeshile, majonez, djath, domate & patate",
     "price": 350
   },
   {
-    "id": 57,
-   "image": "djath.webp",
+    "id": 59,
+    "image": "djath.webp",
     "category": "shoqeruese",
     "name": "Djath i bardhë",
     "description": "Djath i bardhë deleje",
     "price": 200
   },
   {
-    "id": 58,
-   "image": "dskuqur.webp",
+    "id": 60,
+    "image": "dskuqur.webp",
     "category": "shoqeruese",
     "name": "Djath i skuqur",
     "description": "Djath i skuqur i bardhë ose kacukkall",
     "price": 250
   },
   {
-    "id": 59,
-   "image": "salcekosi.webp",
+    "id": 61,
+    "image": "salcekosi.webp",
     "category": "shoqeruese",
     "name": "Salcë Kosi",
     "description": "Salcë kosi e freskët",
     "price": 150
   },
   {
-    "id": 60,
-   "image": "skuqura.webp",
+    "id": 62,
+    "image": "skuqura.webp",
     "category": "shoqeruese",
     "name": "Patate të skuqura",
     "description": "Patate të skuqura të freskëta",
     "price": 180
   },
   {
-    "id": 61,
-   "image": "perime.webp",
+    "id": 63,
+    "image": "perime.webp",
     "category": "shoqeruese",
     "name": "Perime Zgare",
     "description": "Speca, patëllxhan, kungull, karrot",
     "price": 280
   },
   {
-    "id": 62,
-   "image": "antipast.webp",
+    "id": 64,
+    "image": "antipast.webp",
     "category": "shoqeruese",
     "name": "Antipast e Mesme",
     "description": "Miks djathrash & sallamrash",
     "price": 600
   },
   {
-    "id": 63,
-   "image": "antipast.webp",
+    "id": 65,
+    "image": "antipast.webp",
     "category": "shoqeruese",
     "name": "Antipast e madhe",
     "description": "Miks djathrash & sallamrash",
     "price": 1000
   },
   {
-    "id": 71,
-   "image": "furre.webp",
+    "id": 66,
+    "image": "furre.webp",
     "category": "shoqeruese",
     "name": "Patate Furre",
     "description": "Patate furre",
     "price": 200
   },
   {
-    "id": 64,
-   "image": "kalcone.webp",
+    "id": 66,
+    "image": "brusketn.webp",
+    "category": "shoqeruese",
+    "name": "Brusketa",
+    "description": "Brusketa me djath, domate, ullinj, speca",
+    "price": 350,
+    "priceFamily": 650
+  },
+  {
+    "id": 66,
+    "image": "brusketa.webp",
+    "category": "shoqeruese",
+    "name": "Brusketa",
+    "description": "Brusketa me djath, domate, ullinj, speca",
+    "price": 200
+  },
+  {
+    "id": 67,
+    "image": "kalcone.webp",
     "category": "kalcone",
     "name": "Kalcone Proshutë",
     "description": "Proshut, djath, salc",
     "price": 200
   },
   {
-    "id": 65,
-   "image": "kalcone.webp",
+    "id": 68,
+    "image": "kalcone.webp",
     "category": "kalcone",
     "name": "Kalcone Proshut Kerpudha",
     "description": "Proshut, kerpudha, djath, salc",
     "price": 220
   },
   {
-    "id": 66,
-   "image": "kalcone.webp",
+    "id": 69,
+    "image": "kalcone.webp",
     "category": "kalcone",
     "name": "Kalcone Kapricoza",
     "description": "Proshut, speca, ullinj, djath, salc",
     "price": 250
   },
   {
-    "id": 67,
-   "image": "kalcone.webp",
+    "id": 70,
+    "image": "kalcone.webp",
     "category": "kalcone",
     "name": "Kalcone Fileto Pule",
     "description": "Fileto pule, djath, salc, domate",
     "price": 250
   },
   {
-    "id": 68,
-   "image": "kalcone.webp",
+    "id": 71,
+    "image": "kalcone.webp",
     "category": "kalcone",
     "name": "Kalcone Ton",
     "description": "Ton, djath, salc, speca, ullinj",
     "price": 250
+  },
+  {
+    "id": 72,
+    "category": "Pije freskuese",
+    "name": "Amita",
+    "price": 190
+  },
+  {
+    "id": 73,
+    "category": "Pije freskuese",
+    "name": "B 52",
+    "price": 200
+  },
+  {
+    "id": 74,
+    "category": "Pije freskuese",
+    "name": "Bitter",
+    "price": 100
+  },
+  {
+    "id": 75,
+    "category": "Pije freskuese",
+    "name": "Bravo",
+    "price": 180
+  },
+  {
+    "id": 78,
+    "category": "Pije freskuese",
+    "name": "Coca Cola",
+    "price": 180
+  },
+  {
+    "id": 80,
+    "category": "Pije freskuese",
+    "name": "Crodino",
+    "price": 150
+  },
+  {
+    "id": 81,
+    "category": "Pije freskuese",
+    "name": "Fanta",
+    "price": 180
+  },
+  {
+    "id": 83,
+    "category": "Pije freskuese",
+    "name": "Uje Natyral",
+    "price": 80
+  },
+  {
+    "id": 86,
+    "category": "Pije freskuese",
+    "name": "Lemon Soda",
+    "price": 180
+  },
+  {
+    "id": 87,
+    "category": "Pije freskuese",
+    "name": "Leng Frutash",
+    "price": 250
+  },
+  {
+    "id": 88,
+    "category": "Pije freskuese",
+    "name": "Leng Frutash Mix",
+    "price": 300
+  },
+  {
+    "id": 89,
+    "category": "Pije freskuese",
+    "name": "Lipton",
+    "price": 180
+  },
+  {
+    "id": 90,
+    "category": "Pije freskuese",
+    "name": "Milkshake",
+    "price": 190
+  },
+  {
+    "id": 91,
+    "category": "Pije freskuese",
+    "name": "Monin Caj",
+    "price": 180
+  },
+  {
+    "id": 92,
+    "category": "Pije freskuese",
+    "name": "Monin Limonade",
+    "price": 180
+  },
+  {
+    "id": 94,
+    "category": "Pije freskuese",
+    "name": "Orange Soda",
+    "price": 180
+  },
+  {
+    "id": 95,
+    "category": "Pije freskuese",
+    "name": "Pepsi",
+    "price": 180
+  },
+  {
+    "id": 96,
+    "category": "Pije freskuese",
+    "name": "Red Bull",
+    "price": 300
+  },
+  {
+    "id": 99,
+    "category": "Pije freskuese",
+    "name": "Uje me Gaz",
+    "price": 80
+  },
+  {
+    "id": 100,
+    "category": "Pije freskuese",
+    "name": "Uje me Vitamina",
+    "price": 150
+  },
+  {
+    "id": 102,
+    "category": "Pije freskuese",
+    "name": "Schweppes",
+    "price": 150
+  },
+  {
+    "id": 103,
+    "category": "Birra",
+    "name": "Augustiner",
+    "price": 500
+  },
+  {
+    "id": 104,
+    "category": "Birra",
+    "name": "Bavaria 0",
+    "price": 250
+  },
+  {
+    "id": 105,
+    "category": "Birra",
+    "name": "Benediktner",
+    "price": 400
+  },
+  {
+    "id": 106,
+    "category": "Birra",
+    "name": "Birra Gjirokastra",
+    "price": 250
+  },
+  {
+    "id": 107,
+    "category": "Birra",
+    "name": "Birra Korca",
+    "price": 250
+  },
+  {
+    "id": 109,
+    "category": "Birra",
+    "name": "Corona",
+    "price": 350
+  },
+  {
+    "id": 110,
+    "category": "Birra",
+    "name": "Erdigner",
+    "price": 400
+  },
+  {
+    "id": 111,
+    "category": "Birra",
+    "name": "Franziskaner",
+    "price": 400
+  },
+  {
+    "id": 112,
+    "category": "Birra",
+    "name": "Heniken",
+    "price": 300
+  },
+  {
+    "id": 113,
+    "category": "Birra",
+    "name": "Kaiser Hell",
+    "price": 450
+  },
+  {
+    "id": 114,
+    "category": "Birra",
+    "name": "Latrappe",
+    "price": 500
+  },
+  {
+    "id": 115,
+    "category": "Birra",
+    "name": "Leffe",
+    "price": 400
+  },
+  {
+    "id": 116,
+    "category": "Birra",
+    "name": "Paulaner",
+    "price": 400
+  },
+  {
+    "id": 119,
+    "category": "Birra",
+    "name": "Peroni",
+    "price": 250
+  },
+  {
+    "id": 120,
+    "category": "Birra",
+    "name": "Peroni Nastro Azzurro",
+    "price": 300
+  },
+  {
+    "id": 121,
+    "category": "Birra",
+    "name": "Schofferhofer",
+    "price": 450
+  },
+  {
+    "id": 122,
+    "category": "Birra",
+    "name": "Stella Artois",
+    "price": 300
+  },
+  {
+    "id": 123,
+    "category": "Kafeteria",
+    "name": "Caj Bio",
+    "price": 180
+  },
+  {
+    "id": 124,
+    "category": "Kafeteria",
+    "name": "Caj Bio Mix",
+    "price": 200
+  },
+  {
+    "id": 125,
+    "category": "Kafeteria",
+    "name": "Caj me Shije",
+    "price": 100
+  },
+  {
+    "id": 126,
+    "category": "Kafeteria",
+    "name": "Cokollate",
+    "price": 200
+  },
+  {
+    "id": 127,
+    "category": "Kafeteria",
+    "name": "Cokollate Dubai",
+    "price": 250
+  },
+  {
+    "id": 131,
+    "category": "Kafeteria",
+    "name": "Ekspress",
+    "price": 80
+  },
+  {
+    "id": 132,
+    "category": "Kafeteria",
+    "name": "Kafe Amerikane",
+    "price": 100
+  },
+  {
+    "id": 134,
+    "category": "Kafeteria",
+    "name": "Frappe",
+    "price": 180
+  },
+  {
+    "id": 136,
+    "category": "Kafeteria",
+    "name": "Fredo Ekspress",
+    "price": 200
+  },
+  {
+    "id": 138,
+    "category": "Kafeteria",
+    "name": "Kakao",
+    "price": 200
+  },
+  {
+    "id": 141,
+    "category": "Kafeteria",
+    "name": "Kapucino me Bustine",
+    "price": 200
+  },
+  {
+    "id": 143,
+    "category": "Kafeteria",
+    "name": "Latte Machiato",
+    "price": 150
+  },
+  {
+    "id": 144,
+    "category": "Kafeteria",
+    "name": "Makiato",
+    "price": 80
+  },
+  {
+    "id": 145,
+    "category": "Kafeteria",
+    "name": "Makiato e Madhe",
+    "price": 150
+  },
+  {
+    "id": 146,
+    "category": "Kafeteria",
+    "name": "Matcha Late",
+    "price": 180
+  },
+  {
+    "id": 150,
+    "category": "Kafeteria",
+    "name": "Salep",
+    "price": 200
+  },
+  {
+    "id": 151,
+    "category": "Pije Alkoolike",
+    "name": "Amaro Lucano",
+    "price": 350
+  },
+  {
+    "id": 152,
+    "category": "Pije Alkoolike",
+    "name": "Amaro Ramazzoti",
+    "price": 300
+  },
+  {
+    "id": 153,
+    "category": "Pije Alkoolike",
+    "name": "Aperol Spritz",
+    "price": 450
+  },
+  {
+    "id": 154,
+    "category": "Pije Alkoolike",
+    "name": "Baileys",
+    "price": 350
+  },
+  {
+    "id": 155,
+    "category": "Pije Alkoolike",
+    "name": "Bakardi Rum",
+    "price": 350
+  },
+  {
+    "id": 157,
+    "category": "Pije Alkoolike",
+    "name": "Capton Morgan",
+    "price": 350
+  },
+  {
+    "id": 158,
+    "category": "Pije Alkoolike",
+    "name": "Disarono",
+    "price": 350
+  },
+  {
+    "id": 159,
+    "category": "Pije Alkoolike",
+    "name": "Fernet Branca",
+    "price": 350
+  },
+  {
+    "id": 160,
+    "category": "Pije Alkoolike",
+    "name": "Gin Bombay",
+    "price": 350
+  },
+  {
+    "id": 161,
+    "category": "Pije Alkoolike",
+    "name": "Gin Hendricks",
+    "price": 550
+  },
+  {
+    "id": 162,
+    "category": "Pije Alkoolike",
+    "name": "Gin Mare",
+    "price": 500
+  },
+  {
+    "id": 163,
+    "category": "Pije Alkoolike",
+    "name": "Gin Nordes",
+    "price": 400
+  },
+  {
+    "id": 164,
+    "category": "Pije Alkoolike",
+    "name": "Havana Club",
+    "price": 350
+  },
+  {
+    "id": 165,
+    "category": "Pije Alkoolike",
+    "name": "Hennessy",
+    "price": 450
+  },
+  {
+    "id": 166,
+    "category": "Pije Alkoolike",
+    "name": "Jagermaister",
+    "price": 350
+  },
+  {
+    "id": 167,
+    "category": "Pije Alkoolike",
+    "name": "Jin Gordons",
+    "price": 350
+  },
+  {
+    "id": 168,
+    "category": "Pije Alkoolike",
+    "name": "Malibu",
+    "price": 400
+  },
+  {
+    "id": 169,
+    "category": "Pije Alkoolike",
+    "name": "Metaxa 5 Stars",
+    "price": 300
+  },
+  {
+    "id": 170,
+    "category": "Pije Alkoolike",
+    "name": "Metaxa 7 Stars",
+    "price": 400
+  },
+  {
+    "id": 171,
+    "category": "Pije Alkoolike",
+    "name": "Metaxa Reserve",
+    "price": 800
+  },
+  {
+    "id": 173,
+    "category": "Pije Alkoolike",
+    "name": "Amaro Montenegro",
+    "price": 350
+  },
+  {
+    "id": 174,
+    "category": "Pije Alkoolike",
+    "name": "Plomari Uzo 200ml",
+    "price": 900
+  },
+  {
+    "id": 175,
+    "category": "Pije Alkoolike",
+    "name": "Pyrat XO Reserve Rum",
+    "price": 500
+  },
+  {
+    "id": 177,
+    "category": "Pije Alkoolike",
+    "name": "Sambuka Molinari",
+    "price": 300
+  },
+  {
+    "id": 180,
+    "category": "Pije Alkoolike",
+    "name": "Tequila Sierra Gold",
+    "price": 350
+  },
+  {
+    "id": 181,
+    "category": "Pije Alkoolike",
+    "name": "Tequila Sierra Silver",
+    "price": 350
+  },
+  {
+    "id": 182,
+    "category": "Pije Alkoolike",
+    "name": "Titos Vodka",
+    "price": 350
+  },
+  {
+    "id": 183,
+    "category": "Pije Alkoolike",
+    "name": "Uzo 12",
+    "price": 350
+  },
+  {
+    "id": 184,
+    "category": "Pije Alkoolike",
+    "name": "Uzo Plomari",
+    "price": 350
+  },
+  {
+    "id": 185,
+    "category": "Pije Alkoolike",
+    "name": "Vecchia Romagna",
+    "price": 350
+  },
+  {
+    "id": 186,
+    "category": "Pije Alkoolike",
+    "name": "Vodka Absolut",
+    "price": 350
+  },
+  {
+    "id": 201,
+    "category": "Pije Alkoolike",
+    "name": "Raki",
+    "price": 150
+  },
+  {
+    "id": 202,
+    "category": "Pije Alkoolike",
+    "name": "Skenderbeu",
+    "price": 150
+  },
+  {
+    "id": 232,
+    "category": "Pije Alkoolike",
+    "name": "Vere me Gote",
+    "price": 300
+  },
+  {
+    "id": 187,
+    "category": "Whiskey",
+    "name": "Cardhu",
+    "price": 450
+  },
+  {
+    "id": 188,
+    "category": "Whiskey",
+    "name": "Chivas Regal",
+    "price": 400
+  },
+  {
+    "id": 190,
+    "category": "Whiskey",
+    "name": "Cutty Sark",
+    "price": 300
+  },
+  {
+    "id": 192,
+    "category": "Whiskey",
+    "name": "Dimple",
+    "price": 450
+  },
+  {
+    "id": 193,
+    "category": "Whiskey",
+    "name": "Famous Grouse",
+    "price": 300
+  },
+  {
+    "id": 194,
+    "category": "Whiskey",
+    "name": "Glen Grant",
+    "price": 350
+  },
+  {
+    "id": 195,
+    "category": "Whiskey",
+    "name": "Jack Daniel Single",
+    "price": 550
+  },
+  {
+    "id": 196,
+    "category": "Whiskey",
+    "name": "Jack Daniel",
+    "price": 350
+  },
+  {
+    "id": 197,
+    "category": "Whiskey",
+    "name": "JB",
+    "price": 350
+  },
+  {
+    "id": 198,
+    "category": "Whiskey",
+    "name": "Johnnie Walker",
+    "price": 350
+  },
+  {
+    "id": 199,
+    "category": "Whiskey",
+    "name": "Johnnie Walker Black",
+    "price": 450
+  },
+  {
+    "id": 200,
+    "category": "Whiskey",
+    "name": "Lagavulin",
+    "price": 800
   }
 ]

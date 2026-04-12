@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-   "image": "margarita.webp",
+    "image": "margarita.webp",
     "category": "pizza",
     "name": "Pizza Margherita",
     "description": "Salsa di pomodoro, mozzarella",
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-   "image": "proshut.webp",
+    "image": "proshut.webp",
     "category": "pizza",
     "name": "Pizza al Prosciutto",
     "description": "Salsa di pomodoro, prosciutto cotto, mozzarella",
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-   "image": "diavola.webp",
+    "image": "diavola.webp",
     "category": "pizza",
     "name": "Pizza Diavola",
     "description": "Salsa di pomodoro, salame piccante, mozzarella",
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-   "image": "proshutk.webp",
+    "image": "proshutk.webp",
     "category": "pizza",
     "name": "Pizza Prosciutto e Funghi",
     "description": "Salsa di pomodoro, prosciutto, funghi, mozzarella",
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-   "image": "logo.webp",
+    "image": "logo.webp",
     "category": "pizza",
     "name": "Pizza Prosciutto e Salame",
     "description": "Salsa di pomodoro, prosciutto, salame, mozzarella",
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-   "image": "kapricoza.webp",
+    "image": "kapricoza.webp",
     "category": "pizza",
     "name": "Pizza Capricciosa",
     "description": "Salsa di pomodoro, salame, prosciutto, funghi, peperoni, olive",
@@ -55,7 +55,7 @@
   },
   {
     "id": 7,
-   "image": "logo.webp",
+    "image": "beikon.webp",
     "category": "pizza",
     "name": "Pizza Bacon",
     "description": "Salsa di pomodoro, bacon, mozzarella, feta, pomodorini",
@@ -64,7 +64,7 @@
   },
   {
     "id": 8,
-   "image": "amerikana.webp",
+    "image": "amerikana.webp",
     "category": "pizza",
     "name": "Pizza Americana",
     "description": "Salsa di pomodoro, wurstel, patatine, mozzarella",
@@ -73,7 +73,7 @@
   },
   {
     "id": 9,
-   "image": "logo.webp",
+    "image": "pton.webp",
     "category": "pizza",
     "name": "Pizza al Tonno",
     "description": "Salsa di pomodoro, mozzarella, tonno, peperoni, olive",
@@ -82,7 +82,7 @@
   },
   {
     "id": 10,
-   "image": "alacrema.webp",
+    "image": "alacrema.webp",
     "category": "pizza",
     "name": "Pizza alla Crema",
     "description": "Panna, mozzarella, prosciutto, funghi",
@@ -91,7 +91,7 @@
   },
   {
     "id": 11,
-   "image": "rukolap.webp",
+    "image": "rukolap.webp",
     "category": "pizza",
     "name": "Pizza Rucola",
     "description": "Salsa di pomodoro, mozzarella, rucola, parmigiano, pomodorini",
@@ -100,7 +100,7 @@
   },
   {
     "id": 12,
-   "image": "vegjetariane.webp",
+    "image": "vegjetariane.webp",
     "category": "pizza",
     "name": "Pizza Vegetariana",
     "description": "Salsa di pomodoro, mozzarella, melanzane, zucchine, pomodori, funghi, olive",
@@ -109,7 +109,7 @@
   },
   {
     "id": 13,
-   "image": "4st.webp",
+    "image": "4st.webp",
     "category": "pizza",
     "name": "Pizza 4 Stagioni",
     "description": "Salsa di pomodoro, mozzarella, prosciutto, tonno, funghi, peperoni, olive",
@@ -118,7 +118,7 @@
   },
   {
     "id": 14,
-   "image": "4dj.webp",
+    "image": "4dj.webp",
     "category": "pizza",
     "name": "Pizza 4 Formaggi",
     "description": "Salsa di pomodoro, mozzarella, feta, parmigiano, gorgonzola",
@@ -127,7 +127,7 @@
   },
   {
     "id": 15,
-   "image": "speciale.webp",
+    "image": "speciale.webp",
     "category": "pizza",
     "name": "Pizza Speciale",
     "description": "Salsa di pomodoro, mozzarella, prosciutto, funghi, peperoni, olive, bacon, pomodorini",
@@ -136,7 +136,7 @@
   },
   {
     "id": 16,
-   "image": "rukolap.webp",
+    "image": "krudo.webp",
     "category": "pizza",
     "name": "Pizza Crudo",
     "description": "Salsa di pomodoro, mozzarella, prosciutto crudo, rucola, parmigiano, pomodorini",
@@ -145,7 +145,7 @@
   },
   {
     "id": 17,
-   "image": "pule.webp",
+    "image": "pule.webp",
     "category": "pizza",
     "name": "Pizza al Pollo",
     "description": "Salsa di pomodoro, mozzarella, mais, pomodorini, filetto di pollo",
@@ -154,7 +154,7 @@
   },
   {
     "id": 18,
-   "image": "logo.webp",
+    "image": "filadelfia.webp",
     "category": "pizza",
     "name": "Pizza Philadelphia",
     "description": "Salsa di pomodoro, prosciutto, philadelphia, mozzarella",
@@ -163,7 +163,7 @@
   },
   {
     "id": 19,
-   "image": "tartuff.webp",
+    "image": "tartuff.webp",
     "category": "pizza",
     "name": "Pizza Tartufo, Prosciutto e Funghi",
     "description": "Salsa di pomodoro, mozzarella, prosciutto, funghi, tartufo",
@@ -172,7 +172,7 @@
   },
   {
     "id": 20,
-   "image": "pestoch.webp",
+    "image": "pestoch.webp",
     "category": "pizza",
     "name": "Pizza Chicken Pesto",
     "description": "Salsa di pomodoro, mozzarella, pesto, pollo, pomodorini",
@@ -181,7 +181,7 @@
   },
   {
     "id": 21,
-   "image": "logo.webp",
+    "image": "bambo.webp",
     "category": "pizza",
     "name": "Pizza Bambo",
     "description": "Salsa, mozzarella, feta, pomodorini, peperoni, olive, cipolla, bacon, peperoni piccanti",
@@ -190,7 +190,7 @@
   },
   {
     "id": 22,
-   "image": "fileto.webp",
+    "image": "fileto.webp",
     "category": "secondi",
     "name": "Filetto di Pollo ai Ferri",
     "description": "Filetto di pollo alla griglia",
@@ -216,7 +216,7 @@
   },
   {
     "id": 23,
-   "image": "salce.webp",
+    "image": "salce.webp",
     "category": "secondi",
     "name": "Filetto di Pollo al Sugo",
     "description": "Filetto di pollo con salsa di pomodoro e peperoni",
@@ -242,7 +242,7 @@
   },
   {
     "id": 24,
-   "image": "gici.webp",
+    "image": "gici.webp",
     "category": "secondi",
     "name": "Filetto di Maiale ai Ferri",
     "description": "Filetto di maiale alla griglia",
@@ -268,7 +268,7 @@
   },
   {
     "id": 25,
-   "image": "llukanik.webp",
+    "image": "llukanik.webp",
     "category": "secondi",
     "name": "Salsiccia al Forno",
     "description": "Salsiccia cotta al forno",
@@ -294,7 +294,7 @@
   },
   {
     "id": 26,
-   "image": "limon.webp",
+    "image": "limon.webp",
     "category": "secondi",
     "logic_type": "double_garnish",
     "name": "Scaloppina al Vino e Limone",
@@ -321,7 +321,7 @@
   },
   {
     "id": 27,
-   "image": "panakerpudha.webp",
+    "image": "panakerpudha.webp",
     "category": "secondi",
     "logic_type": "double_garnish",
     "name": "Scaloppina Panna e Funghi",
@@ -348,7 +348,7 @@
   },
   {
     "id": 28,
-   "image": "logo.webp",
+    "image": "4dje.webp",
     "category": "secondi",
     "logic_type": "double_garnish",
     "name": "Scaloppina ai 4 Formaggi",
@@ -375,7 +375,7 @@
   },
   {
     "id": 29,
-   "image": "logo.webp",
+    "image": "omlet.webp",
     "category": "secondi",
     "name": "Omelette",
     "description": "Omelette con funghi, peperoni, formaggio",
@@ -401,7 +401,7 @@
   },
   {
     "id": 69,
-   "image": "tartuf.webp",
+    "image": "tartuf.webp",
     "category": "secondi",
     "logic_type": "double_garnish",
     "name": "Scaloppina Panna, Funghi e Tartufo",
@@ -428,7 +428,7 @@
   },
   {
     "id": 70,
-   "image": "suxhuk.webp",
+    "image": "suxhuk.webp",
     "category": "secondi",
     "name": "Salsiccia del Kosovo",
     "description": "Salsiccia tipica cotta al forno",
@@ -454,7 +454,7 @@
   },
   {
     "id": 30,
-   "image": "fshati.webp",
+    "image": "fshati.webp",
     "category": "insalate",
     "name": "Insalata del Villaggio",
     "description": "Pomodori, cetrioli, olive, peperoni, formaggio feta",
@@ -462,7 +462,7 @@
   },
   {
     "id": 31,
-   "image": "logo.webp",
+    "image": "shef.webp",
     "category": "insalate",
     "name": "Insalata dello Chef",
     "description": "Insalata verde, pomodori, cetrioli, salsa speciale, gouda, prosciutto, uova",
@@ -470,7 +470,7 @@
   },
   {
     "id": 32,
-   "image": "logo.webp",
+    "image": "tons.webp",
     "category": "insalate",
     "name": "Insalata al Tonno",
     "description": "Insalata verde, pomodori, cetrioli, tonno, maionese, gouda",
@@ -478,7 +478,7 @@
   },
   {
     "id": 33,
-   "image": "rukola.webp",
+    "image": "rukola.webp",
     "category": "insalate",
     "name": "Insalata Rucola",
     "description": "Rucola, pomodorini, mozzarella, aceto balsamico",
@@ -486,7 +486,7 @@
   },
   {
     "id": 34,
-   "image": "cezar.webp",
+    "image": "cezar.webp",
     "category": "insalate",
     "name": "Caesar Salad",
     "description": "Insalata verde, parmigiano, filetto di pollo, mais, crostini, salsa Caesar",
@@ -494,7 +494,7 @@
   },
   {
     "id": 35,
-   "image": "supe.webp",
+    "image": "supe.webp",
     "category": "zuppe",
     "name": "Vellutata di Pollo",
     "description": "Zuppa cremosa con filetto di pollo e verdure",
@@ -502,7 +502,7 @@
   },
   {
     "id": 36,
-   "image": "dite.webp",
+    "image": "dite.webp",
     "category": "zuppe",
     "name": "Zuppa del Giorno",
     "description": "Zuppa fresca del giorno",
@@ -510,7 +510,7 @@
   },
   {
     "id": 37,
-   "image": "zaferano.webp",
+    "image": "zaferano.webp",
     "category": "risotti",
     "name": "Risotto allo Zafferano e Pollo",
     "description": "Risotto con zafferano e filetto di pollo",
@@ -518,7 +518,7 @@
   },
   {
     "id": 38,
-   "image": "perimer.webp",
+    "image": "perimer.webp",
     "category": "risotti",
     "name": "Risotto alle Verdure",
     "description": "Risotto con verdure miste di stagione",
@@ -526,7 +526,7 @@
   },
   {
     "id": 39,
-   "image": "kerpudha.webp",
+    "image": "kerpudha.webp",
     "category": "risotti",
     "name": "Risotto ai Funghi",
     "description": "Risotto con funghi freschi e panna",
@@ -534,7 +534,7 @@
   },
   {
     "id": 40,
-   "image": "rtaruf.webp",
+    "image": "4djt.webp",
     "category": "risotti",
     "name": "Risotto ai 4 Formaggi",
     "description": "Risotto con 4 tipi di formaggio",
@@ -542,7 +542,7 @@
   },
   {
     "id": 41,
-   "image": "logo.webp",
+    "image": "rtartuf.webp",
     "category": "risotti",
     "name": "Risotto Funghi e Tartufo",
     "description": "Risotto con funghi, panna e tartufo",
@@ -550,7 +550,7 @@
   },
   {
     "id": 42,
-   "image": "napolitana.webp",
+    "image": "napolitana.webp",
     "category": "pasta",
     "name": "Pasta alla Napoletana",
     "description": "Pasta con salsa di pomodoro",
@@ -558,7 +558,7 @@
   },
   {
     "id": 43,
-   "image": "carbonara.webp",
+    "image": "carbonara.webp",
     "category": "pasta",
     "name": "Pasta alla Carbonara",
     "description": "Pasta con guanciale/bacon, uova e formaggio",
@@ -566,7 +566,7 @@
   },
   {
     "id": 44,
-   "image": "pesto.webp",
+    "image": "pesto.webp",
     "category": "pasta",
     "name": "Pasta al Pesto",
     "description": "Pasta con salsa al pesto",
@@ -574,7 +574,7 @@
   },
   {
     "id": 45,
-   "image": "arrabiata.webp",
+    "image": "arrabiata.webp",
     "category": "pasta",
     "name": "Pasta all'Arrabbiata",
     "description": "Pasta con salsa di pomodoro e peperoncino",
@@ -582,7 +582,7 @@
   },
   {
     "id": 46,
-   "image": "tono.webp",
+    "image": "tono.webp",
     "category": "pasta",
     "name": "Pasta Tonno, Capperi e Olive",
     "description": "Pasta con tonno, capperi e olive",
@@ -590,7 +590,7 @@
   },
   {
     "id": 47,
-   "image": "bolonjez.webp",
+    "image": "bolonjez.webp",
     "category": "pasta",
     "name": "Pasta alla Bolognese",
     "description": "Pasta con ragù di carne",
@@ -598,7 +598,7 @@
   },
   {
     "id": 48,
-   "image": "logo.webp",
+    "image": "pbambo.webp",
     "category": "pasta",
     "name": "Penne Bambo",
     "description": "Pasta al forno con prosciutto, funghi, peperoni e gouda",
@@ -606,7 +606,7 @@
   },
   {
     "id": 49,
-   "image": "sanduic.webp",
+    "image": "sanduic.webp",
     "category": "panini",
     "name": "Panino del Villaggio",
     "description": "Salame, formaggio bianco, gouda, pomodoro, maionese",
@@ -614,7 +614,7 @@
   },
   {
     "id": 50,
-   "image": "sanduic.webp",
+    "image": "sanduic.webp",
     "category": "panini",
     "name": "Panino Piccante",
     "description": "Salame piccante, gouda, maionese, pomodoro",
@@ -622,7 +622,7 @@
   },
   {
     "id": 51,
-   "image": "sanduic.webp",
+    "image": "sanduic.webp",
     "category": "panini",
     "name": "Panino Vegetariano",
     "description": "Pomodoro, peperoni, cetrioli, olive, feta, gouda, maionese",
@@ -630,7 +630,7 @@
   },
   {
     "id": 52,
-   "image": "sanduic.webp",
+    "image": "sanduic.webp",
     "category": "panini",
     "name": "Panino al Bacon",
     "description": "Bacon, salame, feta, gouda, pomodoro, olive, maionese",
@@ -638,7 +638,7 @@
   },
   {
     "id": 53,
-   "image": "sanduic.webp",
+    "image": "sanduic.webp",
     "category": "panini",
     "name": "Panino al Pollo",
     "description": "Filetto di pollo, gouda, pomodoro, maionese",
@@ -646,7 +646,7 @@
   },
   {
     "id": 54,
-   "image": "sanduic.webp",
+    "image": "sanduic.webp",
     "category": "panini",
     "name": "Panino al Tonno",
     "description": "Tonno, gouda, pomodoro, olive, maionese",
@@ -654,7 +654,7 @@
   },
   {
     "id": 55,
-   "image": "sanduic.webp",
+    "image": "sanduic.webp",
     "category": "panini",
     "name": "Panino Speciale",
     "description": "Bacon, pollo, feta, gouda, maionese, pomodoro, patatine, olive",
@@ -662,7 +662,7 @@
   },
   {
     "id": 56,
-   "image": "club.webp",
+    "image": "club.webp",
     "category": "panini",
     "name": "Club Sandwich",
     "description": "Prosciutto, insalata, maionese, formaggio, pomodoro e patatine",
@@ -670,7 +670,7 @@
   },
   {
     "id": 57,
-   "image": "djath.webp",
+    "image": "djath.webp",
     "category": "contorni",
     "name": "Formaggio Bianco",
     "description": "Formaggio bianco di pecora",
@@ -678,7 +678,7 @@
   },
   {
     "id": 58,
-   "image": "dskuqur.webp",
+    "image": "dskuqur.webp",
     "category": "contorni",
     "name": "Formaggio Fritto",
     "description": "Formaggio fritto bianco o caciocavallo",
@@ -686,7 +686,7 @@
   },
   {
     "id": 59,
-   "image": "salcekosi.webp",
+    "image": "salcekosi.webp",
     "category": "contorni",
     "name": "Salsa allo Yogurt",
     "description": "Salsa allo yogurt fresco",
@@ -694,7 +694,7 @@
   },
   {
     "id": 60,
-   "image": "skuqura.webp",
+    "image": "skuqura.webp",
     "category": "contorni",
     "name": "Patatine Fritte",
     "description": "Patatine fritte fresche",
@@ -702,7 +702,7 @@
   },
   {
     "id": 61,
-   "image": "perime.webp",
+    "image": "perime.webp",
     "category": "contorni",
     "name": "Verdure alla Griglia",
     "description": "Peperoni, melanzane, zucchine, carote",
@@ -710,7 +710,7 @@
   },
   {
     "id": 62,
-   "image": "antipast.webp",
+    "image": "antipast.webp",
     "category": "contorni",
     "name": "Antipasto Medio",
     "description": "Mix di formaggi e salumi",
@@ -718,7 +718,7 @@
   },
   {
     "id": 63,
-   "image": "antipast.webp",
+    "image": "antipast.webp",
     "category": "contorni",
     "name": "Antipasto Grande",
     "description": "Mix di formaggi e salumi",
@@ -726,15 +726,32 @@
   },
   {
     "id": 71,
-   "image": "furre.webp",
+    "image": "furre.webp",
     "category": "contorni",
     "name": "Patate al Forno",
     "description": "Patate cotte al forno",
     "price": 200
   },
   {
+    "id": 66,
+    "image": "brusketn.webp",
+    "category": "contorni",
+    "name": "Bruschetta",
+    "description": "Bruschetta con formaggio, pomodoro, olive, peperoni",
+    "price": 350,
+    "priceFamily": 650
+  },
+  {
+    "id": 66,
+    "image": "brusketa.webp",
+    "category": "contorni",
+    "name": "Bruschetta",
+    "description": "Bruschetta con formaggio, pomodoro, olive, peperoni",
+    "price": 200
+  },
+  {
     "id": 64,
-   "image": "kalcone.webp",
+    "image": "kalcone.webp",
     "category": "calzoni",
     "name": "Calzone al Prosciutto",
     "description": "Prosciutto, formaggio, salsa",
@@ -742,7 +759,7 @@
   },
   {
     "id": 65,
-   "image": "kalcone.webp",
+    "image": "kalcone.webp",
     "category": "calzoni",
     "name": "Calzone Prosciutto e Funghi",
     "description": "Prosciutto, funghi, formaggio, salsa",
@@ -750,7 +767,7 @@
   },
   {
     "id": 66,
-   "image": "kalcone.webp",
+    "image": "kalcone.webp",
     "category": "calzoni",
     "name": "Calzone Capriccioso",
     "description": "Prosciutto, peperoni, olive, formaggio, salsa",
@@ -758,7 +775,7 @@
   },
   {
     "id": 67,
-   "image": "kalcone.webp",
+    "image": "kalcone.webp",
     "category": "calzoni",
     "name": "Calzone al Pollo",
     "description": "Filetto di pollo, formaggio, salsa, pomodoro",
@@ -766,10 +783,610 @@
   },
   {
     "id": 68,
-   "image": "kalcone.webp",
+    "image": "kalcone.webp",
     "category": "calzoni",
     "name": "Calzone al Tonno",
     "description": "Tonno, formaggio, salsa, peperoni, olive",
     "price": 250
+  },
+  {
+    "id": 72,
+    "category": "Bevande analcoliche",
+    "name": "Amita",
+    "price": 190
+  },
+  {
+    "id": 73,
+    "category": "Bevande analcoliche",
+    "name": "B 52",
+    "price": 200
+  },
+  {
+    "id": 74,
+    "category": "Bevande analcoliche",
+    "name": "Bitter",
+    "price": 100
+  },
+  {
+    "id": 75,
+    "category": "Bevande analcoliche",
+    "name": "Bravo",
+    "price": 180
+  },
+  {
+    "id": 78,
+    "category": "Bevande analcoliche",
+    "name": "Coca Cola",
+    "price": 180
+  },
+  {
+    "id": 80,
+    "category": "Bevande analcoliche",
+    "name": "Crodino",
+    "price": 150
+  },
+  {
+    "id": 81,
+    "category": "Bevande analcoliche",
+    "name": "Fanta",
+    "price": 180
+  },
+  {
+    "id": 83,
+    "category": "Bevande analcoliche",
+    "name": "Acqua Naturale",
+    "price": 80
+  },
+  {
+    "id": 86,
+    "category": "Bevande analcoliche",
+    "name": "Lemon Soda",
+    "price": 180
+  },
+  {
+    "id": 87,
+    "category": "Bevande analcoliche",
+    "name": "Succo di Frutta",
+    "price": 250
+  },
+  {
+    "id": 88,
+    "category": "Bevande analcoliche",
+    "name": "Succo di Frutta Mix",
+    "price": 300
+  },
+  {
+    "id": 89,
+    "category": "Bevande analcoliche",
+    "name": "Lipton",
+    "price": 180
+  },
+  {
+    "id": 90,
+    "category": "Bevande analcoliche",
+    "name": "Milkshake",
+    "price": 190
+  },
+  {
+    "id": 91,
+    "category": "Bevande analcoliche",
+    "name": "Monin Tè",
+    "price": 180
+  },
+  {
+    "id": 92,
+    "category": "Bevande analcoliche",
+    "name": "Monin Limonata",
+    "price": 180
+  },
+  {
+    "id": 94,
+    "category": "Bevande analcoliche",
+    "name": "Orange Soda",
+    "price": 180
+  },
+  {
+    "id": 95,
+    "category": "Bevande analcoliche",
+    "name": "Pepsi",
+    "price": 180
+  },
+  {
+    "id": 96,
+    "category": "Bevande analcoliche",
+    "name": "Red Bull",
+    "price": 300
+  },
+  {
+    "id": 99,
+    "category": "Bevande analcoliche",
+    "name": "Acqua Frizzante",
+    "price": 80
+  },
+  {
+    "id": 100,
+    "category": "Bevande analcoliche",
+    "name": "Acqua Vitaminica",
+    "price": 150
+  },
+  {
+    "id": 102,
+    "category": "Bevande analcoliche",
+    "name": "Schweppes",
+    "price": 150
+  },
+  {
+    "id": 103,
+    "category": "Birre",
+    "name": "Augustiner",
+    "price": 500
+  },
+  {
+    "id": 104,
+    "category": "Birre",
+    "name": "Bavaria 0",
+    "price": 250
+  },
+  {
+    "id": 105,
+    "category": "Birre",
+    "name": "Benediktner",
+    "price": 400
+  },
+  {
+    "id": 106,
+    "category": "Birre",
+    "name": "Birra Argirocastro",
+    "price": 250
+  },
+  {
+    "id": 107,
+    "category": "Birre",
+    "name": "Birra Korça",
+    "price": 250
+  },
+  {
+    "id": 109,
+    "category": "Birre",
+    "name": "Corona",
+    "price": 350
+  },
+  {
+    "id": 110,
+    "category": "Birre",
+    "name": "Erdigner",
+    "price": 400
+  },
+  {
+    "id": 111,
+    "category": "Birre",
+    "name": "Franziskaner",
+    "price": 400
+  },
+  {
+    "id": 112,
+    "category": "Birre",
+    "name": "Heineken",
+    "price": 300
+  },
+  {
+    "id": 113,
+    "category": "Birre",
+    "name": "Kaiser Hell",
+    "price": 450
+  },
+  {
+    "id": 114,
+    "category": "Birre",
+    "name": "Latrappe",
+    "price": 500
+  },
+  {
+    "id": 115,
+    "category": "Birre",
+    "name": "Leffe",
+    "price": 400
+  },
+  {
+    "id": 116,
+    "category": "Birre",
+    "name": "Paulaner",
+    "price": 400
+  },
+  {
+    "id": 119,
+    "category": "Birre",
+    "name": "Peroni",
+    "price": 250
+  },
+  {
+    "id": 120,
+    "category": "Birre",
+    "name": "Peroni Nastro Azzurro",
+    "price": 300
+  },
+  {
+    "id": 121,
+    "category": "Birre",
+    "name": "Schöfferhofer",
+    "price": 450
+  },
+  {
+    "id": 122,
+    "category": "Birre",
+    "name": "Stella Artois",
+    "price": 300
+  },
+  {
+    "id": 123,
+    "category": "Caffetteria",
+    "name": "Tè Bio",
+    "price": 180
+  },
+  {
+    "id": 124,
+    "category": "Caffetteria",
+    "name": "Tè Bio Mix",
+    "price": 200
+  },
+  {
+    "id": 125,
+    "category": "Caffetteria",
+    "name": "Tè Aromatizzato",
+    "price": 100
+  },
+  {
+    "id": 126,
+    "category": "Caffetteria",
+    "name": "Cioccolata",
+    "price": 200
+  },
+  {
+    "id": 127,
+    "category": "Caffetteria",
+    "name": "Cioccolato Dubai",
+    "price": 250
+  },
+  {
+    "id": 131,
+    "category": "Caffetteria",
+    "name": "Espresso",
+    "price": 80
+  },
+  {
+    "id": 132,
+    "category": "Caffetteria",
+    "name": "Caffè Americano",
+    "price": 100
+  },
+  {
+    "id": 134,
+    "category": "Caffetteria",
+    "name": "Frappé",
+    "price": 180
+  },
+  {
+    "id": 136,
+    "category": "Caffetteria",
+    "name": "Freddo Espresso",
+    "price": 200
+  },
+  {
+    "id": 138,
+    "category": "Caffetteria",
+    "name": "Cacao",
+    "price": 200
+  },
+  {
+    "id": 141,
+    "category": "Caffetteria",
+    "name": "Cappuccino in bustina",
+    "price": 200
+  },
+  {
+    "id": 143,
+    "category": "Caffetteria",
+    "name": "Latte Macchiato",
+    "price": 150
+  },
+  {
+    "id": 144,
+    "category": "Caffetteria",
+    "name": "Macchiato",
+    "price": 80
+  },
+  {
+    "id": 145,
+    "category": "Caffetteria",
+    "name": "Macchiato Grande",
+    "price": 150
+  },
+  {
+    "id": 146,
+    "category": "Caffetteria",
+    "name": "Matcha Latte",
+    "price": 180
+  },
+  {
+    "id": 150,
+    "category": "Caffetteria",
+    "name": "Salep",
+    "price": 200
+  },
+  {
+    "id": 151,
+    "category": "Alcolici",
+    "name": "Amaro Lucano",
+    "price": 350
+  },
+  {
+    "id": 152,
+    "category": "Alcolici",
+    "name": "Amaro Ramazzotti",
+    "price": 300
+  },
+  {
+    "id": 153,
+    "category": "Alcolici",
+    "name": "Aperol Spritz",
+    "price": 450
+  },
+  {
+    "id": 154,
+    "category": "Alcolici",
+    "name": "Baileys",
+    "price": 350
+  },
+  {
+    "id": 155,
+    "category": "Alcolici",
+    "name": "Bacardi Rum",
+    "price": 350
+  },
+  {
+    "id": 157,
+    "category": "Alcolici",
+    "name": "Captain Morgan",
+    "price": 350
+  },
+  {
+    "id": 158,
+    "category": "Alcolici",
+    "name": "Disaronno",
+    "price": 350
+  },
+  {
+    "id": 159,
+    "category": "Alcolici",
+    "name": "Fernet Branca",
+    "price": 350
+  },
+  {
+    "id": 160,
+    "category": "Alcolici",
+    "name": "Gin Bombay",
+    "price": 350
+  },
+  {
+    "id": 161,
+    "category": "Alcolici",
+    "name": "Gin Hendrick's",
+    "price": 550
+  },
+  {
+    "id": 162,
+    "category": "Alcolici",
+    "name": "Gin Mare",
+    "price": 500
+  },
+  {
+    "id": 163,
+    "category": "Alcolici",
+    "name": "Gin Nordés",
+    "price": 400
+  },
+  {
+    "id": 164,
+    "category": "Alcolici",
+    "name": "Havana Club",
+    "price": 350
+  },
+  {
+    "id": 165,
+    "category": "Alcolici",
+    "name": "Hennessy",
+    "price": 450
+  },
+  {
+    "id": 166,
+    "category": "Alcolici",
+    "name": "Jägermeister",
+    "price": 350
+  },
+  {
+    "id": 167,
+    "category": "Alcolici",
+    "name": "Gin Gordon's",
+    "price": 350
+  },
+  {
+    "id": 168,
+    "category": "Alcolici",
+    "name": "Malibu",
+    "price": 400
+  },
+  {
+    "id": 169,
+    "category": "Alcolici",
+    "name": "Metaxa 5 Stelle",
+    "price": 300
+  },
+  {
+    "id": 170,
+    "category": "Alcolici",
+    "name": "Metaxa 7 Stelle",
+    "price": 400
+  },
+  {
+    "id": 171,
+    "category": "Alcolici",
+    "name": "Metaxa Reserve",
+    "price": 800
+  },
+  {
+    "id": 173,
+    "category": "Alcolici",
+    "name": "Amaro Montenegro",
+    "price": 350
+  },
+  {
+    "id": 174,
+    "category": "Alcolici",
+    "name": "Ouzo Plomari 200ml",
+    "price": 900
+  },
+  {
+    "id": 175,
+    "category": "Alcolici",
+    "name": "Pyrat XO Reserve Rum",
+    "price": 500
+  },
+  {
+    "id": 177,
+    "category": "Alcolici",
+    "name": "Sambuca Molinari",
+    "price": 300
+  },
+  {
+    "id": 180,
+    "category": "Alcolici",
+    "name": "Tequila Sierra Gold",
+    "price": 350
+  },
+  {
+    "id": 181,
+    "category": "Alcolici",
+    "name": "Tequila Sierra Silver",
+    "price": 350
+  },
+  {
+    "id": 182,
+    "category": "Alcolici",
+    "name": "Tito's Vodka",
+    "price": 350
+  },
+  {
+    "id": 183,
+    "category": "Alcolici",
+    "name": "Ouzo 12",
+    "price": 350
+  },
+  {
+    "id": 184,
+    "category": "Alcolici",
+    "name": "Ouzo Plomari",
+    "price": 350
+  },
+  {
+    "id": 185,
+    "category": "Alcolici",
+    "name": "Vecchia Romagna",
+    "price": 350
+  },
+  {
+    "id": 186,
+    "category": "Alcolici",
+    "name": "Vodka Absolut",
+    "price": 350
+  },
+  {
+    "id": 201,
+    "category": "Alcolici",
+    "name": "Raki",
+    "price": 150
+  },
+  {
+    "id": 202,
+    "category": "Alcolici",
+    "name": "Skënderbeu (Brandy)",
+    "price": 150
+  },
+  {
+    "id": 232,
+    "category": "Alcolici",
+    "name": "Vino al calice",
+    "price": 300
+  },
+  {
+    "id": 187,
+    "category": "Whiskey",
+    "name": "Cardhu",
+    "price": 450
+  },
+  {
+    "id": 188,
+    "category": "Whiskey",
+    "name": "Chivas Regal",
+    "price": 400
+  },
+  {
+    "id": 190,
+    "category": "Whiskey",
+    "name": "Cutty Sark",
+    "price": 300
+  },
+  {
+    "id": 192,
+    "category": "Whiskey",
+    "name": "Dimple",
+    "price": 450
+  },
+  {
+    "id": 193,
+    "category": "Whiskey",
+    "name": "Famous Grouse",
+    "price": 300
+  },
+  {
+    "id": 194,
+    "category": "Whiskey",
+    "name": "Glen Grant",
+    "price": 350
+  },
+  {
+    "id": 195,
+    "category": "Whiskey",
+    "name": "Jack Daniel's Single Barrel",
+    "price": 550
+  },
+  {
+    "id": 196,
+    "category": "Whiskey",
+    "name": "Jack Daniel's",
+    "price": 350
+  },
+  {
+    "id": 197,
+    "category": "Whiskey",
+    "name": "J&B",
+    "price": 350
+  },
+  {
+    "id": 198,
+    "category": "Whiskey",
+    "name": "Johnnie Walker",
+    "price": 350
+  },
+  {
+    "id": 199,
+    "category": "Whiskey",
+    "name": "Johnnie Walker Black",
+    "price": 450
+  },
+  {
+    "id": 200,
+    "category": "Whiskey",
+    "name": "Lagavulin",
+    "price": 800
   }
 ]
