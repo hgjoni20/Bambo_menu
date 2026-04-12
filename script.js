@@ -1,4 +1,4 @@
-/*if ('serviceWorker' in navigator) {
+if ('serviceWorker' in navigator) {
   // Regjistrimi me 'updateViaCache: none' që të marrim ndryshimet nga GitHub menjëherë
   navigator.serviceWorker.register('./service-worker.js', {
     updateViaCache: 'none' 
@@ -9,7 +9,7 @@
   }).catch(err => {
     console.error('Gabim gjatë regjistrimit të SW:', err);
   });
-}*/
+}
 
 
 let currentLang = "sq";
