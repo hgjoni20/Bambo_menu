@@ -400,7 +400,7 @@
     ]
   },
   {
-    "id": 69,
+    "id": 30,
     "image": "tartuf.webp",
     "category": "mains",
     "logic_type": "double_garnish",
@@ -427,7 +427,7 @@
     ]
   },
   {
-    "id": 70,
+    "id": 31,
     "image": "suxhuk.webp",
     "category": "mains",
     "name": "Kosovo Sausage",
@@ -453,7 +453,7 @@
     ]
   },
   {
-    "id": 30,
+    "id": 32,
     "image": "fshati.webp",
     "category": "salads",
     "name": "Village Salad",
@@ -461,7 +461,7 @@
     "price": 280
   },
   {
-    "id": 31,
+    "id": 33,
     "image": "shef.webp",
     "category": "salads",
     "name": "Chef Salad",
@@ -469,7 +469,7 @@
     "price": 350
   },
   {
-    "id": 32,
+    "id": 34,
     "image": "tons.webp",
     "category": "salads",
     "name": "Tuna Salad",
@@ -477,7 +477,7 @@
     "price": 350
   },
   {
-    "id": 33,
+    "id": 35,
     "image": "rukola.webp",
     "category": "salads",
     "name": "Arugula Salad",
@@ -485,7 +485,7 @@
     "price": 380
   },
   {
-    "id": 34,
+    "id": 36,
     "image": "cezar.webp",
     "category": "salads",
     "name": "Caesar Salad",
@@ -493,7 +493,7 @@
     "price": 420
   },
   {
-    "id": 35,
+    "id": 37,
     "image": "supe.webp",
     "category": "soups",
     "name": "Chicken Cream Soup",
@@ -501,7 +501,7 @@
     "price": 250
   },
   {
-    "id": 36,
+    "id": 38,
     "image": "dite.webp",
     "category": "soups",
     "name": "Soup of the Day",
@@ -509,7 +509,7 @@
     "price": 250
   },
   {
-    "id": 37,
+    "id": 39,
     "image": "zaferano.webp",
     "category": "risotto",
     "name": "Saffron Chicken Risotto",
@@ -517,7 +517,7 @@
     "price": 380
   },
   {
-    "id": 38,
+    "id": 40,
     "image": "perimer.webp",
     "category": "risotto",
     "name": "Vegetable Risotto",
@@ -525,7 +525,7 @@
     "price": 380
   },
   {
-    "id": 39,
+    "id": 41,
     "image": "kerpudha.webp",
     "category": "risotto",
     "name": "Mushroom Risotto",
@@ -533,7 +533,7 @@
     "price": 380
   },
   {
-    "id": 40,
+    "id": 42,
     "image": "4djt.webp",
     "category": "risotto",
     "name": "4 Cheese Risotto",
@@ -541,7 +541,7 @@
     "price": 380
   },
   {
-    "id": 41,
+    "id": 43,
     "image": "rtartuf.webp",
     "category": "risotto",
     "name": "Mushroom Truffle Cream Risotto",
@@ -549,7 +549,7 @@
     "price": 400
   },
   {
-    "id": 42,
+    "id": 44,
     "image": "napolitana.webp",
     "category": "pasta",
     "name": "Neapolitan Pasta",
@@ -557,7 +557,7 @@
     "price": 300
   },
   {
-    "id": 43,
+    "id": 45,
     "image": "carbonara.webp",
     "category": "pasta",
     "name": "Pasta Carbonara",
@@ -565,7 +565,7 @@
     "price": 380
   },
   {
-    "id": 44,
+    "id": 46,
     "image": "pesto.webp",
     "category": "pasta",
     "name": "Pesto Pasta",
@@ -573,7 +573,7 @@
     "price": 350
   },
   {
-    "id": 45,
+    "id": 47,
     "image": "arrabiata.webp",
     "category": "pasta",
     "name": "Pasta Arrabiata",
@@ -581,7 +581,7 @@
     "price": 300
   },
   {
-    "id": 46,
+    "id": 48,
     "image": "tono.webp",
     "category": "pasta",
     "name": "Pasta Tuna - Capers - Olives",
@@ -589,7 +589,7 @@
     "price": 400
   },
   {
-    "id": 47,
+    "id": 49,
     "image": "bolonjez.webp",
     "category": "pasta",
     "name": "Pasta Bolognese",
@@ -597,7 +597,7 @@
     "price": 400
   },
   {
-    "id": 48,
+    "id": 50,
     "image": "pbambo.webp",
     "category": "pasta",
     "name": "Penne Bambo",
@@ -605,7 +605,7 @@
     "price": 420
   },
   {
-    "id": 49,
+    "id": 51,
     "image": "sanduic.webp",
     "category": "sandwich",
     "name": "Village Sandwich",
@@ -613,7 +613,7 @@
     "price": 180
   },
   {
-    "id": 50,
+    "id": 52,
     "image": "sanduic.webp",
     "category": "sandwich",
     "name": "Spicy Sandwich",
@@ -621,7 +621,7 @@
     "price": 180
   },
   {
-    "id": 51,
+    "id": 53,
     "image": "sanduic.webp",
     "category": "sandwich",
     "name": "Vegetarian Sandwich",
@@ -629,7 +629,7 @@
     "price": 180
   },
   {
-    "id": 52,
+    "id": 54,
     "image": "sanduic.webp",
     "category": "sandwich",
     "name": "Bacon Sandwich",
@@ -637,7 +637,7 @@
     "price": 220
   },
   {
-    "id": 53,
+    "id": 55,
     "image": "sanduic.webp",
     "category": "sandwich",
     "name": "Chicken Sandwich",
@@ -645,7 +645,7 @@
     "price": 220
   },
   {
-    "id": 54,
+    "id": 56,
     "image": "sanduic.webp",
     "category": "sandwich",
     "name": "Tuna Sandwich",
@@ -653,7 +653,7 @@
     "price": 220
   },
   {
-    "id": 55,
+    "id": 57,
     "image": "sanduic.webp",
     "category": "sandwich",
     "name": "Special Sandwich",
@@ -661,7 +661,7 @@
     "price": 250
   },
   {
-    "id": 56,
+    "id": 58,
     "image": "club.webp",
     "category": "sandwich",
     "name": "Club Sandwich",
@@ -669,7 +669,7 @@
     "price": 350
   },
   {
-    "id": 57,
+    "id": 59,
     "image": "djath.webp",
     "category": "sides",
     "name": "Feta Cheese Plate",
@@ -677,7 +677,7 @@
     "price": 200
   },
   {
-    "id": 58,
+    "id": 60,
     "image": "dskuqur.webp",
     "category": "sides",
     "name": "Fried Cheese",
@@ -685,7 +685,7 @@
     "price": 250
   },
   {
-    "id": 59,
+    "id": 61,
     "image": "salcekosi.webp",
     "category": "sides",
     "name": "Yogurt Sauce",
@@ -693,7 +693,7 @@
     "price": 150
   },
   {
-    "id": 60,
+    "id": 62,
     "image": "skuqura.webp",
     "category": "sides",
     "name": "French Fries",
@@ -701,7 +701,7 @@
     "price": 180
   },
   {
-    "id": 61,
+    "id": 63,
     "image": "perime.webp",
     "category": "sides",
     "name": "Grilled Vegetables",
@@ -709,7 +709,7 @@
     "price": 280
   },
   {
-    "id": 62,
+    "id": 64,
     "image": "antipast.webp",
     "category": "sides",
     "name": "Medium Antipasto",
@@ -717,7 +717,7 @@
     "price": 600
   },
   {
-    "id": 63,
+    "id": 65,
     "image": "antipast.webp",
     "category": "sides",
     "name": "Large Antipasto",
@@ -725,7 +725,7 @@
     "price": 1000
   },
   {
-    "id": 71,
+    "id": 66,
     "image": "furre.webp",
     "category": "sides",
     "name": "Baked Potatoes",
@@ -733,7 +733,7 @@
     "price": 200
   },
    {
-    "id": 66,
+    "id": 67,
     "image": "brusketn.webp",
     "category": "sides",
     "name": "Bruschetta",
@@ -742,7 +742,7 @@
     "priceFamily": 650
   },
   {
-    "id": 66,
+    "id": 68,
     "image": "brusketa.webp",
     "category": "sides",
     "name": "Bruschetta",
@@ -750,7 +750,7 @@
     "price": 200
   },
   {
-    "id": 64,
+    "id": 69,
     "image": "kalcone.webp",
     "category": "calzone",
     "name": "Ham Calzone",
@@ -758,7 +758,7 @@
     "price": 200
   },
   {
-    "id": 65,
+    "id": 70,
     "image": "kalcone.webp",
     "category": "calzone",
     "name": "Ham & Mushroom Calzone",
@@ -766,7 +766,7 @@
     "price": 220
   },
   {
-    "id": 66,
+    "id": 71,
     "image": "kalcone.webp",
     "category": "calzone",
     "name": "Capricciosa Calzone",
@@ -774,7 +774,7 @@
     "price": 250
   },
   {
-    "id": 67,
+    "id": 72,
     "image": "kalcone.webp",
     "category": "calzone",
     "name": "Chicken Calzone",
@@ -782,7 +782,7 @@
     "price": 250
   },
   {
-    "id": 68,
+    "id": 73,
     "image": "kalcone.webp",
     "category": "calzone",
     "name": "Tuna Calzone",
@@ -790,25 +790,25 @@
     "price": 250
   },
   {
-    "id": 72,
+    "id": 74,
     "category": "Soft Drinks",
     "name": "Amita",
     "price": 190
   },
   {
-    "id": 73,
+    "id": 75,
     "category": "Soft Drinks",
     "name": "B 52",
     "price": 200
   },
   {
-    "id": 74,
+    "id": 76,
     "category": "Soft Drinks",
     "name": "Bitter",
     "price": 100
   },
   {
-    "id": 75,
+    "id": 77,
     "category": "Soft Drinks",
     "name": "Bravo",
     "price": 180
@@ -820,571 +820,571 @@
     "price": 180
   },
   {
-    "id": 80,
+    "id": 79,
     "category": "Soft Drinks",
     "name": "Crodino",
     "price": 150
   },
   {
-    "id": 81,
+    "id": 80,
     "category": "Soft Drinks",
     "name": "Fanta",
     "price": 180
   },
   {
-    "id": 83,
+    "id": 81,
     "category": "Soft Drinks",
     "name": "Still Water",
     "price": 80
   },
   {
-    "id": 86,
+    "id": 82,
     "category": "Soft Drinks",
     "name": "Lemon Soda",
     "price": 180
   },
   {
-    "id": 87,
+    "id": 83,
     "category": "Soft Drinks",
     "name": "Fruit Juice",
     "price": 250
   },
   {
-    "id": 88,
+    "id": 84,
     "category": "Soft Drinks",
     "name": "Mixed Fruit Juice",
     "price": 300
   },
   {
-    "id": 89,
+    "id": 85,
     "category": "Soft Drinks",
     "name": "Lipton",
     "price": 180
   },
   {
-    "id": 90,
+    "id": 86,
     "category": "Soft Drinks",
     "name": "Milkshake",
     "price": 190
   },
   {
-    "id": 91,
+    "id": 87,
     "category": "Soft Drinks",
     "name": "Monin Tea",
     "price": 180
   },
   {
-    "id": 92,
+    "id": 88,
     "category": "Soft Drinks",
     "name": "Monin Lemonade",
     "price": 180
   },
   {
-    "id": 94,
+    "id": 89,
     "category": "Soft Drinks",
     "name": "Orange Soda",
     "price": 180
   },
   {
-    "id": 95,
+    "id": 90,
     "category": "Soft Drinks",
     "name": "Pepsi",
     "price": 180
   },
   {
-    "id": 96,
+    "id": 91,
     "category": "Soft Drinks",
     "name": "Red Bull",
     "price": 300
   },
   {
-    "id": 99,
+    "id": 92,
     "category": "Soft Drinks",
     "name": "Sparkling Water",
     "price": 80
   },
   {
-    "id": 100,
+    "id": 93,
     "category": "Soft Drinks",
     "name": "Vitamin Water",
     "price": 150
   },
   {
-    "id": 102,
+    "id": 94,
     "category": "Soft Drinks",
     "name": "Schweppes",
     "price": 150
   },
   {
-    "id": 103,
+    "id": 95,
     "category": "Beer",
     "name": "Augustiner",
     "price": 500
   },
   {
-    "id": 104,
+    "id": 96,
     "category": "Beer",
     "name": "Bavaria 0%",
     "price": 250
   },
   {
-    "id": 105,
+    "id": 97,
     "category": "Beer",
     "name": "Benediktiner",
     "price": 400
   },
   {
-    "id": 106,
+    "id": 98,
     "category": "Beer",
     "name": "Gjirokastra Beer",
     "price": 250
   },
   {
-    "id": 107,
+    "id": 99,
     "category": "Beer",
     "name": "Korca Beer",
     "price": 250
   },
   {
-    "id": 109,
+    "id": 100,
     "category": "Beer",
     "name": "Corona",
     "price": 350
   },
   {
-    "id": 110,
+    "id": 101,
     "category": "Beer",
     "name": "Erdigner",
     "price": 400
   },
   {
-    "id": 111,
+    "id": 102,
     "category": "Beer",
     "name": "Franziskaner",
     "price": 400
   },
   {
-    "id": 112,
+    "id": 103,
     "category": "Beer",
     "name": "Heineken",
     "price": 300
   },
   {
-    "id": 113,
+    "id": 104,
     "category": "Beer",
     "name": "Kaiser Hell",
     "price": 450
   },
   {
-    "id": 114,
+    "id": 105,
     "category": "Beer",
     "name": "Latrappe",
     "price": 500
   },
   {
-    "id": 115,
+    "id": 106,
     "category": "Beer",
     "name": "Leffe",
     "price": 400
   },
   {
-    "id": 116,
+    "id": 107,
     "category": "Beer",
     "name": "Paulaner",
     "price": 400
   },
   {
-    "id": 119,
+    "id": 108,
     "category": "Beer",
     "name": "Peroni",
     "price": 250
   },
   {
-    "id": 120,
+    "id": 109,
     "category": "Beer",
     "name": "Peroni Nastro Azzurro",
     "price": 300
   },
   {
-    "id": 121,
+    "id": 110,
     "category": "Beer",
     "name": "Schofferhofer",
     "price": 450
   },
   {
-    "id": 122,
+    "id": 111,
     "category": "Beer",
     "name": "Stella Artois",
     "price": 300
   },
   {
-    "id": 123,
+    "id": 112,
     "category": "Cafeteria",
     "name": "Organic Tea",
     "price": 180
   },
   {
-    "id": 124,
+    "id": 113,
     "category": "Cafeteria",
     "name": "Mixed Organic Tea",
     "price": 200
   },
   {
-    "id": 125,
+    "id": 114,
     "category": "Cafeteria",
     "name": "Flavored Tea",
     "price": 100
   },
   {
-    "id": 126,
+    "id": 115,
     "category": "Cafeteria",
     "name": "Hot Chocolate",
     "price": 200
   },
   {
-    "id": 127,
+    "id": 116,
     "category": "Cafeteria",
     "name": "Dubai Chocolate",
     "price": 250
   },
   {
-    "id": 131,
+    "id": 1417,
     "category": "Cafeteria",
     "name": "Espresso",
     "price": 80
   },
   {
-    "id": 132,
+    "id": 118,
     "category": "Cafeteria",
     "name": "American Coffee",
     "price": 100
   },
   {
-    "id": 134,
+    "id": 119,
     "category": "Cafeteria",
     "name": "Frappe",
     "price": 180
   },
   {
-    "id": 136,
+    "id": 120,
     "category": "Cafeteria",
     "name": "Freddo Espresso",
     "price": 200
   },
   {
-    "id": 138,
+    "id": 121,
     "category": "Cafeteria",
     "name": "Cocoa",
     "price": 200
   },
   {
-    "id": 141,
+    "id": 122,
     "category": "Cafeteria",
     "name": "Instant Cappuccino",
     "price": 200
   },
   {
-    "id": 143,
+    "id": 123,
     "category": "Cafeteria",
     "name": "Latte Macchiato",
     "price": 150
   },
   {
-    "id": 144,
+    "id": 124,
     "category": "Cafeteria",
     "name": "Macchiato",
     "price": 80
   },
   {
-    "id": 145,
+    "id": 125,
     "category": "Cafeteria",
     "name": "Large Macchiato",
     "price": 150
   },
   {
-    "id": 146,
+    "id": 126,
     "category": "Cafeteria",
     "name": "Matcha Latte",
     "price": 180
   },
   {
-    "id": 150,
+    "id": 127,
     "category": "Cafeteria",
     "name": "Salep",
     "price": 200
   },
   {
-    "id": 151,
+    "id": 128,
     "category": "Alcoholic Drinks",
     "name": "Amaro Lucano",
     "price": 350
   },
   {
-    "id": 152,
+    "id": 129,
     "category": "Alcoholic Drinks",
     "name": "Amaro Ramazzotti",
     "price": 300
   },
   {
-    "id": 153,
+    "id": 130,
     "category": "Alcoholic Drinks",
     "name": "Aperol Spritz",
     "price": 450
   },
   {
-    "id": 154,
+    "id": 131,
     "category": "Alcoholic Drinks",
     "name": "Baileys",
     "price": 350
   },
   {
-    "id": 155,
+    "id": 132,
     "category": "Alcoholic Drinks",
     "name": "Bacardi Rum",
     "price": 350
   },
   {
-    "id": 157,
+    "id": 133,
     "category": "Alcoholic Drinks",
     "name": "Captain Morgan",
     "price": 350
   },
   {
-    "id": 158,
+    "id": 134,
     "category": "Alcoholic Drinks",
     "name": "Disaronno",
     "price": 350
   },
   {
-    "id": 159,
+    "id": 135,
     "category": "Alcoholic Drinks",
     "name": "Fernet Branca",
     "price": 350
   },
   {
-    "id": 160,
+    "id": 136,
     "category": "Alcoholic Drinks",
     "name": "Bombay Gin",
     "price": 350
   },
   {
-    "id": 161,
+    "id": 137,
     "category": "Alcoholic Drinks",
     "name": "Hendrick's Gin",
     "price": 550
   },
   {
-    "id": 162,
+    "id": 138,
     "category": "Alcoholic Drinks",
     "name": "Gin Mare",
     "price": 500
   },
   {
-    "id": 163,
+    "id": 139,
     "category": "Alcoholic Drinks",
     "name": "Nordes Gin",
     "price": 400
   },
   {
-    "id": 164,
+    "id": 140,
     "category": "Alcoholic Drinks",
     "name": "Havana Club",
     "price": 350
   },
   {
-    "id": 165,
+    "id": 141,
     "category": "Alcoholic Drinks",
     "name": "Hennessy",
     "price": 450
   },
   {
-    "id": 166,
+    "id": 142,
     "category": "Alcoholic Drinks",
     "name": "Jagermeister",
     "price": 350
   },
   {
-    "id": 167,
+    "id": 143,
     "category": "Alcoholic Drinks",
     "name": "Gordon's Gin",
     "price": 350
   },
   {
-    "id": 168,
+    "id": 144,
     "category": "Alcoholic Drinks",
     "name": "Malibu",
     "price": 400
   },
   {
-    "id": 169,
+    "id": 145,
     "category": "Alcoholic Drinks",
     "name": "Metaxa 5 Stars",
     "price": 300
   },
   {
-    "id": 170,
+    "id": 146,
     "category": "Alcoholic Drinks",
     "name": "Metaxa 7 Stars",
     "price": 400
   },
   {
-    "id": 171,
+    "id": 147,
     "category": "Alcoholic Drinks",
     "name": "Metaxa Reserve",
     "price": 800
   },
   {
-    "id": 173,
+    "id": 148,
     "category": "Alcoholic Drinks",
     "name": "Amaro Montenegro",
     "price": 350
   },
   {
-    "id": 174,
+    "id": 149,
     "category": "Alcoholic Drinks",
     "name": "Plomari Ouzo 200ml",
     "price": 900
   },
   {
-    "id": 175,
+    "id": 150,
     "category": "Alcoholic Drinks",
     "name": "Pyrat XO Reserve Rum",
     "price": 500
   },
   {
-    "id": 177,
+    "id": 151,
     "category": "Alcoholic Drinks",
     "name": "Molinari Sambuca",
     "price": 300
   },
   {
-    "id": 180,
+    "id": 152,
     "category": "Alcoholic Drinks",
     "name": "Tequila Sierra Gold",
     "price": 350
   },
   {
-    "id": 181,
+    "id": 153,
     "category": "Alcoholic Drinks",
     "name": "Tequila Sierra Silver",
     "price": 350
   },
   {
-    "id": 182,
+    "id": 154,
     "category": "Alcoholic Drinks",
     "name": "Tito's Vodka",
     "price": 350
   },
   {
-    "id": 183,
+    "id": 155,
     "category": "Alcoholic Drinks",
     "name": "Ouzo 12",
     "price": 350
   },
   {
-    "id": 184,
+    "id": 156,
     "category": "Alcoholic Drinks",
     "name": "Plomari Ouzo",
     "price": 350
   },
   {
-    "id": 185,
+    "id": 157,
     "category": "Alcoholic Drinks",
     "name": "Vecchia Romagna",
     "price": 350
   },
   {
-    "id": 186,
+    "id": 158,
     "category": "Alcoholic Drinks",
     "name": "Absolut Vodka",
     "price": 350
   },
   {
-    "id": 201,
+    "id": 159,
     "category": "Alcoholic Drinks",
     "name": "Raki",
     "price": 150
   },
   {
-    "id": 202,
+    "id": 160,
     "category": "Alcoholic Drinks",
     "name": "Skenderbeu Brandy",
     "price": 150
   },
   {
-    "id": 232,
+    "id": 161,
     "category": "Alcoholic Drinks",
     "name": "Wine by the Glass",
     "price": 300
   },
   {
-    "id": 187,
+    "id": 162,
     "category": "Whiskey",
     "name": "Cardhu",
     "price": 450
   },
   {
-    "id": 188,
+    "id": 163,
     "category": "Whiskey",
     "name": "Chivas Regal",
     "price": 400
   },
   {
-    "id": 190,
+    "id": 164,
     "category": "Whiskey",
     "name": "Cutty Sark",
     "price": 300
   },
   {
-    "id": 192,
+    "id": 165,
     "category": "Whiskey",
     "name": "Dimple",
     "price": 450
   },
   {
-    "id": 193,
+    "id": 166,
     "category": "Whiskey",
     "name": "Famous Grouse",
     "price": 300
   },
   {
-    "id": 194,
+    "id": 167,
     "category": "Whiskey",
     "name": "Glen Grant",
     "price": 350
   },
   {
-    "id": 195,
+    "id": 168,
     "category": "Whiskey",
     "name": "Jack Daniel's Single Barrel",
     "price": 550
   },
   {
-    "id": 196,
+    "id": 169,
     "category": "Whiskey",
     "name": "Jack Daniel's",
     "price": 350
   },
   {
-    "id": 197,
+    "id": 170,
     "category": "Whiskey",
     "name": "J&B",
     "price": 350
   },
   {
-    "id": 198,
+    "id": 171,
     "category": "Whiskey",
     "name": "Johnnie Walker",
     "price": 350
   },
   {
-    "id": 199,
+    "id": 172,
     "category": "Whiskey",
     "name": "Johnnie Walker Black Label",
     "price": 450
   },
   {
-    "id": 200,
+    "id": 173,
     "category": "Whiskey",
     "name": "Lagavulin",
     "price": 800

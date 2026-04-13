@@ -400,7 +400,7 @@
     ]
   },
   {
-    "id": 69,
+    "id": 30,
     "image": "tartuf.webp",
     "category": "secondi",
     "logic_type": "double_garnish",
@@ -427,7 +427,7 @@
     ]
   },
   {
-    "id": 70,
+    "id": 31,
     "image": "suxhuk.webp",
     "category": "secondi",
     "name": "Salsiccia del Kosovo",
@@ -453,7 +453,7 @@
     ]
   },
   {
-    "id": 30,
+    "id": 32,
     "image": "fshati.webp",
     "category": "insalate",
     "name": "Insalata del Villaggio",
@@ -461,7 +461,7 @@
     "price": 280
   },
   {
-    "id": 31,
+    "id": 33,
     "image": "shef.webp",
     "category": "insalate",
     "name": "Insalata dello Chef",
@@ -469,7 +469,7 @@
     "price": 350
   },
   {
-    "id": 32,
+    "id": 34,
     "image": "tons.webp",
     "category": "insalate",
     "name": "Insalata al Tonno",
@@ -477,7 +477,7 @@
     "price": 350
   },
   {
-    "id": 33,
+    "id": 35,
     "image": "rukola.webp",
     "category": "insalate",
     "name": "Insalata Rucola",
@@ -485,7 +485,7 @@
     "price": 380
   },
   {
-    "id": 34,
+    "id": 36,
     "image": "cezar.webp",
     "category": "insalate",
     "name": "Caesar Salad",
@@ -493,7 +493,7 @@
     "price": 420
   },
   {
-    "id": 35,
+    "id": 37,
     "image": "supe.webp",
     "category": "zuppe",
     "name": "Vellutata di Pollo",
@@ -501,7 +501,7 @@
     "price": 250
   },
   {
-    "id": 36,
+    "id": 38,
     "image": "dite.webp",
     "category": "zuppe",
     "name": "Zuppa del Giorno",
@@ -509,7 +509,7 @@
     "price": 250
   },
   {
-    "id": 37,
+    "id": 39,
     "image": "zaferano.webp",
     "category": "risotti",
     "name": "Risotto allo Zafferano e Pollo",
@@ -517,7 +517,7 @@
     "price": 380
   },
   {
-    "id": 38,
+    "id": 40,
     "image": "perimer.webp",
     "category": "risotti",
     "name": "Risotto alle Verdure",
@@ -525,7 +525,7 @@
     "price": 380
   },
   {
-    "id": 39,
+    "id": 41,
     "image": "kerpudha.webp",
     "category": "risotti",
     "name": "Risotto ai Funghi",
@@ -533,7 +533,7 @@
     "price": 380
   },
   {
-    "id": 40,
+    "id": 42,
     "image": "4djt.webp",
     "category": "risotti",
     "name": "Risotto ai 4 Formaggi",

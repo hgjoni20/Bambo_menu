@@ -1,9 +1,7 @@
 if ('serviceWorker' in navigator) {
-  // Regjistrimi me 'updateViaCache: none' që të marrim ndryshimet nga GitHub menjëherë
   navigator.serviceWorker.register('./service-worker.js', {
     updateViaCache: 'none' 
   }).then(reg => {
-    // I themi browser-it: "Shko kontrollo te GitHub nese ka version te ri"
     reg.update(); 
     console.log('Service Worker u regjistrua pa Cache! Scope:', reg.scope);
   }).catch(err => {
@@ -11,12 +9,11 @@ if ('serviceWorker' in navigator) {
   });
 }
 
-
 let currentLang = "sq";
 let currentCategory = "all"; 
 let products = [];
 
-// 1. Ngarkimi i Menu-së
+// 1. Ngarkimi i Menu-së (Përditësuar me Scroll)
 function loadMenu(lang) {
   currentLang = lang;
   fetch(`data/${lang}.json`)
@@ -25,11 +22,26 @@ function loadMenu(lang) {
       products = data; 
       renderCategories();
       renderProducts();
+      
+      // Bëjmë scroll kur ndryshon gjuha (pa bërë reload faqen)
+      scrollToProducts();
     })
     .catch(err => console.error("Gabim gjatë ngarkimit:", err));
 }
 
 loadMenu(currentLang);
+
+// Funksion i përbashkët për Scroll që ta përdorim në disa vende
+function scrollToProducts() {
+  const productsContainer = document.getElementById("products");
+  if (productsContainer) {
+    const offset = productsContainer.offsetTop - 130; 
+    window.scrollTo({
+      top: offset,
+      behavior: 'smooth'
+    });
+  }
+}
 
 // 2. Gjenerimi i Kategorive
 function renderCategories() {
@@ -49,6 +61,9 @@ function renderCategories() {
 function filterCategory(cat) {
   currentCategory = cat;
   renderProducts();
+  
+  // Thërrasim funksionin e scroll-it edhe këtu
+  scrollToProducts();
 }
 
 // 3. Shfaqja e Produkteve
@@ -65,7 +80,6 @@ function renderProducts() {
     const card = document.createElement("div");
     card.className = "card";
     
-    // INTEGRIMI I LOGJIKËS: Ruajmë tipin e logjikës në një atribut HTML
     if (p.logic_type) {
       card.setAttribute('data-logic', p.logic_type);
     }
@@ -142,11 +156,9 @@ function updateGarnishPrice(el) {
   refreshTotalPrice(el.closest('.card'));
 }
 
-
 function refreshTotalPrice(card) {
   const basePrice = parseInt(card.querySelector('.price').getAttribute('data-base-price'));
   const selectedGarnishes = [...card.querySelectorAll('.garnish-card.selected')];
-  
   
   const logicType = card.getAttribute('data-logic'); 
   
@@ -154,7 +166,6 @@ function refreshTotalPrice(card) {
   selectedGarnishes.forEach((g, idx) => {
     let p = parseInt(g.getAttribute('data-price')) || 0;
 
-    
     if (idx === 1 && logicType === 'double_garnish') { 
       p = p * 2; 
     }
@@ -170,7 +181,10 @@ function changeLanguage(lang) {
   const placeholders = { sq: 'Kërko ushqimin...', en: 'Search food...', it: 'Cerca cibo...' };
   const searchInput = document.getElementById('menuSearch');
   if (searchInput) searchInput.placeholder = placeholders[lang];
+  
+  // Këtu thërrasim loadMenu që do të bëjë edhe scroll-in
   loadMenu(lang);
+  
   const menu = document.getElementById('languageOptions');
   if (menu) menu.classList.remove('show');
 }
@@ -188,7 +202,6 @@ function toggleLanguages() {
   if (menu) menu.classList.toggle('show');
 }
 
-// Scroll Button
 window.onscroll = function() {
   let btn = document.getElementById("backToTop");
   if (!btn) return;
