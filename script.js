@@ -13,8 +13,8 @@ let currentLang = "sq";
 let currentCategory = "all"; 
 let products = [];
 
-// 1. Ngarkimi i Menu-së (Përditësuar me Scroll)
-function loadMenu(lang) {
+// 1. Ngarkimi i Menu-së (Shtojmë parametrin shouldScroll)
+function loadMenu(lang, shouldScroll = false) {
   currentLang = lang;
   fetch(`data/${lang}.json`)
     .then(res => res.json())
@@ -23,15 +23,17 @@ function loadMenu(lang) {
       renderCategories();
       renderProducts();
       
-      // Bëjmë scroll kur ndryshon gjuha (pa bërë reload faqen)
-      scrollToProducts();
+      // Bëjmë scroll VETËM nëse shouldScroll është true
+      if (shouldScroll) {
+        scrollToProducts();
+      }
     })
     .catch(err => console.error("Gabim gjatë ngarkimit:", err));
 }
 
+// Ngarkimi fillestar (shouldScroll lihet false automatikisht)
 loadMenu(currentLang);
 
-// Funksion i përbashkët për Scroll që ta përdorim në disa vende
 function scrollToProducts() {
   const productsContainer = document.getElementById("products");
   if (productsContainer) {
@@ -61,9 +63,7 @@ function renderCategories() {
 function filterCategory(cat) {
   currentCategory = cat;
   renderProducts();
-  
-  // Thërrasim funksionin e scroll-it edhe këtu
-  scrollToProducts();
+  scrollToProducts(); // Kategoritë gjithmonë bëjnë scroll
 }
 
 // 3. Shfaqja e Produkteve
@@ -182,8 +182,8 @@ function changeLanguage(lang) {
   const searchInput = document.getElementById('menuSearch');
   if (searchInput) searchInput.placeholder = placeholders[lang];
   
-  // Këtu thërrasim loadMenu që do të bëjë edhe scroll-in
-  loadMenu(lang);
+  // Këtu kalojmë 'true' që të ndodhë scroll-i kur ndërrohet gjuha
+  loadMenu(lang, true);
   
   const menu = document.getElementById('languageOptions');
   if (menu) menu.classList.remove('show');
